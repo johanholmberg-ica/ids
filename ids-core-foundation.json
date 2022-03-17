@@ -402,6 +402,10 @@
             "type": "color"
           }
         }
+      },
+      "New": {
+        "value": "{Color.Brand.Green.Mid}",
+        "type": "color"
       }
     },
     "Font-Family": {

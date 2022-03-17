@@ -402,10 +402,6 @@
             "type": "color"
           }
         }
-      },
-      "New": {
-        "value": "{Color.Brand.Green.Mid}",
-        "type": "color"
       }
     },
     "Font-Family": {
@@ -721,6 +717,12 @@
         "value": "4",
         "type": "borderWidth"
       }
+    }
+  },
+  "NewSet": {
+    "NewColor": {
+      "value": "{Color.Brand.Green.Mid}",
+      "type": "color"
     }
   }
 }

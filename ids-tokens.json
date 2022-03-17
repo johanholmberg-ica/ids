@@ -897,7 +897,7 @@
         "Preamble": {
           "value": {
             "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Text.Light}",
+            "fontWeight": "{Font-Weight.Light}",
             "lineHeight": "{Line-Height.Text.Preamble}",
             "fontSize": "{Font-Size.Text.Preamble}",
             "letterSpacing": "{Letter-Spacing.None}",
@@ -911,7 +911,7 @@
         "Preamble-S": {
           "value": {
             "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Text.Light}",
+            "fontWeight": "{Font-Weight.Light}",
             "lineHeight": "{Line-Height.Text.Preamble-S}",
             "fontSize": "{Font-Size.Text.Preamble-S}",
             "letterSpacing": "{Letter-Spacing.None}",
@@ -925,7 +925,7 @@
         "Default": {
           "value": {
             "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Text.Regular}",
+            "fontWeight": "{Font-Weight.Regular}",
             "lineHeight": "{Line-Height.Text.Default}",
             "fontSize": "{Font-Size.Text.Default}",
             "letterSpacing": "{Letter-Spacing.None}",
@@ -939,7 +939,7 @@
         "S": {
           "value": {
             "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Text.Regular}",
+            "fontWeight": "{Font-Weight.Regular}",
             "lineHeight": "{Line-Height.Text.S}",
             "fontSize": "{Font-Size.Text.S}",
             "letterSpacing": "{Letter-Spacing.None}",
@@ -953,7 +953,7 @@
         "XS": {
           "value": {
             "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Text.Regular}",
+            "fontWeight": "{Font-Weight.Regular}",
             "lineHeight": "{Line-Height.Text.XS}",
             "fontSize": "{Font-Size.Text.XS}",
             "letterSpacing": "{Letter-Spacing.None}",
@@ -967,7 +967,7 @@
         "2XS": {
           "value": {
             "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Text.Regular}",
+            "fontWeight": "{Font-Weight.Regular}",
             "lineHeight": "{Line-Height.Text.2XS}",
             "fontSize": "{Font-Size.Text.2XS}",
             "letterSpacing": "{Letter-Spacing.None}",
@@ -982,7 +982,7 @@
           "Preamble": {
             "value": {
               "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Text.Light}",
+              "fontWeight": "{Font-Weight.Light}",
               "lineHeight": "{Line-Height.Text.BP-L.Preamble}",
               "fontSize": "{Font-Size.Text.BP-L.Preamble}",
               "letterSpacing": "{Letter-Spacing.None}",
@@ -996,7 +996,7 @@
           "Preamble-S": {
             "value": {
               "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Text.Light}",
+              "fontWeight": "{Font-Weight.Light}",
               "lineHeight": "{Line-Height.Text.BP-L.Preamble-S}",
               "fontSize": "{Font-Size.Text.BP-L.Preamble-S}",
               "letterSpacing": "{Letter-Spacing.None}",
@@ -1094,6 +1094,96 @@
             },
             "type": "typography",
             "description": "Large prefix typography set on small screens."
+          }
+        }
+      }
+    },
+    "Font-Size": {
+      "Heading": {
+        "H1": {
+          "value": "{Font-Size.3XL}",
+          "type": "fontSizes"
+        },
+        "H2": {
+          "value": "{Font-Size.2XL}",
+          "type": "fontSizes"
+        },
+        "H3": {
+          "value": "{Font-Size.XL}",
+          "type": "fontSizes"
+        },
+        "H4": {
+          "value": "{Font-Size.L}",
+          "type": "fontSizes"
+        },
+        "H5": {
+          "value": "{Font-Size.M}",
+          "type": "fontSizes"
+        },
+        "H6": {
+          "value": "{Font-Size.S}",
+          "type": "fontSizes"
+        },
+        "BP-L": {
+          "H1": {
+            "value": "{Font-Size.4XL}",
+            "type": "fontSizes"
+          },
+          "H2": {
+            "value": "{Font-Size.3XL}",
+            "type": "fontSizes"
+          },
+          "H3": {
+            "value": "{Font-Size.2XL}",
+            "type": "fontSizes"
+          },
+          "H4": {
+            "value": "{Font-Size.XL}",
+            "type": "fontSizes"
+          },
+          "H5": {
+            "value": "{Font-Size.L}",
+            "type": "fontSizes"
+          },
+          "H6": {
+            "value": "{Font-Size.M}",
+            "type": "fontSizes"
+          }
+        }
+      },
+      "Text": {
+        "Preamble": {
+          "value": "{Font-Size.M}",
+          "type": "fontSizes"
+        },
+        "Preamble-S": {
+          "value": "{Font-Size.S}",
+          "type": "fontSizes"
+        },
+        "Default": {
+          "value": "{Font-Size.S}",
+          "type": "fontSizes"
+        },
+        "S": {
+          "value": "{Font-Size.XS}",
+          "type": "fontSizes"
+        },
+        "XS": {
+          "value": "{Font-Size.2XS}",
+          "type": "fontSizes"
+        },
+        "2XS": {
+          "value": "{Font-Size.3XS}",
+          "type": "fontSizes"
+        },
+        "BP-L": {
+          "Preamble": {
+            "value": "{Font-Size.L}",
+            "type": "fontSizes"
+          },
+          "Preamble-S": {
+            "value": "{Font-Size.M}",
+            "type": "fontSizes"
           }
         }
       }

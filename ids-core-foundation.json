@@ -718,11 +718,5 @@
         "type": "borderWidth"
       }
     }
-  },
-  "NewSet": {
-    "NewColor": {
-      "value": "{Color.Brand.Green.Mid}",
-      "type": "color"
-    }
   }
 }

@@ -1013,7 +1013,7 @@
         "S": {
           "value": {
             "fontFamily": "{Font-Family.ICA-Hand}",
-            "fontWeight": "{Font-Weight.Prefix.Regular}",
+            "fontWeight": "{Font-Weight.Regular}",
             "lineHeight": "{Line-Height.S}",
             "fontSize": "{Font-Size.S}",
             "letterSpacing": "{Letter-Spacing.None}",
@@ -1027,7 +1027,7 @@
         "M": {
           "value": {
             "fontFamily": "{Font-Family.ICA-Hand}",
-            "fontWeight": "{Font-Weight.Prefix.Regular}",
+            "fontWeight": "{Font-Weight.Regular}",
             "lineHeight": "{Line-Height.M}",
             "fontSize": "{Font-Size.M}",
             "letterSpacing": "{Letter-Spacing.None}",
@@ -1041,7 +1041,7 @@
         "L": {
           "value": {
             "fontFamily": "{Font-Family.ICA-Hand}",
-            "fontWeight": "{Font-Weight.Prefix.Regular}",
+            "fontWeight": "{Font-Weight.Regular}",
             "lineHeight": "{Line-Height.L}",
             "fontSize": "{Font-Size.L}",
             "letterSpacing": "{Letter-Spacing.None}",
@@ -1056,7 +1056,7 @@
           "S": {
             "value": {
               "fontFamily": "{Font-Family.ICA-Hand}",
-              "fontWeight": "{Font-Weight.Prefix.Regular}",
+              "fontWeight": "{Font-Weight.Regular}",
               "lineHeight": "{Line-Height.M}",
               "fontSize": "{Font-Size.M}",
               "letterSpacing": "{Letter-Spacing.None}",
@@ -1070,7 +1070,7 @@
           "M": {
             "value": {
               "fontFamily": "{Font-Family.ICA-Hand}",
-              "fontWeight": "{Font-Weight.Prefix.Regular}",
+              "fontWeight": "{Font-Weight.Regular}",
               "lineHeight": "{Line-Height.L}",
               "fontSize": "{Font-Size.L}",
               "letterSpacing": "{Letter-Spacing.None}",
@@ -1084,7 +1084,7 @@
           "L": {
             "value": {
               "fontFamily": "{Font-Family.ICA-Hand}",
-              "fontWeight": "{Font-Weight.Prefix.Regular}",
+              "fontWeight": "{Font-Weight.Regular}",
               "lineHeight": "{Line-Height.XL}",
               "fontSize": "{Font-Size.XL}",
               "letterSpacing": "{Letter-Spacing.None}",

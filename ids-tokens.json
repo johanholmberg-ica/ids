@@ -402,6 +402,222 @@
             "type": "color"
           }
         }
+      },
+      "Button": {
+        "Primary": {
+          "Background": {
+            "Default": {
+              "value": "#e13205",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.Brand.Pink.Light}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{Color.Brand.Red.Dark}",
+              "type": "color"
+            },
+            "Disabled": {
+              "value": "{Color.Brand.Grey.Special}",
+              "type": "color"
+            },
+            "Focus": {
+              "value": "{Color.Brand.Pink.Light}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Color.Brand.Red.Dark}",
+              "type": "color"
+            },
+            "Selected": {
+              "value": "{Color.Accessibility.Confirm}",
+              "type": "color"
+            }
+          },
+          "Text": {
+            "Default": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Disabled": {
+              "value": "{Color.Brand.Grey.Light}",
+              "type": "color"
+            },
+            "Focus": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Selected": {
+              "value": "{Color.White}",
+              "type": "color"
+            }
+          }
+        },
+        "Secondary": {
+          "Background": {
+            "Default": {
+              "value": "#fcece7",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.Brand.Pink.Light}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{Color.Brand.Red.Dark}",
+              "type": "color"
+            },
+            "Disabled": {
+              "value": "{Color.Brand.Grey.Special}",
+              "type": "color"
+            },
+            "Focus": {
+              "value": "{Color.Brand.Pink.Light}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Color.Brand.Red.Dark}",
+              "type": "color"
+            },
+            "Selected": {
+              "value": "{Color.Accessibility.Confirm}",
+              "type": "color"
+            }
+          },
+          "Text": {
+            "Default": {
+              "value": "#cf2e05",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Disabled": {
+              "value": "{Color.Brand.Grey.Light}",
+              "type": "color"
+            },
+            "Focus": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Selected": {
+              "value": "{Color.White}",
+              "type": "color"
+            }
+          }
+        },
+        "Tertiary": {
+          "Background": {
+            "Default": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.Brand.Pink.Light}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{Color.Brand.Red.Dark}",
+              "type": "color"
+            },
+            "Disabled": {
+              "value": "{Color.Brand.Grey.Special}",
+              "type": "color"
+            },
+            "Focus": {
+              "value": "{Color.Brand.Pink.Light}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Color.Brand.Red.Dark}",
+              "type": "color"
+            },
+            "Selected": {
+              "value": "{Color.Accessibility.Confirm}",
+              "type": "color"
+            }
+          },
+          "Text": {
+            "Default": {
+              "value": "#cf2e05",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Disabled": {
+              "value": "{Color.Brand.Grey.Light}",
+              "type": "color"
+            },
+            "Focus": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Selected": {
+              "value": "{Color.White}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "Hyperlink": {
+        "Default": {
+          "value": "#cf2e05",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{Color.Brand.Pink.Light}",
+          "type": "color"
+        },
+        "Active": {
+          "value": "{Color.Brand.Red.Dark}",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "{Color.Brand.Grey.Light}",
+          "type": "color"
+        },
+        "Focus": {
+          "value": "{Color.Brand.Pink.Light}",
+          "type": "color"
+        }
+      },
+      "Accessibility": {
+        "Confirm": {
+          "value": "#008933",
+          "type": "color"
+        }
       }
     },
     "Font-Family": {
@@ -716,6 +932,226 @@
       "L": {
         "value": "4",
         "type": "borderWidth"
+      }
+    }
+  },
+  "Foundation Dark": {
+    "Color": {
+      "Button": {
+        "Primary": {
+          "Background": {
+            "Default": {
+              "value": "{Color.Brand.ICA}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.Brand.Pink.Light}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "#5B0000",
+              "type": "color"
+            },
+            "Disabled": {
+              "value": "#2E1F1F",
+              "type": "color"
+            },
+            "Focus": {
+              "value": "{Color.Brand.Pink.Light}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "#5B0000",
+              "type": "color"
+            },
+            "Selected": {
+              "value": "{Color.Accessibility.Confirm}",
+              "type": "color"
+            }
+          },
+          "Text": {
+            "Default": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Disabled": {
+              "value": "#6B4848",
+              "type": "color"
+            },
+            "Focus": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Selected": {
+              "value": "{Color.White}",
+              "type": "color"
+            }
+          }
+        },
+        "Secondary": {
+          "Background": {
+            "Default": {
+              "value": "{Color.Brand.Red.Special}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.Brand.Pink.Light}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "#5B0000",
+              "type": "color"
+            },
+            "Disabled": {
+              "value": "#2E1F1F",
+              "type": "color"
+            },
+            "Focus": {
+              "value": "{Color.Brand.Pink.Light}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "#5B0000",
+              "type": "color"
+            },
+            "Selected": {
+              "value": "{Color.Accessibility.Confirm}",
+              "type": "color"
+            }
+          },
+          "Text": {
+            "Default": {
+              "value": "{Color.Brand.ICA}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Disabled": {
+              "value": "#6B4848",
+              "type": "color"
+            },
+            "Focus": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Selected": {
+              "value": "{Color.White}",
+              "type": "color"
+            }
+          }
+        },
+        "Tertiary": {
+          "Background": {
+            "Default": {
+              "value": "{Color.Brand.Red.Special}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.Brand.Pink.Light}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "#5B0000",
+              "type": "color"
+            },
+            "Disabled": {
+              "value": "#2E1F1F",
+              "type": "color"
+            },
+            "Focus": {
+              "value": "{Color.Brand.Pink.Light}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "#5B0000",
+              "type": "color"
+            },
+            "Selected": {
+              "value": "{Color.Accessibility.Confirm}",
+              "type": "color"
+            }
+          },
+          "Text": {
+            "Default": {
+              "value": "{Color.Brand.ICA}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Disabled": {
+              "value": "#6B4848",
+              "type": "color"
+            },
+            "Focus": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Selected": {
+              "value": "{Color.White}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "Hyperlink": {
+        "Default": {
+          "value": "#cf2e05",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{Color.Brand.Pink.Light}",
+          "type": "color"
+        },
+        "Active": {
+          "value": "{Color.Brand.Red.Dark}",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "{Color.Brand.Grey.Light}",
+          "type": "color"
+        },
+        "Focus": {
+          "value": "{Color.Brand.Pink.Light}",
+          "type": "color"
+        }
+      },
+      "Accessibility": {
+        "Confirm": {
+          "value": "#008933",
+          "type": "color"
+        }
       }
     }
   },

@@ -921,16 +921,20 @@
       }
     },
     "Size": {
-      "3XS": {
+      "4XS": {
         "value": "16",
         "type": "sizing"
       },
-      "2XS": {
+      "3XS": {
         "value": "20",
         "type": "sizing"
       },
-      "XS": {
+      "2XS": {
         "value": "24",
+        "type": "sizing"
+      },
+      "XS": {
+        "value": "28",
         "type": "sizing"
       },
       "S": {
@@ -964,18 +968,12 @@
       "Button": {
         "XS": {
           "Height": {
-            "value": "{Size.XS}",
+            "value": "{Size.2XS}",
             "type": "sizing"
           },
           "Icon": {
             "value": "{Line-Height.Button.XS}",
             "type": "sizing"
-          },
-          "Icon-Only": {
-            "Width": {
-              "value": "{Size.XS}",
-              "type": "sizing"
-            }
           }
         },
         "S": {
@@ -986,12 +984,6 @@
           "Icon": {
             "value": "{Line-Height.Button.S}",
             "type": "sizing"
-          },
-          "Icon-Only": {
-            "Width": {
-              "value": "{Size.S}",
-              "type": "sizing"
-            }
           }
         },
         "M": {
@@ -1002,12 +994,6 @@
           "Icon": {
             "value": "{Line-Height.Button.M}",
             "type": "sizing"
-          },
-          "Icon-Only": {
-            "Width": {
-              "value": "{Size.M}",
-              "type": "sizing"
-            }
           }
         },
         "L": {
@@ -1018,12 +1004,6 @@
           "Icon": {
             "value": "{Line-Height.Button.L}",
             "type": "sizing"
-          },
-          "Icon-Only": {
-            "Width": {
-              "value": "{Size.L}",
-              "type": "sizing"
-            }
           }
         },
         "XL": {
@@ -1034,12 +1014,58 @@
           "Icon": {
             "value": "{Line-Height.Button.XL}",
             "type": "sizing"
+          }
+        }
+      },
+      "Circle-Button": {
+        "XS": {
+          "Circle": {
+            "value": "{Size.2XS}",
+            "type": "sizing"
           },
-          "Icon-Only": {
-            "Width": {
-              "value": "{Size.XL}",
-              "type": "sizing"
-            }
+          "Icon": {
+            "value": "{Size.4XS}",
+            "type": "sizing"
+          }
+        },
+        "S": {
+          "Circle": {
+            "value": "{Size.S}",
+            "type": "sizing"
+          },
+          "Icon": {
+            "value": "{Size.3XS}",
+            "type": "sizing"
+          }
+        },
+        "M": {
+          "Circle": {
+            "value": "{Size.M}",
+            "type": "sizing"
+          },
+          "Icon": {
+            "value": "{Size.2XS}",
+            "type": "sizing"
+          }
+        },
+        "L": {
+          "Circle": {
+            "value": "{Size.L}",
+            "type": "sizing"
+          },
+          "Icon": {
+            "value": "{Size.XS}",
+            "type": "sizing"
+          }
+        },
+        "XL": {
+          "Circle": {
+            "value": "{Size.XL}",
+            "type": "sizing"
+          },
+          "Icon": {
+            "value": "{Size.S}",
+            "type": "sizing"
           }
         }
       }

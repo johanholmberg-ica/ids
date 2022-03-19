@@ -531,61 +531,61 @@
         "Tertiary": {
           "Background": {
             "Default": {
-              "value": "{Color.White}",
+              "value": "rgba({Color.White}, 0)",
               "type": "color"
             },
             "Hover": {
-              "value": "{Color.Brand.Pink.Light}",
+              "value": "rgba({Color.White}, 0)",
               "type": "color"
             },
             "Active": {
-              "value": "{Color.Brand.Red.Dark}",
+              "value": "rgba({Color.White}, 0)",
               "type": "color"
             },
             "Disabled": {
-              "value": "{Color.Brand.Grey.Special}",
+              "value": "rgba({Color.White}, 0)",
               "type": "color"
             },
             "Focus": {
-              "value": "{Color.Brand.Pink.Light}",
+              "value": "rgba({Color.White}, 0)",
               "type": "color"
             },
             "Pressed": {
-              "value": "{Color.Brand.Red.Dark}",
+              "value": "rgba({Color.White}, 0)",
               "type": "color"
             },
             "Selected": {
-              "value": "{Color.Accessibility.Confirm}",
+              "value": "rgba({Color.White}, 0)",
               "type": "color"
             }
           },
           "Text": {
             "Default": {
-              "value": "#cf2e05",
+              "value": "{Color.Hyperlink.Default}",
               "type": "color"
             },
             "Hover": {
-              "value": "{Color.White}",
+              "value": "{Color.Hyperlink.Hover}",
               "type": "color"
             },
             "Active": {
-              "value": "{Color.White}",
+              "value": "{Color.Hyperlink.Active}",
               "type": "color"
             },
             "Disabled": {
-              "value": "{Color.Brand.Grey.Light}",
+              "value": "{Color.Hyperlink.Disabled}",
               "type": "color"
             },
             "Focus": {
-              "value": "{Color.White}",
+              "value": "{Color.Hyperlink.Focus}",
               "type": "color"
             },
             "Pressed": {
-              "value": "{Color.White}",
+              "value": "{Color.Hyperlink.Active}",
               "type": "color"
             },
             "Selected": {
-              "value": "{Color.White}",
+              "value": "{Color.Accessibility.Confirm}",
               "type": "color"
             }
           }
@@ -617,6 +617,80 @@
         "Confirm": {
           "value": "#008933",
           "type": "color"
+        }
+      }
+    },
+    "Typography": {
+      "Button": {
+        "XS": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.Button.XS}",
+            "fontSize": "{Font-Size.Button.XS}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "XSmall Button typography set."
+        },
+        "S": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.Button.S}",
+            "fontSize": "{Font-Size.Button.S}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Small Button typography set."
+        },
+        "M": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.Button.M}",
+            "fontSize": "{Font-Size.Button.M}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Medium Button typography set."
+        },
+        "L": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.Button.L}",
+            "fontSize": "{Font-Size.Button.L}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Large Button typography set."
+        },
+        "XL": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.Button.XL}",
+            "fontSize": "{Font-Size.Button.XL}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "XLarge Button typography set."
         }
       }
     },
@@ -692,6 +766,28 @@
       "4XL": {
         "value": "64",
         "type": "fontSizes"
+      },
+      "Button": {
+        "XS": {
+          "value": "{Font-Size.2XS}",
+          "type": "fontSizes"
+        },
+        "S": {
+          "value": "{Font-Size.XS}",
+          "type": "fontSizes"
+        },
+        "M": {
+          "value": "{Font-Size.S}",
+          "type": "fontSizes"
+        },
+        "L": {
+          "value": "{Font-Size.S}",
+          "type": "fontSizes"
+        },
+        "XL": {
+          "value": "{Font-Size.M}",
+          "type": "fontSizes"
+        }
       }
     },
     "Font-Weight": {
@@ -756,6 +852,28 @@
       "4XL": {
         "value": "72",
         "type": "lineHeights"
+      },
+      "Button": {
+        "XS": {
+          "value": "{Line-Height.2XS}",
+          "type": "lineHeights"
+        },
+        "S": {
+          "value": "{Line-Height.XS}",
+          "type": "lineHeights"
+        },
+        "M": {
+          "value": "{Line-Height.S}",
+          "type": "lineHeights"
+        },
+        "L": {
+          "value": "{Line-Height.S}",
+          "type": "lineHeights"
+        },
+        "XL": {
+          "value": "{Line-Height.M}",
+          "type": "lineHeights"
+        }
       }
     },
     "Letter-Spacing": {
@@ -842,6 +960,88 @@
       "4XL": {
         "value": "80",
         "type": "sizing"
+      },
+      "Button": {
+        "XS": {
+          "Height": {
+            "value": "{Size.XS}",
+            "type": "sizing"
+          },
+          "Icon": {
+            "value": "{Line-Height.Button.XS}",
+            "type": "sizing"
+          },
+          "Icon-Only": {
+            "Width": {
+              "value": "{Size.XS}",
+              "type": "sizing"
+            }
+          }
+        },
+        "S": {
+          "Height": {
+            "value": "{Size.S}",
+            "type": "sizing"
+          },
+          "Icon": {
+            "value": "{Line-Height.Button.S}",
+            "type": "sizing"
+          },
+          "Icon-Only": {
+            "Width": {
+              "value": "{Size.S}",
+              "type": "sizing"
+            }
+          }
+        },
+        "M": {
+          "Height": {
+            "value": "{Size.M}",
+            "type": "sizing"
+          },
+          "Icon": {
+            "value": "{Line-Height.Button.M}",
+            "type": "sizing"
+          },
+          "Icon-Only": {
+            "Width": {
+              "value": "{Size.M}",
+              "type": "sizing"
+            }
+          }
+        },
+        "L": {
+          "Height": {
+            "value": "{Size.L}",
+            "type": "sizing"
+          },
+          "Icon": {
+            "value": "{Line-Height.Button.L}",
+            "type": "sizing"
+          },
+          "Icon-Only": {
+            "Width": {
+              "value": "{Size.L}",
+              "type": "sizing"
+            }
+          }
+        },
+        "XL": {
+          "Height": {
+            "value": "{Size.XL}",
+            "type": "sizing"
+          },
+          "Icon": {
+            "value": "{Line-Height.Button.XL}",
+            "type": "sizing"
+          },
+          "Icon-Only": {
+            "Width": {
+              "value": "{Size.XL}",
+              "type": "sizing"
+            }
+          }
+        }
       }
     },
     "Spacing": {
@@ -892,6 +1092,58 @@
       "4XL": {
         "value": "56",
         "type": "spacing"
+      },
+      "Button": {
+        "XS": {
+          "Gap": {
+            "value": "{Spacing.3XS}",
+            "type": "spacing"
+          },
+          "Padding-Horizontal": {
+            "value": "{Spacing.XS}",
+            "type": "spacing"
+          }
+        },
+        "S": {
+          "Gap": {
+            "value": "{Spacing.3XS}",
+            "type": "spacing"
+          },
+          "Padding-Horizontal": {
+            "value": "{Spacing.S}",
+            "type": "spacing"
+          }
+        },
+        "M": {
+          "Gap": {
+            "value": "{Spacing.3XS}",
+            "type": "spacing"
+          },
+          "Padding-Horizontal": {
+            "value": "{Spacing.M}",
+            "type": "spacing"
+          }
+        },
+        "L": {
+          "Gap": {
+            "value": "{Spacing.3XS}",
+            "type": "spacing"
+          },
+          "Padding-Horizontal": {
+            "value": "{Spacing.L}",
+            "type": "spacing"
+          }
+        },
+        "XL": {
+          "Gap": {
+            "value": "{Spacing.2XS}",
+            "type": "spacing"
+          },
+          "Padding-Horizontal": {
+            "value": "{Spacing.XL}",
+            "type": "spacing"
+          }
+        }
       }
     },
     "Border-Radius": {

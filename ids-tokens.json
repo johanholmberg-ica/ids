@@ -1991,6 +1991,30 @@
           }
         }
       }
+    },
+    "Size": {
+      "Avatar-Button": {
+        "Height": {
+          "value": "{Size.S}",
+          "type": "sizing"
+        },
+        "Icon": {
+          "value": "{Line-Height.Button.S}",
+          "type": "sizing"
+        }
+      }
+    },
+    "Spacing": {
+      "Avatar-Button": {
+        "Gap": {
+          "value": "{Spacing.3XS}",
+          "type": "spacing"
+        },
+        "Padding-Horizontal": {
+          "value": "{Spacing.S}",
+          "type": "spacing"
+        }
+      }
     }
   }
 }

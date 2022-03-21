@@ -1434,6 +1434,66 @@
     }
   },
   "ICA.se": {
+    "Color": {
+      "Alert": {
+        "Info": {
+          "Background": {
+            "value": "{Color.Monochrome.Purple.Bottom}",
+            "type": "color"
+          },
+          "Foreground": {
+            "value": "{Color.Monochrome.Purple.Top}",
+            "type": "color"
+          },
+          "Border": {
+            "value": "{Color.Brand.Purple.Light}",
+            "type": "color"
+          }
+        },
+        "Success": {
+          "Background": {
+            "value": "{Color.Monochrome.Green.Bottom}",
+            "type": "color"
+          },
+          "Foreground": {
+            "value": "{Color.Monochrome.Green.Top}",
+            "type": "color"
+          },
+          "Border": {
+            "value": "{Color.Brand.Green.Light}",
+            "type": "color"
+          }
+        },
+        "Warning": {
+          "Background": {
+            "value": "{Color.Brand.Yellow.Lightest}",
+            "type": "color"
+          },
+          "Foreground": {
+            "value": "{Color.Brand.Orange.Dark}",
+            "type": "color"
+          },
+          "Border": {
+            "value": "{Color.Brand.Orange.Light}",
+            "type": "color"
+          }
+        },
+        "Error": {
+          "Background": {
+            "value": "{Color.Monochrome.Red.Bottom}",
+            "type": "color"
+          },
+          "Foreground": {
+            "value": "{Color.Brand.Red.Mid}",
+            "type": "color"
+          },
+          "Border": {
+            "value": "{Color.Brand.Red.Light}",
+            "type": "color"
+          }
+        }
+      }
+    },
     "Typography": {
       "Heading": {
         "H1": {
@@ -1636,7 +1696,7 @@
           "type": "typography",
           "description": "Small Preamble typography set on small screens."
         },
-        "Default": {
+        "Standard": {
           "value": {
             "fontFamily": "{Font-Family.ICA-Text-Ny}",
             "fontWeight": "{Font-Weight.Regular}",
@@ -1648,7 +1708,7 @@
             "textCase": "{Text-Case.None}"
           },
           "type": "typography",
-          "description": "Default Text. typography set on small screens."
+          "description": "Default typography set on all breakpoints."
         },
         "S": {
           "value": {
@@ -1809,6 +1869,36 @@
             "type": "typography",
             "description": "Large prefix typography set on small screens."
           }
+        }
+      },
+      "Alert": {
+        "Title": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.Text.Default}",
+            "fontSize": "{Font-Size.Text.Default}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Default typography set on all breakpoints."
+        },
+        "Message": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Regular}",
+            "lineHeight": "{Line-Height.Text.Default}",
+            "fontSize": "{Font-Size.Text.Default}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Default typography set on all breakpoints."
         }
       }
     },
@@ -2002,6 +2092,12 @@
           "value": "{Line-Height.Button.S}",
           "type": "sizing"
         }
+      },
+      "Alert": {
+        "Icon": {
+          "value": "{Line-Height.Text.Default}",
+          "type": "sizing"
+        }
       }
     },
     "Spacing": {
@@ -2013,6 +2109,24 @@
         "Padding-Horizontal": {
           "value": "{Spacing.S}",
           "type": "spacing"
+        }
+      },
+      "Alert": {
+        "Content-Container": {
+          "Padding": {
+            "value": "{Spacing.2XS}",
+            "type": "spacing"
+          }
+        },
+        "Message-Container": {
+          "Gap": {
+            "value": "{Spacing.2XS}",
+            "type": "spacing"
+          },
+          "Padding": {
+            "value": "{Spacing.2XS}",
+            "type": "spacing"
+          }
         }
       }
     }

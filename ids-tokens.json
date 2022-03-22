@@ -1062,6 +1062,20 @@
             "type": "color"
           }
         }
+      },
+      "Breadcrumb": {
+        "Hyperlink": {
+          "value": "{Color.Hyperlink.Default}",
+          "type": "color"
+        },
+        "Active": {
+          "value": "{Color.Page.Text}",
+          "type": "color"
+        },
+        "Separator": {
+          "value": "{Color.Page.Text}",
+          "type": "color"
+        }
       }
     },
     "Typography": {
@@ -1660,6 +1674,36 @@
           "type": "typography",
           "description": "Default typography set on all breakpoints."
         }
+      },
+      "Breadcrumb": {
+        "Default": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.Text.S}",
+            "fontSize": "{Font-Size.Text.S}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Breadcrumbs typography set on all screens."
+        },
+        "Active": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Regular}",
+            "lineHeight": "{Line-Height.Text.S}",
+            "fontSize": "{Font-Size.Text.S}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Breadcrumbs typography set on all screens."
+        }
       }
     },
     "Font-Size": {
@@ -2094,6 +2138,16 @@
           "value": "1",
           "type": "sizing"
         }
+      },
+      "Breadcrumb": {
+        "Height": {
+          "value": "48",
+          "type": "sizing"
+        },
+        "Separator": {
+          "value": "12",
+          "type": "sizing"
+        }
       }
     },
     "Spacing": {
@@ -2199,6 +2253,12 @@
             "value": "{Spacing.2XS}",
             "type": "spacing"
           }
+        }
+      },
+      "Breadcrumb": {
+        "Gap": {
+          "value": "{Spacing.XS}",
+          "type": "spacing"
         }
       }
     },

@@ -976,7 +976,7 @@
             "type": "color"
           },
           "Secondary": {
-            "value": "{Color.Brand.Grey.DarkSpecial}",
+            "value": "{Color.Brand.Grey.Dark-Special}",
             "type": "color"
           },
           "Tertiary": {

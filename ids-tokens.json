@@ -1537,6 +1537,92 @@
           "description": "XLarge Button typography set."
         }
       },
+      "Hyperlink": {
+        "L": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.L}",
+            "fontSize": "{Font-Size.L}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Preamble typography set on small screens."
+        },
+        "M": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.M}",
+            "fontSize": "{Font-Size.M}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Small Preamble typography set on small screens."
+        },
+        "Standard": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.S}",
+            "fontSize": "{Font-Size.S}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Default Body typography set on small screens."
+        },
+        "S": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.XS}",
+            "fontSize": "{Font-Size.XS}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Small typography set on small screens."
+        },
+        "XS": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.2XS}",
+            "fontSize": "{Font-Size.2XS}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "XSmall typography set on small screens."
+        },
+        "2XS": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.3XS}",
+            "fontSize": "{Font-Size.3XS}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "2XSmall typography set on small screens."
+        }
+      },
       "Topnav-Tab": {
         "Default": {
           "value": {

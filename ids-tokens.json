@@ -725,6 +725,16 @@
           }
         }
       },
+      "Page": {
+        "Background": {
+          "value": "{Color.Brand.Brown.Lightest}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{Color.Brand.Brown.Dark}",
+          "type": "color"
+        }
+      },
       "Button": {
         "Primary": {
           "Background": {

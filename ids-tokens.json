@@ -1136,6 +1136,28 @@
             "type": "color"
           }
         }
+      },
+      "Navigation-Card": {
+        "Default": {
+          "value": "{Color.Hyperlink.Default}",
+          "type": "color"
+        },
+        "Hover": {
+          "value": "{Color.Hyperlink.Hover}",
+          "type": "color"
+        },
+        "Active": {
+          "value": "{Color.Hyperlink.Active}",
+          "type": "color"
+        },
+        "Disabled": {
+          "value": "{Color.Hyperlink.Disabled}",
+          "type": "color"
+        },
+        "Focus": {
+          "value": "{Color.Hyperlink.Focus}",
+          "type": "color"
+        }
       }
     },
     "Typography": {

@@ -2444,6 +2444,52 @@
           "value": "{Spacing.XS}",
           "type": "spacing"
         }
+      },
+      "Accordion": {
+        "Title": {
+          "S": {
+            "Padding-Vertical": {
+              "value": "{Spacing.XS}",
+              "type": "spacing"
+            },
+            "Padding-Horizontal": {
+              "value": "{Spacing.S}",
+              "type": "spacing"
+            }
+          },
+          "L": {
+            "Padding-Vertical": {
+              "value": "{Spacing.S}",
+              "type": "spacing"
+            },
+            "Padding-Horizontal": {
+              "value": "{Spacing.L}",
+              "type": "spacing"
+            }
+          }
+        },
+        "Content": {
+          "S": {
+            "Padding-Vertical": {
+              "value": "{Spacing.XS}",
+              "type": "spacing"
+            },
+            "Padding-Horizontal": {
+              "value": "{Spacing.S}",
+              "type": "spacing"
+            }
+          },
+          "L": {
+            "Padding-Vertical": {
+              "value": "{Spacing.S}",
+              "type": "spacing"
+            },
+            "Padding-Horizontal": {
+              "value": "{Spacing.L}",
+              "type": "spacing"
+            }
+          }
+        }
       }
     },
     "Border-Radius": {

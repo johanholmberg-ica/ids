@@ -1137,7 +1137,7 @@
           }
         }
       },
-      "Navigation-Card": {
+      "Direct-Navigation": {
         "Default": {
           "value": "{Color.Hyperlink.Default}",
           "type": "color"
@@ -1534,6 +1534,94 @@
             },
             "type": "typography",
             "description": "Large prefix typography set on small screens."
+          }
+        }
+      },
+      "Hero": {
+        "Prefix": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Hand}",
+            "fontWeight": "{Font-Weight.Regular}",
+            "lineHeight": "{Line-Height.M}",
+            "fontSize": "{Font-Size.M}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Small prefix typography set on small screens."
+        },
+        "Heading": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Rubrik}",
+            "fontWeight": "{Font-Weight.Black}",
+            "lineHeight": "{Line-Height.H2}",
+            "fontSize": "{Font-Size.H2}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Hero title typography set on small screens."
+        },
+        "Preamlbe": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Light}",
+            "lineHeight": "{Line-Height.Preamble}",
+            "fontSize": "{Font-Size.Preamble}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Hero preamble typography set on small screens."
+        },
+        "BP-L": {
+          "Prefix": {
+            "value": {
+              "fontFamily": "{Font-Family.ICA-Hand}",
+              "fontWeight": "{Font-Weight.Regular}",
+              "lineHeight": "{Line-Height.L}",
+              "fontSize": "{Font-Size.L}",
+              "letterSpacing": "{Letter-Spacing.None}",
+              "paragraphSpacing": "{Paragraph-Spacing.None}",
+              "textDecoration": "{Text-Decoration.None}",
+              "textCase": "{Text-Case.None}"
+            },
+            "type": "typography",
+            "description": "Small prefix typography set on small screens."
+          },
+          "Heading": {
+            "value": {
+              "fontFamily": "{Font-Family.ICA-Rubrik}",
+              "fontWeight": "{Font-Weight.Black}",
+              "lineHeight": "{Line-Height.BP-L.H2}",
+              "fontSize": "{Font-Size.BP-L.H2}",
+              "letterSpacing": "{Letter-Spacing.None}",
+              "paragraphSpacing": "{Paragraph-Spacing.None}",
+              "textDecoration": "{Text-Decoration.None}",
+              "textCase": "{Text-Case.None}"
+            },
+            "type": "typography",
+            "description": "Hero title typography set on small screens."
+          },
+          "Preamlbe": {
+            "value": {
+              "fontFamily": "{Font-Family.ICA-Text-Ny}",
+              "fontWeight": "{Font-Weight.Light}",
+              "lineHeight": "{Line-Height.BP-L.Preamble}",
+              "fontSize": "{Font-Size.BP-L.Preamble}",
+              "letterSpacing": "{Letter-Spacing.None}",
+              "paragraphSpacing": "{Paragraph-Spacing.None}",
+              "textDecoration": "{Text-Decoration.None}",
+              "textCase": "{Text-Case.None}"
+            },
+            "type": "typography",
+            "description": "Hero preamble typography set on small screens."
           }
         }
       },

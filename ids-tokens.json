@@ -1114,6 +1114,16 @@
             "type": "color"
           }
         }
+      },
+      "Meta-Label": {
+        "Grey": {
+          "value": "{Color.Brand.Grey.Mid}",
+          "type": "color"
+        },
+        "Green": {
+          "value": "{Color.Brand.Green.Dark}",
+          "type": "color"
+        }
       }
     },
     "Typography": {
@@ -1888,6 +1898,50 @@
             "description": "Default Body typography set on small screens."
           }
         }
+      },
+      "Meta-Label": {
+        "S": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Body.Bold}",
+            "lineHeight": "{Line-Height.Meta-Label.S}",
+            "fontSize": "{Font-Size.Meta-Label.S}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Small Meta-Label typography set."
+        },
+        "M": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Body.Bold}",
+            "lineHeight": "{Line-Height.Meta-Label.M}",
+            "fontSize": "{Font-Size.Meta-Label.M}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Medium Meta-Label typography set."
+        },
+        "L": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Body.Bold}",
+            "lineHeight": "{Line-Height.Meta-Label.L}",
+            "fontSize": "{Font-Size.Meta-Label.L}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Large Meta-Label typography set."
+        }
       }
     },
     "Font-Size": {
@@ -2332,6 +2386,26 @@
           "value": "12",
           "type": "sizing"
         }
+      },
+      "Meta-Label": {
+        "S": {
+          "Icon": {
+            "value": "{Line-Height.2XS}",
+            "type": "sizing"
+          }
+        },
+        "M": {
+          "Icon": {
+            "value": "{Line-Height.XS}",
+            "type": "sizing"
+          }
+        },
+        "L": {
+          "Icon": {
+            "value": "{Line-Height.S}",
+            "type": "sizing"
+          }
+        }
       }
     },
     "Spacing": {
@@ -2489,6 +2563,12 @@
               "type": "spacing"
             }
           }
+        }
+      },
+      "Meta-Label": {
+        "Gap": {
+          "value": "{Spacing.3XS}",
+          "type": "spacing"
         }
       }
     },

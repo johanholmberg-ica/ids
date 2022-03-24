@@ -1115,7 +1115,7 @@
           }
         }
       },
-      "Meta-Label": {
+      "Text-Label": {
         "Grey": {
           "value": "{Color.Brand.Grey.Mid}",
           "type": "color"
@@ -1899,48 +1899,48 @@
           }
         }
       },
-      "Meta-Label": {
+      "Text-Label": {
         "S": {
           "value": {
             "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Body.Bold}",
-            "lineHeight": "{Line-Height.Meta-Label.S}",
-            "fontSize": "{Font-Size.Meta-Label.S}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.Text-Label.S}",
+            "fontSize": "{Font-Size.Text-Label.S}",
             "letterSpacing": "{Letter-Spacing.None}",
             "paragraphSpacing": "{Paragraph-Spacing.None}",
             "textDecoration": "{Text-Decoration.None}",
             "textCase": "{Text-Case.None}"
           },
           "type": "typography",
-          "description": "Small Meta-Label typography set."
+          "description": "Small Text-Label typography set."
         },
         "M": {
           "value": {
             "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Body.Bold}",
-            "lineHeight": "{Line-Height.Meta-Label.M}",
-            "fontSize": "{Font-Size.Meta-Label.M}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.Text-Label.M}",
+            "fontSize": "{Font-Size.Text-Label.M}",
             "letterSpacing": "{Letter-Spacing.None}",
             "paragraphSpacing": "{Paragraph-Spacing.None}",
             "textDecoration": "{Text-Decoration.None}",
             "textCase": "{Text-Case.None}"
           },
           "type": "typography",
-          "description": "Medium Meta-Label typography set."
+          "description": "Medium Text-Label typography set."
         },
         "L": {
           "value": {
             "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Body.Bold}",
-            "lineHeight": "{Line-Height.Meta-Label.L}",
-            "fontSize": "{Font-Size.Meta-Label.L}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.Text-Label.L}",
+            "fontSize": "{Font-Size.Text-Label.L}",
             "letterSpacing": "{Letter-Spacing.None}",
             "paragraphSpacing": "{Paragraph-Spacing.None}",
             "textDecoration": "{Text-Decoration.None}",
             "textCase": "{Text-Case.None}"
           },
           "type": "typography",
-          "description": "Large Meta-Label typography set."
+          "description": "Large Text-Label typography set."
         }
       }
     },
@@ -2387,7 +2387,7 @@
           "type": "sizing"
         }
       },
-      "Meta-Label": {
+      "Text-Label": {
         "S": {
           "Icon": {
             "value": "{Line-Height.2XS}",
@@ -2565,7 +2565,7 @@
           }
         }
       },
-      "Meta-Label": {
+      "Text-Label": {
         "Gap": {
           "value": "{Spacing.3XS}",
           "type": "spacing"

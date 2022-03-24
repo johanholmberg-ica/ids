@@ -2406,6 +2406,20 @@
             "type": "sizing"
           }
         }
+      },
+      "Highlight-Label": {
+        "S": {
+          "Icon": {
+            "value": "{Line-Height.S}",
+            "type": "sizing"
+          }
+        },
+        "L": {
+          "Icon": {
+            "value": "{Line-Height.L}",
+            "type": "sizing"
+          }
+        }
       }
     },
     "Spacing": {
@@ -2569,6 +2583,20 @@
         "Gap": {
           "value": "{Spacing.3XS}",
           "type": "spacing"
+        }
+      },
+      "Highlight-Label": {
+        "S": {
+          "Gap": {
+            "value": "{Spacing.4XS}",
+            "type": "spacing"
+          }
+        },
+        "L": {
+          "Gap": {
+            "value": "{Spacing.3XS}",
+            "type": "spacing"
+          }
         }
       }
     },

@@ -1124,6 +1124,18 @@
           "value": "{Color.Brand.Green.Dark}",
           "type": "color"
         }
+      },
+      "Highlight-Label": {
+        "Pink": {
+          "Background": {
+            "value": "{Color.Brand.Stammis}",
+            "type": "color"
+          },
+          "Text": {
+            "value": "{Color.Brand.ICA}",
+            "type": "color"
+          }
+        }
       }
     },
     "Typography": {
@@ -1941,6 +1953,36 @@
           },
           "type": "typography",
           "description": "Large Text-Label typography set."
+        }
+      },
+      "Highlight-Label": {
+        "S": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Black}",
+            "lineHeight": "{Line-Height.S}",
+            "fontSize": "{Font-Size.S}",
+            "letterSpacing": "{Letter-Spacing.Label}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.Uppercase}"
+          },
+          "type": "typography",
+          "description": "Small block label typography set."
+        },
+        "L": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Black}",
+            "lineHeight": "{Line-Height.L}",
+            "fontSize": "{Font-Size.L}",
+            "letterSpacing": "{Letter-Spacing.Label}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.Uppercase}"
+          },
+          "type": "typography",
+          "description": "Large block label typography set."
         }
       }
     },

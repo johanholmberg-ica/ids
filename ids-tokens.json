@@ -2705,6 +2705,77 @@
           "type": "boxShadow"
         }
       }
+    },
+    "Border": {
+      "Focus": {
+        "value": {
+          "color": "#f088b6",
+          "type": "innerShadow",
+          "x": 0,
+          "y": 0,
+          "blur": 0,
+          "spread": 1
+        },
+        "type": "boxShadow"
+      },
+      "Input": {
+        "Default": {
+          "value": {
+            "color": "#bdbbb9",
+            "type": "innerShadow",
+            "x": 0,
+            "y": 0,
+            "blur": 0,
+            "spread": 1
+          },
+          "type": "boxShadow"
+        },
+        "Active": {
+          "value": [
+            {
+              "color": "#bdbbb9",
+              "type": "innerShadow",
+              "x": 0,
+              "y": 0,
+              "blur": 0,
+              "spread": 1
+            },
+            {
+              "color": "#9b0600",
+              "type": "innerShadow",
+              "x": 0,
+              "y": -104,
+              "blur": 0,
+              "spread": -102
+            }
+          ],
+          "type": "boxShadow"
+        }
+      },
+      "Card": {
+        "Default": {
+          "value": {
+            "color": "#431e1e",
+            "type": "dropShadow",
+            "x": 0,
+            "y": 0,
+            "blur": 0,
+            "spread": 1
+          },
+          "type": "boxShadow"
+        },
+        "Selected": {
+          "value": {
+            "color": "#008933",
+            "type": "innerShadow",
+            "x": 0,
+            "y": 0,
+            "blur": 0,
+            "spread": 2
+          },
+          "type": "boxShadow"
+        }
+      }
     }
   }
 }

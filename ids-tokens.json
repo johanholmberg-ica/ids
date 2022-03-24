@@ -1221,7 +1221,7 @@
           "type": "color"
         }
       },
-      "Recipe-Climate-Smart": {
+      "Climate-Smart": {
         "Default": {
           "value": "{Color.Brand.Green.Mid}",
           "type": "color"

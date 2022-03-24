@@ -2088,8 +2088,8 @@
           "value": {
             "fontFamily": "{Font-Family.ICA-Text-Ny}",
             "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.Text-Label.S}",
-            "fontSize": "{Font-Size.Text-Label.S}",
+            "lineHeight": "{Line-Height.2XS}",
+            "fontSize": "{Font-Size.2XS}",
             "letterSpacing": "{Letter-Spacing.None}",
             "paragraphSpacing": "{Paragraph-Spacing.None}",
             "textDecoration": "{Text-Decoration.None}",
@@ -2102,8 +2102,8 @@
           "value": {
             "fontFamily": "{Font-Family.ICA-Text-Ny}",
             "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.Text-Label.M}",
-            "fontSize": "{Font-Size.Text-Label.M}",
+            "lineHeight": "{Line-Height.XS}",
+            "fontSize": "{Font-Size.XS}",
             "letterSpacing": "{Letter-Spacing.None}",
             "paragraphSpacing": "{Paragraph-Spacing.None}",
             "textDecoration": "{Text-Decoration.None}",
@@ -2116,8 +2116,8 @@
           "value": {
             "fontFamily": "{Font-Family.ICA-Text-Ny}",
             "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.Text-Label.L}",
-            "fontSize": "{Font-Size.Text-Label.L}",
+            "lineHeight": "{Line-Height.S}",
+            "fontSize": "{Font-Size.S}",
             "letterSpacing": "{Letter-Spacing.None}",
             "paragraphSpacing": "{Paragraph-Spacing.None}",
             "textDecoration": "{Text-Decoration.None}",

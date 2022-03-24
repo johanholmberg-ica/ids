@@ -1828,6 +1828,66 @@
           "type": "typography",
           "description": "Breadcrumbs typography set on all screens."
         }
+      },
+      "Accordion": {
+        "Default": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Regular}",
+            "lineHeight": "{Line-Height.S}",
+            "fontSize": "{Font-Size.S}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Default Body typography set on small screens."
+        },
+        "Active": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.S}",
+            "fontSize": "{Font-Size.S}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Default Body typography set on small screens."
+        },
+        "BP-L": {
+          "Default": {
+            "value": {
+              "fontFamily": "{Font-Family.ICA-Text-Ny}",
+              "fontWeight": "{Font-Weight.Regular}",
+              "lineHeight": "{Line-Height.M}",
+              "fontSize": "{Font-Size.M}",
+              "letterSpacing": "{Letter-Spacing.None}",
+              "paragraphSpacing": "{Paragraph-Spacing.None}",
+              "textDecoration": "{Text-Decoration.None}",
+              "textCase": "{Text-Case.None}"
+            },
+            "type": "typography",
+            "description": "Default Body typography set on small screens."
+          },
+          "Active": {
+            "value": {
+              "fontFamily": "{Font-Family.ICA-Text-Ny}",
+              "fontWeight": "{Font-Weight.Bold}",
+              "lineHeight": "{Line-Height.M}",
+              "fontSize": "{Font-Size.M}",
+              "letterSpacing": "{Letter-Spacing.None}",
+              "paragraphSpacing": "{Paragraph-Spacing.None}",
+              "textDecoration": "{Text-Decoration.None}",
+              "textCase": "{Text-Case.None}"
+            },
+            "type": "typography",
+            "description": "Default Body typography set on small screens."
+          }
+        }
       }
     },
     "Font-Size": {

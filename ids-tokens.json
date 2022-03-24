@@ -1220,6 +1220,12 @@
           "value": "{Color.Hyperlink.Focus}",
           "type": "color"
         }
+      },
+      "Recipe-Climate-Smart": {
+        "Default": {
+          "value": "{Color.Brand.Green.Mid}",
+          "type": "color"
+        }
       }
     },
     "Typography": {

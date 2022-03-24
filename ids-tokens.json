@@ -1556,8 +1556,8 @@
           "value": {
             "fontFamily": "{Font-Family.ICA-Rubrik}",
             "fontWeight": "{Font-Weight.Black}",
-            "lineHeight": "{Line-Height.H2}",
-            "fontSize": "{Font-Size.H2}",
+            "lineHeight": "{Line-Height.Heading.H2}",
+            "fontSize": "{Font-Size.Heading.H2}",
             "letterSpacing": "{Letter-Spacing.None}",
             "paragraphSpacing": "{Paragraph-Spacing.None}",
             "textDecoration": "{Text-Decoration.None}",
@@ -1570,8 +1570,8 @@
           "value": {
             "fontFamily": "{Font-Family.ICA-Text-Ny}",
             "fontWeight": "{Font-Weight.Light}",
-            "lineHeight": "{Line-Height.Preamble}",
-            "fontSize": "{Font-Size.Preamble}",
+            "lineHeight": "{Line-Height.Text.Preamble}",
+            "fontSize": "{Font-Size.Text.Preamble}",
             "letterSpacing": "{Letter-Spacing.None}",
             "paragraphSpacing": "{Paragraph-Spacing.None}",
             "textDecoration": "{Text-Decoration.None}",
@@ -1599,8 +1599,8 @@
             "value": {
               "fontFamily": "{Font-Family.ICA-Rubrik}",
               "fontWeight": "{Font-Weight.Black}",
-              "lineHeight": "{Line-Height.BP-L.H2}",
-              "fontSize": "{Font-Size.BP-L.H2}",
+              "lineHeight": "{Line-Height.Heading.BP-L.H2}",
+              "fontSize": "{Font-Size.Heading.BP-L.H2}",
               "letterSpacing": "{Letter-Spacing.None}",
               "paragraphSpacing": "{Paragraph-Spacing.None}",
               "textDecoration": "{Text-Decoration.None}",
@@ -1613,8 +1613,8 @@
             "value": {
               "fontFamily": "{Font-Family.ICA-Text-Ny}",
               "fontWeight": "{Font-Weight.Light}",
-              "lineHeight": "{Line-Height.BP-L.Preamble}",
-              "fontSize": "{Font-Size.BP-L.Preamble}",
+              "lineHeight": "{Line-Height.Text.BP-L.Preamble}",
+              "fontSize": "{Font-Size.Text.BP-L.Preamble}",
               "letterSpacing": "{Letter-Spacing.None}",
               "paragraphSpacing": "{Paragraph-Spacing.None}",
               "textDecoration": "{Text-Decoration.None}",

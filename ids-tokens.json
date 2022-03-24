@@ -1401,6 +1401,64 @@
           }
         }
       },
+      "Subheading": {
+        "XS": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Black}",
+            "lineHeight": "{Line-Height.2XS}",
+            "fontSize": "{Font-Size.2XS}",
+            "letterSpacing": "{Letter-Spacing.Label}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.Uppercase}"
+          },
+          "type": "typography",
+          "description": "XSmall Label typography set."
+        },
+        "S": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Black}",
+            "lineHeight": "{Line-Height.XS}",
+            "fontSize": "{Font-Size.XS}",
+            "letterSpacing": "{Letter-Spacing.Label}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.Uppercase}"
+          },
+          "type": "typography",
+          "description": "Small Label typography set."
+        },
+        "M": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Black}",
+            "lineHeight": "{Line-Height.S}",
+            "fontSize": "{Font-Size.S}",
+            "letterSpacing": "{Letter-Spacing.Label}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.Uppercase}"
+          },
+          "type": "typography",
+          "description": "Medium Label typography set."
+        },
+        "L": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Black}",
+            "lineHeight": "{Line-Height.L}",
+            "fontSize": "{Font-Size.L}",
+            "letterSpacing": "{Letter-Spacing.Label}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.Uppercase}"
+          },
+          "type": "typography",
+          "description": "Large Label typography set."
+        }
+      },
       "Text": {
         "Preamble": {
           "value": {
@@ -1909,64 +1967,6 @@
           },
           "type": "typography",
           "description": "Top navigation tab typography set on all screen sizes."
-        }
-      },
-      "Label": {
-        "XS": {
-          "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Black}",
-            "lineHeight": "{Line-Height.2XS}",
-            "fontSize": "{Font-Size.2XS}",
-            "letterSpacing": "{Letter-Spacing.Label}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.Uppercase}"
-          },
-          "type": "typography",
-          "description": "XSmall Label typography set."
-        },
-        "S": {
-          "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Black}",
-            "lineHeight": "{Line-Height.XS}",
-            "fontSize": "{Font-Size.XS}",
-            "letterSpacing": "{Letter-Spacing.Label}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.Uppercase}"
-          },
-          "type": "typography",
-          "description": "Small Label typography set."
-        },
-        "M": {
-          "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Black}",
-            "lineHeight": "{Line-Height.S}",
-            "fontSize": "{Font-Size.S}",
-            "letterSpacing": "{Letter-Spacing.Label}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.Uppercase}"
-          },
-          "type": "typography",
-          "description": "Medium Label typography set."
-        },
-        "L": {
-          "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Black}",
-            "lineHeight": "{Line-Height.L}",
-            "fontSize": "{Font-Size.L}",
-            "letterSpacing": "{Letter-Spacing.Label}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.Uppercase}"
-          },
-          "type": "typography",
-          "description": "Large Label typography set."
         }
       },
       "Alert": {

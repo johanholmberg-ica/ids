@@ -1226,6 +1226,12 @@
           "value": "{Color.Brand.Green.Mid}",
           "type": "color"
         }
+      },
+      "Modal": {
+        "Background": {
+          "value": "{Color.White}",
+          "type": "color"
+        }
       }
     },
     "Typography": {

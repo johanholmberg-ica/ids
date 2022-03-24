@@ -2162,6 +2162,36 @@
           "type": "typography",
           "description": "Large block label typography set."
         }
+      },
+      "Avatar": {
+        "Heading": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Rubrik}",
+            "fontWeight": "{Font-Weight.Medium}",
+            "lineHeight": "{Line-Height.S}",
+            "fontSize": "{Font-Size.S}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "H6 typography set on small screens."
+        },
+        "Item": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Regular}",
+            "lineHeight": "{Line-Height.Text.S}",
+            "fontSize": "{Font-Size.Text.S}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Small typography set on small screens."
+        }
       }
     },
     "Font-Size": {

@@ -1065,7 +1065,7 @@
           }
         },
         "Border": {
-          "Default": {
+          "Standard": {
             "value": "{Color.Brand.Grey.Special}",
             "type": "color"
           }

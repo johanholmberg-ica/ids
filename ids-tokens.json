@@ -579,6 +579,10 @@
         "value": "4",
         "type": "borderWidth"
       }
+    },
+    "test": {
+      "value": "1000",
+      "type": "sizing"
     }
   },
   "ICA Web Consumer": {

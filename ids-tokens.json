@@ -1494,6 +1494,34 @@
           "type": "typography",
           "description": "Small Preamble typography set on small screens."
         },
+        "L": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Regular}",
+            "lineHeight": "{Line-Height.Text.L}",
+            "fontSize": "{Font-Size.Text.L}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Default typography set on all breakpoints."
+        },
+        "M": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Regular}",
+            "lineHeight": "{Line-Height.Text.M}",
+            "fontSize": "{Font-Size.Text.M}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Default typography set on all breakpoints."
+        },
         "Standard": {
           "value": {
             "fontFamily": "{Font-Family.ICA-Text-Ny}",
@@ -2848,6 +2876,14 @@
           "value": "{Font-Size.S}",
           "type": "fontSizes"
         },
+        "L": {
+          "value": "{Font-Size.L}",
+          "type": "fontSizes"
+        },
+        "M": {
+          "value": "{Font-Size.M}",
+          "type": "fontSizes"
+        },
         "Standard": {
           "value": "{Font-Size.S}",
           "type": "fontSizes"
@@ -2962,6 +2998,14 @@
         },
         "Preamble-S": {
           "value": "{Line-Height.S}",
+          "type": "lineHeights"
+        },
+        "L": {
+          "value": "{Line-Height.L}",
+          "type": "lineHeights"
+        },
+        "M": {
+          "value": "{Line-Height.M}",
           "type": "lineHeights"
         },
         "Standard": {

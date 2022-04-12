@@ -1308,7 +1308,7 @@
         },
         "H6": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontFamily": "{Font-Family.ICA-Rubrik}",
             "fontWeight": "{Font-Weight.Bold}",
             "lineHeight": "{Line-Height.Heading.H6}",
             "fontSize": "{Font-Size.Heading.H6}",
@@ -1393,7 +1393,7 @@
           },
           "H6": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
+              "fontFamily": "{Font-Family.ICA-Rubrik}",
               "fontWeight": "{Font-Weight.Bold}",
               "lineHeight": "{Line-Height.Heading.BP-L.H6}",
               "fontSize": "{Font-Size.Heading.BP-L.H6}",

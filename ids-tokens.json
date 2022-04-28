@@ -3532,23 +3532,23 @@
     },
     "Border-Radius": {
       "None": {
-        "value": "0",
+        "value": "Border-Radius.None",
         "type": "borderRadius"
       },
       "XS": {
-        "value": "2",
+        "value": "Border-Radius.XS",
         "type": "borderRadius"
       },
       "S": {
-        "value": "4",
+        "value": "Border-Radius.S",
         "type": "borderRadius"
       },
       "M": {
-        "value": "24",
+        "value": "Border-Radius.M",
         "type": "borderRadius"
       },
       "L": {
-        "value": "48",
+        "value": "Border-Radius.L",
         "type": "borderRadius"
       },
       "Card": {

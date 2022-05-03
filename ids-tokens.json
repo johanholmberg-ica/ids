@@ -3379,52 +3379,72 @@
       },
       "Button": {
         "XS": {
-          "Gap": {
-            "value": "{Spacing.3XS}",
-            "type": "spacing"
-          },
           "Padding-Horizontal": {
             "value": "{Spacing.XS}",
+            "type": "spacing"
+          },
+          "Padding-Horizontal-Icon": {
+            "value": "{Spacing.2XS}",
+            "type": "spacing"
+          },
+          "Gap-Icon-Text": {
+            "value": "{Spacing.3XS}",
             "type": "spacing"
           }
         },
         "S": {
-          "Gap": {
-            "value": "{Spacing.3XS}",
-            "type": "spacing"
-          },
           "Padding-Horizontal": {
             "value": "{Spacing.S}",
+            "type": "spacing"
+          },
+          "Padding-Horizontal-Icon": {
+            "value": "{Spacing.XS}",
+            "type": "spacing"
+          },
+          "Gap-Icon-Text": {
+            "value": "{Spacing.3XS}",
             "type": "spacing"
           }
         },
         "M": {
-          "Gap": {
-            "value": "{Spacing.3XS}",
-            "type": "spacing"
-          },
           "Padding-Horizontal": {
             "value": "{Spacing.M}",
+            "type": "spacing"
+          },
+          "Padding-Horizontal-Icon": {
+            "value": "{Spacing.S}",
+            "type": "spacing"
+          },
+          "Gap-Icon-Text": {
+            "value": "{Spacing.3XS}",
             "type": "spacing"
           }
         },
         "L": {
-          "Gap": {
-            "value": "{Spacing.3XS}",
-            "type": "spacing"
-          },
           "Padding-Horizontal": {
             "value": "{Spacing.L}",
+            "type": "spacing"
+          },
+          "Padding-Horizontal-Icon": {
+            "value": "{Spacing.M}",
+            "type": "spacing"
+          },
+          "Gap-Icon-Text": {
+            "value": "{Spacing.3XS}",
             "type": "spacing"
           }
         },
         "XL": {
-          "Gap": {
-            "value": "{Spacing.2XS}",
-            "type": "spacing"
-          },
           "Padding-Horizontal": {
             "value": "{Spacing.XL}",
+            "type": "spacing"
+          },
+          "Padding-Horizontal-Icon": {
+            "value": "{Spacing.L}",
+            "type": "spacing"
+          },
+          "Gap-Icon-Text": {
+            "value": "{Spacing.2XS}",
             "type": "spacing"
           }
         }

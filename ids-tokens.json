@@ -739,7 +739,7 @@
         "Primary": {
           "Background": {
             "Default": {
-              "value": "#e13205",
+              "value": "#000000",
               "type": "color"
             },
             "Hover": {

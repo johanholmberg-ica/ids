@@ -1156,7 +1156,7 @@
         },
         "Header": {
           "Default": {
-            "value": "{Color.Hyperlink.Default}",
+            "value": "{Color.Card.Text.Primary}",
             "type": "color"
           },
           "Hover": {

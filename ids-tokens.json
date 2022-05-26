@@ -4144,7 +4144,7 @@
       "Tooltip": {
         "value": [
           {
-            "color": "#593d3229",
+            "color": "rgba({Color.Brand.Brown.Dark}, 0.16)",
             "type": "dropShadow",
             "x": 0,
             "y": 4,
@@ -4152,7 +4152,7 @@
             "spread": 0
           },
           {
-            "color": "#593d321f",
+            "color": "rgba({Color.Brand.Brown.Dark}, 0.12)",
             "type": "dropShadow",
             "x": 0,
             "y": 1,
@@ -4166,7 +4166,7 @@
         "Standard": {
           "value": [
             {
-              "color": "#0000000a",
+              "color": "rgba({Color.Black}, 0.04)",
               "type": "dropShadow",
               "x": 0,
               "y": 4,
@@ -4174,7 +4174,7 @@
               "spread": 0
             },
             {
-              "color": "#00000005",
+              "color": "rgba({Color.Black}, 0.02)",
               "type": "dropShadow",
               "x": 0,
               "y": 2,
@@ -4232,7 +4232,7 @@
               "spread": 0
             },
             {
-              "color": "#f088b6",
+              "color": " {Color.Brand.Pink.Light}",
               "type": "innerShadow",
               "x": 0,
               "y": 0,
@@ -4291,7 +4291,7 @@
     "Border": {
       "Focus": {
         "value": {
-          "color": "#f088b6",
+          "color": " {Color.Brand.Pink.Light}",
           "type": "innerShadow",
           "x": 0,
           "y": 0,
@@ -4303,7 +4303,7 @@
       "Input": {
         "Default": {
           "value": {
-            "color": "#bdbbb9",
+            "color": " {Color.Brand.Grey.Light}",
             "type": "innerShadow",
             "x": 0,
             "y": 0,
@@ -4315,7 +4315,7 @@
         "Active": {
           "value": [
             {
-              "color": "#bdbbb9",
+              "color": " {Color.Brand.Grey.Light}",
               "type": "innerShadow",
               "x": 0,
               "y": 0,
@@ -4323,12 +4323,12 @@
               "spread": 1
             },
             {
-              "color": "#9b0600",
+              "color": "{Color.Brand.Red.Dark}",
               "type": "innerShadow",
               "x": 0,
-              "y": 104,
+              "y": -3,
               "blur": 0,
-              "spread": 102
+              "spread": -2
             }
           ],
           "type": "boxShadow"
@@ -4337,7 +4337,7 @@
       "Card": {
         "Default": {
           "value": {
-            "color": "#431e1e",
+            "color": "{Color.Brand.Grey.Special}",
             "type": "dropShadow",
             "x": 0,
             "y": 0,
@@ -4348,7 +4348,7 @@
         },
         "Selected": {
           "value": {
-            "color": "#008933",
+            "color": "{Color.Accessibility.Confirm}",
             "type": "innerShadow",
             "x": 0,
             "y": 0,

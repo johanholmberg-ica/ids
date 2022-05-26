@@ -1232,6 +1232,26 @@
           "value": "{Color.White}",
           "type": "color"
         }
+      },
+      "Overview Navigation": {
+        "Title": {
+          "value": "{Color.Hyperlink.Default}",
+          "type": "color"
+        },
+        "Preamble": {
+          "value": "{Color.Card.Text.Primary}",
+          "type": "color"
+        }
+      },
+      "Section Navigation": {
+        "Title": {
+          "value": "{Color.Hyperlink.Default}",
+          "type": "color"
+        },
+        "Preamble": {
+          "value": "{Color.Card.Text.Primary}",
+          "type": "color"
+        }
       }
     },
     "Typography": {
@@ -2840,6 +2860,66 @@
             "description": "Default typography set on all breakpoints."
           }
         }
+      },
+      "Overview Navigation": {
+        "Title": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Rubrik}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.L}",
+            "fontSize": "{Font-Size.L}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Default Body typography set on small screens."
+        },
+        "Preamble": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Light}",
+            "lineHeight": "{Line-Height.Text.Preamble-XS}",
+            "fontSize": "{Font-Size.Text.Preamble-XS}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Small Preamble typography set on small screens."
+        }
+      },
+      "Section Navigation": {
+        "Title": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.S}",
+            "fontSize": "{Font-Size.S}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Default Body typography set on small screens."
+        },
+        "Preamble": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Light}",
+            "lineHeight": "{Line-Height.Text.Preamble-XS}",
+            "fontSize": "{Font-Size.Text.Preamble-XS}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Small Preamble typography set on small screens."
+        }
       }
     },
     "Font-Size": {
@@ -3819,5 +3899,6 @@
       "value": "100",
       "type": "sizing"
     }
-  }
+  },
+  "$themes": []
 }

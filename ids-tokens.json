@@ -554,11 +554,11 @@
         "type": "borderRadius"
       },
       "M": {
-        "value": "24",
+        "value": "20",
         "type": "borderRadius"
       },
       "L": {
-        "value": "48",
+        "value": "40",
         "type": "borderRadius"
       }
     },
@@ -739,7 +739,7 @@
         "Primary": {
           "Background": {
             "Default": {
-              "value": "#e13205",
+              "value": "#E13205",
               "type": "color"
             },
             "Hover": {
@@ -1156,7 +1156,7 @@
         },
         "Header": {
           "Default": {
-            "value": "{Color.Hyperlink.Default}",
+            "value": "{Color.Card.Text.Primary}",
             "type": "color"
           },
           "Hover": {
@@ -1230,6 +1230,26 @@
       "Modal": {
         "Background": {
           "value": "{Color.White}",
+          "type": "color"
+        }
+      },
+      "Overview Navigation": {
+        "Title": {
+          "value": "{Color.Hyperlink.Default}",
+          "type": "color"
+        },
+        "Preamble": {
+          "value": "{Color.Card.Text.Primary}",
+          "type": "color"
+        }
+      },
+      "Section Navigation": {
+        "Title": {
+          "value": "{Color.Hyperlink.Default}",
+          "type": "color"
+        },
+        "Preamble": {
+          "value": "{Color.Card.Text.Primary}",
           "type": "color"
         }
       }
@@ -1494,6 +1514,48 @@
           "type": "typography",
           "description": "Small Preamble typography set on small screens."
         },
+        "Preamble-XS": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Light}",
+            "lineHeight": "{Line-Height.Text.Preamble-XS}",
+            "fontSize": "{Font-Size.Text.Preamble-XS}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Small Preamble typography set on small screens."
+        },
+        "L": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Regular}",
+            "lineHeight": "{Line-Height.Text.L}",
+            "fontSize": "{Font-Size.Text.L}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Default typography set on all breakpoints."
+        },
+        "M": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Regular}",
+            "lineHeight": "{Line-Height.Text.M}",
+            "fontSize": "{Font-Size.Text.M}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Default typography set on all breakpoints."
+        },
         "Standard": {
           "value": {
             "fontFamily": "{Font-Family.ICA-Text-Ny}",
@@ -1571,6 +1633,20 @@
               "fontWeight": "{Font-Weight.Light}",
               "lineHeight": "{Line-Height.Text.BP-L.Preamble-S}",
               "fontSize": "{Font-Size.Text.BP-L.Preamble-S}",
+              "letterSpacing": "{Letter-Spacing.None}",
+              "paragraphSpacing": "{Paragraph-Spacing.None}",
+              "textDecoration": "{Text-Decoration.None}",
+              "textCase": "{Text-Case.None}"
+            },
+            "type": "typography",
+            "description": "Small Preamble typography set on large screens."
+          },
+          "Preamble-XS": {
+            "value": {
+              "fontFamily": "{Font-Family.ICA-Text-Ny}",
+              "fontWeight": "{Font-Weight.Light}",
+              "lineHeight": "{Line-Height.Text.BP-L.Preamble-XS}",
+              "fontSize": "{Font-Size.Text.BP-L.Preamble-XS}",
               "letterSpacing": "{Letter-Spacing.None}",
               "paragraphSpacing": "{Paragraph-Spacing.None}",
               "textDecoration": "{Text-Decoration.None}",
@@ -2784,6 +2860,66 @@
             "description": "Default typography set on all breakpoints."
           }
         }
+      },
+      "Overview Navigation": {
+        "Title": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Rubrik}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.L}",
+            "fontSize": "{Font-Size.L}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Default Body typography set on small screens."
+        },
+        "Preamble": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Light}",
+            "lineHeight": "{Line-Height.Text.Preamble-XS}",
+            "fontSize": "{Font-Size.Text.Preamble-XS}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Small Preamble typography set on small screens."
+        }
+      },
+      "Section Navigation": {
+        "Title": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Bold}",
+            "lineHeight": "{Line-Height.S}",
+            "fontSize": "{Font-Size.S}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Default Body typography set on small screens."
+        },
+        "Preamble": {
+          "value": {
+            "fontFamily": "{Font-Family.ICA-Text-Ny}",
+            "fontWeight": "{Font-Weight.Light}",
+            "lineHeight": "{Line-Height.Text.Preamble-XS}",
+            "fontSize": "{Font-Size.Text.Preamble-XS}",
+            "letterSpacing": "{Letter-Spacing.None}",
+            "paragraphSpacing": "{Paragraph-Spacing.None}",
+            "textDecoration": "{Text-Decoration.None}",
+            "textCase": "{Text-Case.None}"
+          },
+          "type": "typography",
+          "description": "Small Preamble typography set on small screens."
+        }
       }
     },
     "Font-Size": {
@@ -2848,6 +2984,18 @@
           "value": "{Font-Size.S}",
           "type": "fontSizes"
         },
+        "Preamble-XS": {
+          "value": "{Font-Size.S}",
+          "type": "fontSizes"
+        },
+        "L": {
+          "value": "{Font-Size.L}",
+          "type": "fontSizes"
+        },
+        "M": {
+          "value": "{Font-Size.M}",
+          "type": "fontSizes"
+        },
         "Standard": {
           "value": "{Font-Size.S}",
           "type": "fontSizes"
@@ -2871,6 +3019,10 @@
           },
           "Preamble-S": {
             "value": "{Font-Size.M}",
+            "type": "fontSizes"
+          },
+          "Preamble-XS": {
+            "value": "{Font-Size.S}",
             "type": "fontSizes"
           }
         }
@@ -2964,6 +3116,18 @@
           "value": "{Line-Height.S}",
           "type": "lineHeights"
         },
+        "Preamble-XS": {
+          "value": "{Line-Height.S}",
+          "type": "lineHeights"
+        },
+        "L": {
+          "value": "{Line-Height.L}",
+          "type": "lineHeights"
+        },
+        "M": {
+          "value": "{Line-Height.M}",
+          "type": "lineHeights"
+        },
         "Standard": {
           "value": "{Line-Height.S}",
           "type": "lineHeights"
@@ -2987,6 +3151,10 @@
           },
           "Preamble-S": {
             "value": "{Line-Height.M}",
+            "type": "lineHeights"
+          },
+          "Preamble-XS": {
+            "value": "{Line-Height.S}",
             "type": "lineHeights"
           }
         }
@@ -3291,52 +3459,72 @@
       },
       "Button": {
         "XS": {
-          "Gap": {
-            "value": "{Spacing.3XS}",
-            "type": "spacing"
-          },
           "Padding-Horizontal": {
             "value": "{Spacing.XS}",
+            "type": "spacing"
+          },
+          "Padding-Horizontal-Icon": {
+            "value": "{Spacing.2XS}",
+            "type": "spacing"
+          },
+          "Gap-Icon-Text": {
+            "value": "{Spacing.3XS}",
             "type": "spacing"
           }
         },
         "S": {
-          "Gap": {
-            "value": "{Spacing.3XS}",
-            "type": "spacing"
-          },
           "Padding-Horizontal": {
             "value": "{Spacing.S}",
+            "type": "spacing"
+          },
+          "Padding-Horizontal-Icon": {
+            "value": "{Spacing.XS}",
+            "type": "spacing"
+          },
+          "Gap-Icon-Text": {
+            "value": "{Spacing.3XS}",
             "type": "spacing"
           }
         },
         "M": {
-          "Gap": {
-            "value": "{Spacing.3XS}",
-            "type": "spacing"
-          },
           "Padding-Horizontal": {
             "value": "{Spacing.M}",
+            "type": "spacing"
+          },
+          "Padding-Horizontal-Icon": {
+            "value": "{Spacing.S}",
+            "type": "spacing"
+          },
+          "Gap-Icon-Text": {
+            "value": "{Spacing.3XS}",
             "type": "spacing"
           }
         },
         "L": {
-          "Gap": {
-            "value": "{Spacing.3XS}",
-            "type": "spacing"
-          },
           "Padding-Horizontal": {
             "value": "{Spacing.L}",
+            "type": "spacing"
+          },
+          "Padding-Horizontal-Icon": {
+            "value": "{Spacing.M}",
+            "type": "spacing"
+          },
+          "Gap-Icon-Text": {
+            "value": "{Spacing.3XS}",
             "type": "spacing"
           }
         },
         "XL": {
-          "Gap": {
-            "value": "{Spacing.2XS}",
-            "type": "spacing"
-          },
           "Padding-Horizontal": {
             "value": "{Spacing.XL}",
+            "type": "spacing"
+          },
+          "Padding-Horizontal-Icon": {
+            "value": "{Spacing.L}",
+            "type": "spacing"
+          },
+          "Gap-Icon-Text": {
+            "value": "{Spacing.2XS}",
             "type": "spacing"
           }
         }
@@ -3443,26 +3631,6 @@
       }
     },
     "Border-Radius": {
-      "None": {
-        "value": "0",
-        "type": "borderRadius"
-      },
-      "XS": {
-        "value": "2",
-        "type": "borderRadius"
-      },
-      "S": {
-        "value": "4",
-        "type": "borderRadius"
-      },
-      "M": {
-        "value": "24",
-        "type": "borderRadius"
-      },
-      "L": {
-        "value": "48",
-        "type": "borderRadius"
-      },
       "Card": {
         "None": {
           "value": "{Border-Radius.None}",
@@ -3726,9 +3894,11 @@
           "type": "boxShadow"
         }
       }
+    },
+    "Test": {
+      "value": "100",
+      "type": "sizing"
     }
   },
-  "ICA Web Consumer Dark": {},
-  "ICA Web Busniess": {},
-  "ICA App Consumer": {}
+  "$themes": []
 }

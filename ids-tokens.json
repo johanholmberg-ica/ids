@@ -4326,9 +4326,9 @@
               "color": "#9b0600",
               "type": "innerShadow",
               "x": 0,
-              "y": 104,
+              "y": -3,
               "blur": 0,
-              "spread": 102
+              "spread": -2
             }
           ],
           "type": "boxShadow"

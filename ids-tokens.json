@@ -18,11 +18,11 @@
           "value": "#f8c9df",
           "type": "color"
         },
-        "ICA-Supermarket": {
+        "ICA Supermarket": {
           "value": "#f9b232",
           "type": "color"
         },
-        "Apotek-Hjartat": {
+        "Apotek Hjartat": {
           "value": "#00cd4f",
           "type": "color"
         },
@@ -83,7 +83,7 @@
             "value": "#e17366",
             "type": "color"
           },
-          "Light-Special": {
+          "Light Special": {
             "value": "#F29792",
             "type": "color"
           },
@@ -239,7 +239,7 @@
             "value": "#3a3a3a",
             "type": "color"
           },
-          "Dark-Special": {
+          "Dark Special": {
             "value": "#626262",
             "type": "color"
           },
@@ -262,39 +262,39 @@
         }
       }
     },
-    "Font-Family": {
-      "ICA-Rubrik": {
+    "Font Family": {
+      "ICA Rubrik": {
         "value": "ICA Rubrik",
         "type": "fontFamilies",
         "description": "Used in our headings."
       },
-      "ICA-Text-Ny": {
+      "ICA Text Ny": {
         "value": "ICA Text Ny",
         "type": "fontFamilies",
         "description": "Used in our body texts."
       },
-      "ICA-Hand": {
+      "ICA Hand": {
         "value": "ICA Hand",
         "type": "fontFamilies",
         "description": "Used in prefixes and for decorational purpose."
       },
-      "ICA-Rubrik-Fallback": {
+      "ICA Rubrik Fallback": {
         "value": "Arial",
         "type": "fontFamilies",
         "description": "ICA Rubrik font fallback."
       },
-      "ICA-Text-Ny-Fallback": {
+      "ICA Text Ny Fallback": {
         "value": "Arial",
         "type": "fontFamilies",
         "description": "ICA Text Ny font fallback."
       },
-      "ICA-Hand-Fallback": {
+      "ICA Hand Fallback": {
         "value": "Arial",
         "type": "fontFamilies",
         "description": "ICA Hand font fallback."
       }
     },
-    "Font-Size": {
+    "Font Size": {
       "3XS": {
         "value": "10",
         "type": "fontSizes"
@@ -336,7 +336,7 @@
         "type": "fontSizes"
       }
     },
-    "Font-Weight": {
+    "Font Weight": {
       "Black": {
         "value": "Black",
         "type": "fontWeights"
@@ -358,7 +358,7 @@
         "type": "fontWeights"
       }
     },
-    "Line-Height": {
+    "Line Height": {
       "3XS": {
         "value": "16",
         "type": "lineHeights"
@@ -400,19 +400,19 @@
         "type": "lineHeights"
       }
     },
-    "Letter-Spacing": {
+    "Letter Spacing": {
       "None": {
         "value": "0%",
         "type": "letterSpacing"
       }
     },
-    "Paragraph-Spacing": {
+    "Paragraph Spacing": {
       "None": {
         "value": "0%",
         "type": "paragraphSpacing"
       }
     },
-    "Text-Case": {
+    "Text Case": {
       "None": {
         "value": "none",
         "type": "textCase"
@@ -430,7 +430,7 @@
         "type": "textCase"
       }
     },
-    "Text-Decoration": {
+    "Text Decoration": {
       "None": {
         "value": "none",
         "type": "textDecoration"
@@ -439,8 +439,8 @@
         "value": "underline",
         "type": "textDecoration"
       },
-      "Line-Through": {
-        "value": "line-through",
+      "Line Through": {
+        "value": "line through",
         "type": "textDecoration"
       }
     },
@@ -540,7 +540,7 @@
         "type": "spacing"
       }
     },
-    "Border-Radius": {
+    "Border Radius": {
       "None": {
         "value": "0",
         "type": "borderRadius"
@@ -562,7 +562,7 @@
         "type": "borderRadius"
       }
     },
-    "Border-Width": {
+    "Border Width": {
       "None": {
         "value": "0",
         "type": "borderWidth"
@@ -1483,7 +1483,7 @@
           "type": "color"
         }
       },
-      "Topnav-Tab": {
+      "Topnav Tab": {
         "Default": {
           "value": "{Color.Brand.Grey.Dark}",
           "type": "color"
@@ -1512,7 +1512,7 @@
             "type": "color"
           },
           "Secondary": {
-            "value": "{Color.Brand.Grey.Dark-Special}",
+            "value": "{Color.Brand.Grey.Dark Special}",
             "type": "color"
           },
           "Tertiary": {
@@ -1641,7 +1641,7 @@
           }
         }
       },
-      "Text-Label": {
+      "Text Label": {
         "Grey": {
           "value": "{Color.Brand.Grey.Mid}",
           "type": "color"
@@ -1651,7 +1651,7 @@
           "type": "color"
         }
       },
-      "Highlight-Label": {
+      "Highlight Label": {
         "Pink": {
           "Background": {
             "value": "{Color.Brand.Stammis}",
@@ -1663,7 +1663,7 @@
           }
         }
       },
-      "Direct-Navigation": {
+      "Direct Navigation": {
         "Default": {
           "value": "{Color.Hyperlink.Default}",
           "type": "color"
@@ -1685,7 +1685,7 @@
           "type": "color"
         }
       },
-      "Climate-Smart": {
+      "Climate Smart": {
         "Default": {
           "value": "{Color.Brand.Green.Mid}",
           "type": "color"
@@ -1722,169 +1722,169 @@
       "Heading": {
         "H1": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Rubrik}",
-            "fontWeight": "{Font-Weight.Black}",
-            "lineHeight": "{Line-Height.Heading.H1}",
-            "fontSize": "{Font-Size.Heading.H1}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Rubrik}",
+            "fontWeight": "{Font Weight.Black}",
+            "lineHeight": "{Line Height.Heading.H1}",
+            "fontSize": "{Font Size.Heading.H1}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "H1 typography set on small screens."
         },
         "H2": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Rubrik}",
-            "fontWeight": "{Font-Weight.Black}",
-            "lineHeight": "{Line-Height.Heading.H2}",
-            "fontSize": "{Font-Size.Heading.H2}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Rubrik}",
+            "fontWeight": "{Font Weight.Black}",
+            "lineHeight": "{Line Height.Heading.H2}",
+            "fontSize": "{Font Size.Heading.H2}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "H2 typography set on small screens."
         },
         "H3": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Rubrik}",
-            "fontWeight": "{Font-Weight.Black}",
-            "lineHeight": "{Line-Height.Heading.H3}",
-            "fontSize": "{Font-Size.Heading.H3}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Rubrik}",
+            "fontWeight": "{Font Weight.Black}",
+            "lineHeight": "{Line Height.Heading.H3}",
+            "fontSize": "{Font Size.Heading.H3}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "H3 typography set on small screens."
         },
         "H4": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Rubrik}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.Heading.H4}",
-            "fontSize": "{Font-Size.Heading.H4}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Rubrik}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.Heading.H4}",
+            "fontSize": "{Font Size.Heading.H4}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "H4 typography set on small screens."
         },
         "H5": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Rubrik}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.Heading.H5}",
-            "fontSize": "{Font-Size.Heading.H5}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Rubrik}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.Heading.H5}",
+            "fontSize": "{Font Size.Heading.H5}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "H5 typography set on small screens."
         },
         "H6": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Rubrik}",
-            "fontWeight": "{Font-Weight.Medium}",
-            "lineHeight": "{Line-Height.Heading.H6}",
-            "fontSize": "{Font-Size.Heading.H6}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Rubrik}",
+            "fontWeight": "{Font Weight.Medium}",
+            "lineHeight": "{Line Height.Heading.H6}",
+            "fontSize": "{Font Size.Heading.H6}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "H6 typography set on small screens."
         },
-        "BP-L": {
+        "BP L": {
           "H1": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Black}",
-              "lineHeight": "{Line-Height.Heading.BP-L.H1}",
-              "fontSize": "{Font-Size.Heading.BP-L.H1}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Black}",
+              "lineHeight": "{Line Height.Heading.BP L.H1}",
+              "fontSize": "{Font Size.Heading.BP L.H1}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "H1 typography set on large screens."
           },
           "H2": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Black}",
-              "lineHeight": "{Line-Height.Heading.BP-L.H2}",
-              "fontSize": "{Font-Size.Heading.BP-L.H2}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Black}",
+              "lineHeight": "{Line Height.Heading.BP L.H2}",
+              "fontSize": "{Font Size.Heading.BP L.H2}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "H2 typography set on large screens."
           },
           "H3": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Black}",
-              "lineHeight": "{Line-Height.Heading.BP-L.H3}",
-              "fontSize": "{Font-Size.Heading.BP-L.H3}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Black}",
+              "lineHeight": "{Line Height.Heading.BP L.H3}",
+              "fontSize": "{Font Size.Heading.BP L.H3}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "H3 typography set on large screens."
           },
           "H4": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Bold}",
-              "lineHeight": "{Line-Height.Heading.BP-L.H4}",
-              "fontSize": "{Font-Size.Heading.BP-L.H4}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Bold}",
+              "lineHeight": "{Line Height.Heading.BP L.H4}",
+              "fontSize": "{Font Size.Heading.BP L.H4}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "H4 typography set on large screens."
           },
           "H5": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Bold}",
-              "lineHeight": "{Line-Height.Heading.BP-L.H5}",
-              "fontSize": "{Font-Size.Heading.BP-L.H5}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Bold}",
+              "lineHeight": "{Line Height.Heading.BP L.H5}",
+              "fontSize": "{Font Size.Heading.BP L.H5}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "H5 typography set on large screens."
           },
           "H6": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Medium}",
-              "lineHeight": "{Line-Height.Heading.BP-L.H6}",
-              "fontSize": "{Font-Size.Heading.BP-L.H6}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Medium}",
+              "lineHeight": "{Line Height.Heading.BP L.H6}",
+              "fontSize": "{Font Size.Heading.BP L.H6}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "H6 typography set on large screens."
@@ -1894,56 +1894,56 @@
       "Subheading": {
         "XS": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Black}",
-            "lineHeight": "{Line-Height.2XS}",
-            "fontSize": "{Font-Size.2XS}",
-            "letterSpacing": "{Letter-Spacing.Label}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.Uppercase}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Black}",
+            "lineHeight": "{Line Height.2XS}",
+            "fontSize": "{Font Size.2XS}",
+            "letterSpacing": "{Letter Spacing.Label}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.Uppercase}"
           },
           "type": "typography",
           "description": "XSmall Label typography set."
         },
         "S": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Black}",
-            "lineHeight": "{Line-Height.XS}",
-            "fontSize": "{Font-Size.XS}",
-            "letterSpacing": "{Letter-Spacing.Label}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.Uppercase}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Black}",
+            "lineHeight": "{Line Height.XS}",
+            "fontSize": "{Font Size.XS}",
+            "letterSpacing": "{Letter Spacing.Label}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.Uppercase}"
           },
           "type": "typography",
           "description": "Small Label typography set."
         },
         "M": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Black}",
-            "lineHeight": "{Line-Height.S}",
-            "fontSize": "{Font-Size.S}",
-            "letterSpacing": "{Letter-Spacing.Label}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.Uppercase}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Black}",
+            "lineHeight": "{Line Height.S}",
+            "fontSize": "{Font Size.S}",
+            "letterSpacing": "{Letter Spacing.Label}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.Uppercase}"
           },
           "type": "typography",
           "description": "Medium Label typography set."
         },
         "L": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Black}",
-            "lineHeight": "{Line-Height.L}",
-            "fontSize": "{Font-Size.L}",
-            "letterSpacing": "{Letter-Spacing.Label}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.Uppercase}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Black}",
+            "lineHeight": "{Line Height.L}",
+            "fontSize": "{Font Size.L}",
+            "letterSpacing": "{Letter Spacing.Label}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.Uppercase}"
           },
           "type": "typography",
           "description": "Large Label typography set."
@@ -1952,169 +1952,169 @@
       "Text": {
         "Preamble": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Light}",
-            "lineHeight": "{Line-Height.Text.Preamble}",
-            "fontSize": "{Font-Size.Text.Preamble}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Light}",
+            "lineHeight": "{Line Height.Text.Preamble}",
+            "fontSize": "{Font Size.Text.Preamble}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Preamble typography set on small screens."
         },
-        "Preamble-S": {
+        "Preamble S": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Light}",
-            "lineHeight": "{Line-Height.Text.Preamble-S}",
-            "fontSize": "{Font-Size.Text.Preamble-S}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Light}",
+            "lineHeight": "{Line Height.Text.Preamble S}",
+            "fontSize": "{Font Size.Text.Preamble S}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Small Preamble typography set on small screens."
         },
-        "Preamble-XS": {
+        "Preamble XS": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Light}",
-            "lineHeight": "{Line-Height.Text.Preamble-XS}",
-            "fontSize": "{Font-Size.Text.Preamble-XS}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Light}",
+            "lineHeight": "{Line Height.Text.Preamble XS}",
+            "fontSize": "{Font Size.Text.Preamble XS}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Small Preamble typography set on small screens."
         },
         "L": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Regular}",
-            "lineHeight": "{Line-Height.Text.L}",
-            "fontSize": "{Font-Size.Text.L}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Regular}",
+            "lineHeight": "{Line Height.Text.L}",
+            "fontSize": "{Font Size.Text.L}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Default typography set on all breakpoints."
         },
         "M": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Regular}",
-            "lineHeight": "{Line-Height.Text.M}",
-            "fontSize": "{Font-Size.Text.M}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Regular}",
+            "lineHeight": "{Line Height.Text.M}",
+            "fontSize": "{Font Size.Text.M}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Default typography set on all breakpoints."
         },
         "Standard": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Regular}",
-            "lineHeight": "{Line-Height.Text.Standard}",
-            "fontSize": "{Font-Size.Text.Standard}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Regular}",
+            "lineHeight": "{Line Height.Text.Standard}",
+            "fontSize": "{Font Size.Text.Standard}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Default typography set on all breakpoints."
         },
         "S": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Regular}",
-            "lineHeight": "{Line-Height.Text.S}",
-            "fontSize": "{Font-Size.Text.S}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Regular}",
+            "lineHeight": "{Line Height.Text.S}",
+            "fontSize": "{Font Size.Text.S}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Small typography set on small screens."
         },
         "XS": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Regular}",
-            "lineHeight": "{Line-Height.Text.XS}",
-            "fontSize": "{Font-Size.Text.XS}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Regular}",
+            "lineHeight": "{Line Height.Text.XS}",
+            "fontSize": "{Font Size.Text.XS}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "XSmall typography set on small screens."
         },
         "2XS": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Regular}",
-            "lineHeight": "{Line-Height.Text.2XS}",
-            "fontSize": "{Font-Size.Text.2XS}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Regular}",
+            "lineHeight": "{Line Height.Text.2XS}",
+            "fontSize": "{Font Size.Text.2XS}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "2XSmall typography set on small screens."
         },
-        "BP-L": {
+        "BP L": {
           "Preamble": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Light}",
-              "lineHeight": "{Line-Height.Text.BP-L.Preamble}",
-              "fontSize": "{Font-Size.Text.BP-L.Preamble}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Light}",
+              "lineHeight": "{Line Height.Text.BP L.Preamble}",
+              "fontSize": "{Font Size.Text.BP L.Preamble}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Preamble typography set on large screens."
           },
-          "Preamble-S": {
+          "Preamble S": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Light}",
-              "lineHeight": "{Line-Height.Text.BP-L.Preamble-S}",
-              "fontSize": "{Font-Size.Text.BP-L.Preamble-S}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Light}",
+              "lineHeight": "{Line Height.Text.BP L.Preamble S}",
+              "fontSize": "{Font Size.Text.BP L.Preamble S}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Small Preamble typography set on large screens."
           },
-          "Preamble-XS": {
+          "Preamble XS": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Light}",
-              "lineHeight": "{Line-Height.Text.BP-L.Preamble-XS}",
-              "fontSize": "{Font-Size.Text.BP-L.Preamble-XS}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Light}",
+              "lineHeight": "{Line Height.Text.BP L.Preamble XS}",
+              "fontSize": "{Font Size.Text.BP L.Preamble XS}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Small Preamble typography set on large screens."
@@ -2124,85 +2124,85 @@
       "Prefix": {
         "S": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Hand}",
-            "fontWeight": "{Font-Weight.Regular}",
-            "lineHeight": "{Line-Height.S}",
-            "fontSize": "{Font-Size.S}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Hand}",
+            "fontWeight": "{Font Weight.Regular}",
+            "lineHeight": "{Line Height.S}",
+            "fontSize": "{Font Size.S}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Small prefix typography set on small screens."
         },
         "M": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Hand}",
-            "fontWeight": "{Font-Weight.Regular}",
-            "lineHeight": "{Line-Height.M}",
-            "fontSize": "{Font-Size.M}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Hand}",
+            "fontWeight": "{Font Weight.Regular}",
+            "lineHeight": "{Line Height.M}",
+            "fontSize": "{Font Size.M}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Medium prefix typography set on small screens."
         },
         "L": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Hand}",
-            "fontWeight": "{Font-Weight.Regular}",
-            "lineHeight": "{Line-Height.L}",
-            "fontSize": "{Font-Size.L}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Hand}",
+            "fontWeight": "{Font Weight.Regular}",
+            "lineHeight": "{Line Height.L}",
+            "fontSize": "{Font Size.L}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Large prefix typography set on small screens."
         },
-        "BP-L": {
+        "BP L": {
           "S": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Hand}",
-              "fontWeight": "{Font-Weight.Regular}",
-              "lineHeight": "{Line-Height.M}",
-              "fontSize": "{Font-Size.M}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Hand}",
+              "fontWeight": "{Font Weight.Regular}",
+              "lineHeight": "{Line Height.M}",
+              "fontSize": "{Font Size.M}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Small prefix typography set on small screens."
           },
           "M": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Hand}",
-              "fontWeight": "{Font-Weight.Regular}",
-              "lineHeight": "{Line-Height.L}",
-              "fontSize": "{Font-Size.L}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Hand}",
+              "fontWeight": "{Font Weight.Regular}",
+              "lineHeight": "{Line Height.L}",
+              "fontSize": "{Font Size.L}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Medium prefix typography set on small screens."
           },
           "L": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Hand}",
-              "fontWeight": "{Font-Weight.Regular}",
-              "lineHeight": "{Line-Height.XL}",
-              "fontSize": "{Font-Size.XL}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Hand}",
+              "fontWeight": "{Font Weight.Regular}",
+              "lineHeight": "{Line Height.XL}",
+              "fontSize": "{Font Size.XL}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Large prefix typography set on small screens."
@@ -2212,85 +2212,85 @@
       "Hero": {
         "Prefix": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Hand}",
-            "fontWeight": "{Font-Weight.Regular}",
-            "lineHeight": "{Line-Height.M}",
-            "fontSize": "{Font-Size.M}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Hand}",
+            "fontWeight": "{Font Weight.Regular}",
+            "lineHeight": "{Line Height.M}",
+            "fontSize": "{Font Size.M}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Small prefix typography set on small screens."
         },
         "Heading": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Rubrik}",
-            "fontWeight": "{Font-Weight.Black}",
-            "lineHeight": "{Line-Height.Heading.H2}",
-            "fontSize": "{Font-Size.Heading.H2}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Rubrik}",
+            "fontWeight": "{Font Weight.Black}",
+            "lineHeight": "{Line Height.Heading.H2}",
+            "fontSize": "{Font Size.Heading.H2}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Hero title typography set on small screens."
         },
         "Preamlbe": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Light}",
-            "lineHeight": "{Line-Height.Text.Preamble}",
-            "fontSize": "{Font-Size.Text.Preamble}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Light}",
+            "lineHeight": "{Line Height.Text.Preamble}",
+            "fontSize": "{Font Size.Text.Preamble}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Hero preamble typography set on small screens."
         },
-        "BP-L": {
+        "BP L": {
           "Prefix": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Hand}",
-              "fontWeight": "{Font-Weight.Regular}",
-              "lineHeight": "{Line-Height.L}",
-              "fontSize": "{Font-Size.L}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Hand}",
+              "fontWeight": "{Font Weight.Regular}",
+              "lineHeight": "{Line Height.L}",
+              "fontSize": "{Font Size.L}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Small prefix typography set on small screens."
           },
           "Heading": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Black}",
-              "lineHeight": "{Line-Height.Heading.BP-L.H2}",
-              "fontSize": "{Font-Size.Heading.BP-L.H2}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Black}",
+              "lineHeight": "{Line Height.Heading.BP L.H2}",
+              "fontSize": "{Font Size.Heading.BP L.H2}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Hero title typography set on small screens."
           },
           "Preamlbe": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Light}",
-              "lineHeight": "{Line-Height.Text.BP-L.Preamble}",
-              "fontSize": "{Font-Size.Text.BP-L.Preamble}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Light}",
+              "lineHeight": "{Line Height.Text.BP L.Preamble}",
+              "fontSize": "{Font Size.Text.BP L.Preamble}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Hero preamble typography set on small screens."
@@ -2300,70 +2300,70 @@
       "Button": {
         "XS": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.Button.XS}",
-            "fontSize": "{Font-Size.Button.XS}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.Button.XS}",
+            "fontSize": "{Font Size.Button.XS}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "XSmall Button typography set."
         },
         "S": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.Button.S}",
-            "fontSize": "{Font-Size.Button.S}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.Button.S}",
+            "fontSize": "{Font Size.Button.S}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Small Button typography set."
         },
         "M": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.Button.M}",
-            "fontSize": "{Font-Size.Button.M}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.Button.M}",
+            "fontSize": "{Font Size.Button.M}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Medium Button typography set."
         },
         "L": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.Button.L}",
-            "fontSize": "{Font-Size.Button.L}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.Button.L}",
+            "fontSize": "{Font Size.Button.L}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Large Button typography set."
         },
         "XL": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.Button.XL}",
-            "fontSize": "{Font-Size.Button.XL}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.Button.XL}",
+            "fontSize": "{Font Size.Button.XL}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "XLarge Button typography set."
@@ -2372,114 +2372,114 @@
       "Hyperlink": {
         "L": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.L}",
-            "fontSize": "{Font-Size.L}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.L}",
+            "fontSize": "{Font Size.L}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Preamble typography set on small screens."
         },
         "M": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.M}",
-            "fontSize": "{Font-Size.M}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.M}",
+            "fontSize": "{Font Size.M}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Small Preamble typography set on small screens."
         },
         "Standard": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.S}",
-            "fontSize": "{Font-Size.S}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.S}",
+            "fontSize": "{Font Size.S}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Default Body typography set on small screens."
         },
         "S": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.XS}",
-            "fontSize": "{Font-Size.XS}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.XS}",
+            "fontSize": "{Font Size.XS}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Small typography set on small screens."
         },
         "XS": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.2XS}",
-            "fontSize": "{Font-Size.2XS}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.2XS}",
+            "fontSize": "{Font Size.2XS}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "XSmall typography set on small screens."
         },
         "2XS": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.3XS}",
-            "fontSize": "{Font-Size.3XS}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.3XS}",
+            "fontSize": "{Font Size.3XS}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "2XSmall typography set on small screens."
         }
       },
-      "Topnav-Tab": {
+      "Topnav Tab": {
         "Default": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Regular}",
-            "lineHeight": "{Line-Height.Topnav-Tab}",
-            "fontSize": "{Font-Size.Topnav-Tab}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Regular}",
+            "lineHeight": "{Line Height.Topnav Tab}",
+            "fontSize": "{Font Size.Topnav Tab}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Top navigation tab typography set on all screen sizes."
         },
         "Active": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.Topnav-Tab}",
-            "fontSize": "{Font-Size.Topnav-Tab}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.Topnav Tab}",
+            "fontSize": "{Font Size.Topnav Tab}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Top navigation tab typography set on all screen sizes."
@@ -2488,28 +2488,28 @@
       "Tab": {
         "Default": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Regular}",
-            "lineHeight": "{Line-Height.S}",
-            "fontSize": "{Font-Size.S}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Regular}",
+            "lineHeight": "{Line Height.S}",
+            "fontSize": "{Font Size.S}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Top navigation tab typography set on all screen sizes."
         },
         "Active": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.S}",
-            "fontSize": "{Font-Size.S}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.S}",
+            "fontSize": "{Font Size.S}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Top navigation tab typography set on all screen sizes."
@@ -2518,28 +2518,28 @@
       "Alert": {
         "Title": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.Text.Standard}",
-            "fontSize": "{Font-Size.Text.Standard}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.Text.Standard}",
+            "fontSize": "{Font Size.Text.Standard}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Default typography set on all breakpoints."
         },
         "Message": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Regular}",
-            "lineHeight": "{Line-Height.Text.Standard}",
-            "fontSize": "{Font-Size.Text.Standard}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Regular}",
+            "lineHeight": "{Line Height.Text.Standard}",
+            "fontSize": "{Font Size.Text.Standard}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Default typography set on all breakpoints."
@@ -2548,28 +2548,28 @@
       "Breadcrumb": {
         "Default": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.Text.S}",
-            "fontSize": "{Font-Size.Text.S}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.Text.S}",
+            "fontSize": "{Font Size.Text.S}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Breadcrumbs typography set on all screens."
         },
         "Active": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Regular}",
-            "lineHeight": "{Line-Height.Text.S}",
-            "fontSize": "{Font-Size.Text.S}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Regular}",
+            "lineHeight": "{Line Height.Text.S}",
+            "fontSize": "{Font Size.Text.S}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Breadcrumbs typography set on all screens."
@@ -2578,132 +2578,132 @@
       "Accordion": {
         "Default": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Regular}",
-            "lineHeight": "{Line-Height.S}",
-            "fontSize": "{Font-Size.S}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Regular}",
+            "lineHeight": "{Line Height.S}",
+            "fontSize": "{Font Size.S}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Default Body typography set on small screens."
         },
         "Active": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.S}",
-            "fontSize": "{Font-Size.S}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.S}",
+            "fontSize": "{Font Size.S}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Default Body typography set on small screens."
         },
-        "BP-L": {
+        "BP L": {
           "Default": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Regular}",
-              "lineHeight": "{Line-Height.M}",
-              "fontSize": "{Font-Size.M}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Regular}",
+              "lineHeight": "{Line Height.M}",
+              "fontSize": "{Font Size.M}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default Body typography set on small screens."
           },
           "Active": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Bold}",
-              "lineHeight": "{Line-Height.M}",
-              "fontSize": "{Font-Size.M}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Bold}",
+              "lineHeight": "{Line Height.M}",
+              "fontSize": "{Font Size.M}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default Body typography set on small screens."
           }
         }
       },
-      "Text-Label": {
+      "Text Label": {
         "S": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.2XS}",
-            "fontSize": "{Font-Size.2XS}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.2XS}",
+            "fontSize": "{Font Size.2XS}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
-          "description": "Small Text-Label typography set."
+          "description": "Small Text Label typography set."
         },
         "M": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.XS}",
-            "fontSize": "{Font-Size.XS}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.XS}",
+            "fontSize": "{Font Size.XS}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
-          "description": "Medium Text-Label typography set."
+          "description": "Medium Text Label typography set."
         },
         "L": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.S}",
-            "fontSize": "{Font-Size.S}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.S}",
+            "fontSize": "{Font Size.S}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
-          "description": "Large Text-Label typography set."
+          "description": "Large Text Label typography set."
         }
       },
-      "Highlight-Label": {
+      "Highlight Label": {
         "S": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Black}",
-            "lineHeight": "{Line-Height.S}",
-            "fontSize": "{Font-Size.S}",
-            "letterSpacing": "{Letter-Spacing.Label}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.Uppercase}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Black}",
+            "lineHeight": "{Line Height.S}",
+            "fontSize": "{Font Size.S}",
+            "letterSpacing": "{Letter Spacing.Label}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.Uppercase}"
           },
           "type": "typography",
           "description": "Small block label typography set."
         },
         "L": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Black}",
-            "lineHeight": "{Line-Height.L}",
-            "fontSize": "{Font-Size.L}",
-            "letterSpacing": "{Letter-Spacing.Label}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.Uppercase}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Black}",
+            "lineHeight": "{Line Height.L}",
+            "fontSize": "{Font Size.L}",
+            "letterSpacing": "{Letter Spacing.Label}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.Uppercase}"
           },
           "type": "typography",
           "description": "Large block label typography set."
@@ -2712,28 +2712,28 @@
       "Avatar": {
         "Heading": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Rubrik}",
-            "fontWeight": "{Font-Weight.Medium}",
-            "lineHeight": "{Line-Height.S}",
-            "fontSize": "{Font-Size.S}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Rubrik}",
+            "fontWeight": "{Font Weight.Medium}",
+            "lineHeight": "{Line Height.S}",
+            "fontSize": "{Font Size.S}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "H6 typography set on small screens."
         },
         "Item": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Regular}",
-            "lineHeight": "{Line-Height.Text.S}",
-            "fontSize": "{Font-Size.Text.S}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Regular}",
+            "lineHeight": "{Line Height.Text.S}",
+            "fontSize": "{Font Size.Text.S}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Small typography set on small screens."
@@ -2743,28 +2743,28 @@
         "S": {
           "Title": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Bold}",
-              "lineHeight": "{Line-Height.S}",
-              "fontSize": "{Font-Size.S}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Bold}",
+              "lineHeight": "{Line Height.S}",
+              "fontSize": "{Font Size.S}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Preamble": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Light}",
-              "lineHeight": "{Line-Height.S}",
-              "fontSize": "{Font-Size.S}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Light}",
+              "lineHeight": "{Line Height.S}",
+              "fontSize": "{Font Size.S}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
@@ -2773,28 +2773,28 @@
         "M": {
           "Title": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Medium}",
-              "lineHeight": "{Line-Height.M}",
-              "fontSize": "{Font-Size.M}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Medium}",
+              "lineHeight": "{Line Height.M}",
+              "fontSize": "{Font Size.M}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Preamble": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Light}",
-              "lineHeight": "{Line-Height.S}",
-              "fontSize": "{Font-Size.S}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Light}",
+              "lineHeight": "{Line Height.S}",
+              "fontSize": "{Font Size.S}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
@@ -2803,28 +2803,28 @@
         "L": {
           "Title": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Medium}",
-              "lineHeight": "{Line-Height.L}",
-              "fontSize": "{Font-Size.L}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Medium}",
+              "lineHeight": "{Line Height.L}",
+              "fontSize": "{Font Size.L}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Preamble": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Light}",
-              "lineHeight": "{Line-Height.M}",
-              "fontSize": "{Font-Size.M}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Light}",
+              "lineHeight": "{Line Height.M}",
+              "fontSize": "{Font Size.M}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
@@ -2835,42 +2835,42 @@
         "S": {
           "Prefix": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Hand}",
-              "fontWeight": "{Font-Weight.Regular}",
-              "lineHeight": "{Line-Height.S}",
-              "fontSize": "{Font-Size.S}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Hand}",
+              "fontWeight": "{Font Weight.Regular}",
+              "lineHeight": "{Line Height.S}",
+              "fontSize": "{Font Size.S}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Title": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Medium}",
-              "lineHeight": "{Line-Height.M}",
-              "fontSize": "{Font-Size.M}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Medium}",
+              "lineHeight": "{Line Height.M}",
+              "fontSize": "{Font Size.M}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Preamble": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Light}",
-              "lineHeight": "{Line-Height.S}",
-              "fontSize": "{Font-Size.S}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Light}",
+              "lineHeight": "{Line Height.S}",
+              "fontSize": "{Font Size.S}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
@@ -2879,42 +2879,42 @@
         "M": {
           "Prefix": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Hand}",
-              "fontWeight": "{Font-Weight.Regular}",
-              "lineHeight": "{Line-Height.M}",
-              "fontSize": "{Font-Size.M}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Hand}",
+              "fontWeight": "{Font Weight.Regular}",
+              "lineHeight": "{Line Height.M}",
+              "fontSize": "{Font Size.M}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Title": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Medium}",
-              "lineHeight": "{Line-Height.L}",
-              "fontSize": "{Font-Size.L}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Medium}",
+              "lineHeight": "{Line Height.L}",
+              "fontSize": "{Font Size.L}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Preamble": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Light}",
-              "lineHeight": "{Line-Height.S}",
-              "fontSize": "{Font-Size.S}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Light}",
+              "lineHeight": "{Line Height.S}",
+              "fontSize": "{Font Size.S}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
@@ -2923,42 +2923,42 @@
         "L": {
           "Prefix": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Hand}",
-              "fontWeight": "{Font-Weight.Regular}",
-              "lineHeight": "{Line-Height.L}",
-              "fontSize": "{Font-Size.L}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Hand}",
+              "fontWeight": "{Font Weight.Regular}",
+              "lineHeight": "{Line Height.L}",
+              "fontSize": "{Font Size.L}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Title": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Medium}",
-              "lineHeight": "{Line-Height.XL}",
-              "fontSize": "{Font-Size.XL}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Medium}",
+              "lineHeight": "{Line Height.XL}",
+              "fontSize": "{Font Size.XL}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Preamble": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Light}",
-              "lineHeight": "{Line-Height.M}",
-              "fontSize": "{Font-Size.M}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Light}",
+              "lineHeight": "{Line Height.M}",
+              "fontSize": "{Font Size.M}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
@@ -2969,42 +2969,42 @@
         "S": {
           "Prefix": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Hand}",
-              "fontWeight": "{Font-Weight.Regular}",
-              "lineHeight": "{Line-Height.S}",
-              "fontSize": "{Font-Size.S}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Hand}",
+              "fontWeight": "{Font Weight.Regular}",
+              "lineHeight": "{Line Height.S}",
+              "fontSize": "{Font Size.S}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Title": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Medium}",
-              "lineHeight": "{Line-Height.M}",
-              "fontSize": "{Font-Size.M}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Medium}",
+              "lineHeight": "{Line Height.M}",
+              "fontSize": "{Font Size.M}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Preamble": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Light}",
-              "lineHeight": "{Line-Height.S}",
-              "fontSize": "{Font-Size.S}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Light}",
+              "lineHeight": "{Line Height.S}",
+              "fontSize": "{Font Size.S}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
@@ -3013,42 +3013,42 @@
         "M": {
           "Prefix": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Hand}",
-              "fontWeight": "{Font-Weight.Regular}",
-              "lineHeight": "{Line-Height.M}",
-              "fontSize": "{Font-Size.M}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Hand}",
+              "fontWeight": "{Font Weight.Regular}",
+              "lineHeight": "{Line Height.M}",
+              "fontSize": "{Font Size.M}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Title": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Medium}",
-              "lineHeight": "{Line-Height.L}",
-              "fontSize": "{Font-Size.L}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Medium}",
+              "lineHeight": "{Line Height.L}",
+              "fontSize": "{Font Size.L}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Preamble": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Light}",
-              "lineHeight": "{Line-Height.M}",
-              "fontSize": "{Font-Size.M}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Light}",
+              "lineHeight": "{Line Height.M}",
+              "fontSize": "{Font Size.M}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
@@ -3057,42 +3057,42 @@
         "L": {
           "Prefix": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Hand}",
-              "fontWeight": "{Font-Weight.Regular}",
-              "lineHeight": "{Line-Height.L}",
-              "fontSize": "{Font-Size.L}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Hand}",
+              "fontWeight": "{Font Weight.Regular}",
+              "lineHeight": "{Line Height.L}",
+              "fontSize": "{Font Size.L}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Title": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Medium}",
-              "lineHeight": "{Line-Height.XL}",
-              "fontSize": "{Font-Size.XL}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Medium}",
+              "lineHeight": "{Line Height.XL}",
+              "fontSize": "{Font Size.XL}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Preamble": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Light}",
-              "lineHeight": "{Line-Height.M}",
-              "fontSize": "{Font-Size.M}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Light}",
+              "lineHeight": "{Line Height.M}",
+              "fontSize": "{Font Size.M}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
@@ -3103,28 +3103,28 @@
         "S": {
           "Title": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Medium}",
-              "lineHeight": "{Line-Height.M}",
-              "fontSize": "{Font-Size.M}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Medium}",
+              "lineHeight": "{Line Height.M}",
+              "fontSize": "{Font Size.M}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Counts": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Regular}",
-              "lineHeight": "{Line-Height.XS}",
-              "fontSize": "{Font-Size.XS}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Regular}",
+              "lineHeight": "{Line Height.XS}",
+              "fontSize": "{Font Size.XS}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
@@ -3133,28 +3133,28 @@
         "M": {
           "Title": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Medium}",
-              "lineHeight": "{Line-Height.M}",
-              "fontSize": "{Font-Size.M}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Medium}",
+              "lineHeight": "{Line Height.M}",
+              "fontSize": "{Font Size.M}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Counts": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Regular}",
-              "lineHeight": "{Line-Height.S}",
-              "fontSize": "{Font-Size.S}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Regular}",
+              "lineHeight": "{Line Height.S}",
+              "fontSize": "{Font Size.S}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
@@ -3163,28 +3163,28 @@
         "L": {
           "Title": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Medium}",
-              "lineHeight": "{Line-Height.L}",
-              "fontSize": "{Font-Size.L}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Medium}",
+              "lineHeight": "{Line Height.L}",
+              "fontSize": "{Font Size.L}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Counts": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Regular}",
-              "lineHeight": "{Line-Height.S}",
-              "fontSize": "{Font-Size.S}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Regular}",
+              "lineHeight": "{Line Height.S}",
+              "fontSize": "{Font Size.S}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
@@ -3195,42 +3195,42 @@
         "S": {
           "Prefix": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Hand}",
-              "fontWeight": "{Font-Weight.Regular}",
-              "lineHeight": "{Line-Height.M}",
-              "fontSize": "{Font-Size.M}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Hand}",
+              "fontWeight": "{Font Weight.Regular}",
+              "lineHeight": "{Line Height.M}",
+              "fontSize": "{Font Size.M}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Title": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Medium}",
-              "lineHeight": "{Line-Height.XL}",
-              "fontSize": "{Font-Size.XL}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Medium}",
+              "lineHeight": "{Line Height.XL}",
+              "fontSize": "{Font Size.XL}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Preamble": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Light}",
-              "lineHeight": "{Line-Height.M}",
-              "fontSize": "{Font-Size.M}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Light}",
+              "lineHeight": "{Line Height.M}",
+              "fontSize": "{Font Size.M}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
@@ -3239,42 +3239,42 @@
         "M": {
           "Prefix": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Hand}",
-              "fontWeight": "{Font-Weight.Regular}",
-              "lineHeight": "{Line-Height.M}",
-              "fontSize": "{Font-Size.M}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Hand}",
+              "fontWeight": "{Font Weight.Regular}",
+              "lineHeight": "{Line Height.M}",
+              "fontSize": "{Font Size.M}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Title": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Medium}",
-              "lineHeight": "{Line-Height.XL}",
-              "fontSize": "{Font-Size.XL}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Medium}",
+              "lineHeight": "{Line Height.XL}",
+              "fontSize": "{Font Size.XL}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Preamble": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Light}",
-              "lineHeight": "{Line-Height.M}",
-              "fontSize": "{Font-Size.M}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Light}",
+              "lineHeight": "{Line Height.M}",
+              "fontSize": "{Font Size.M}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
@@ -3283,42 +3283,42 @@
         "L": {
           "Prefix": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Hand}",
-              "fontWeight": "{Font-Weight.Regular}",
-              "lineHeight": "{Line-Height.L}",
-              "fontSize": "{Font-Size.L}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Hand}",
+              "fontWeight": "{Font Weight.Regular}",
+              "lineHeight": "{Line Height.L}",
+              "fontSize": "{Font Size.L}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Title": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Rubrik}",
-              "fontWeight": "{Font-Weight.Medium}",
-              "lineHeight": "{Line-Height.2XL}",
-              "fontSize": "{Font-Size.2XL}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Medium}",
+              "lineHeight": "{Line Height.2XL}",
+              "fontSize": "{Font Size.2XL}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
           },
           "Preamble": {
             "value": {
-              "fontFamily": "{Font-Family.ICA-Text-Ny}",
-              "fontWeight": "{Font-Weight.Light}",
-              "lineHeight": "{Line-Height.M}",
-              "fontSize": "{Font-Size.M}",
-              "letterSpacing": "{Letter-Spacing.None}",
-              "paragraphSpacing": "{Paragraph-Spacing.None}",
-              "textDecoration": "{Text-Decoration.None}",
-              "textCase": "{Text-Case.None}"
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Light}",
+              "lineHeight": "{Line Height.M}",
+              "fontSize": "{Font Size.M}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
             },
             "type": "typography",
             "description": "Default typography set on all breakpoints."
@@ -3328,28 +3328,28 @@
       "Overview Navigation": {
         "Title": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Rubrik}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.L}",
-            "fontSize": "{Font-Size.L}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Rubrik}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.L}",
+            "fontSize": "{Font Size.L}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Default Body typography set on small screens."
         },
         "Preamble": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Light}",
-            "lineHeight": "{Line-Height.Text.Preamble-XS}",
-            "fontSize": "{Font-Size.Text.Preamble-XS}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Light}",
+            "lineHeight": "{Line Height.Text.Preamble XS}",
+            "fontSize": "{Font Size.Text.Preamble XS}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Small Preamble typography set on small screens."
@@ -3358,299 +3358,299 @@
       "Section Navigation": {
         "Title": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Bold}",
-            "lineHeight": "{Line-Height.S}",
-            "fontSize": "{Font-Size.S}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Bold}",
+            "lineHeight": "{Line Height.S}",
+            "fontSize": "{Font Size.S}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Default Body typography set on small screens."
         },
         "Preamble": {
           "value": {
-            "fontFamily": "{Font-Family.ICA-Text-Ny}",
-            "fontWeight": "{Font-Weight.Light}",
-            "lineHeight": "{Line-Height.Text.Preamble-XS}",
-            "fontSize": "{Font-Size.Text.Preamble-XS}",
-            "letterSpacing": "{Letter-Spacing.None}",
-            "paragraphSpacing": "{Paragraph-Spacing.None}",
-            "textDecoration": "{Text-Decoration.None}",
-            "textCase": "{Text-Case.None}"
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Light}",
+            "lineHeight": "{Line Height.Text.Preamble XS}",
+            "fontSize": "{Font Size.Text.Preamble XS}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
           },
           "type": "typography",
           "description": "Small Preamble typography set on small screens."
         }
       }
     },
-    "Font-Size": {
+    "Font Size": {
       "Heading": {
         "H1": {
-          "value": "{Font-Size.3XL}",
+          "value": "{Font Size.3XL}",
           "type": "fontSizes"
         },
         "H2": {
-          "value": "{Font-Size.2XL}",
+          "value": "{Font Size.2XL}",
           "type": "fontSizes"
         },
         "H3": {
-          "value": "{Font-Size.XL}",
+          "value": "{Font Size.XL}",
           "type": "fontSizes"
         },
         "H4": {
-          "value": "{Font-Size.L}",
+          "value": "{Font Size.L}",
           "type": "fontSizes"
         },
         "H5": {
-          "value": "{Font-Size.M}",
+          "value": "{Font Size.M}",
           "type": "fontSizes"
         },
         "H6": {
-          "value": "{Font-Size.S}",
+          "value": "{Font Size.S}",
           "type": "fontSizes"
         },
-        "BP-L": {
+        "BP L": {
           "H1": {
-            "value": "{Font-Size.4XL}",
+            "value": "{Font Size.4XL}",
             "type": "fontSizes"
           },
           "H2": {
-            "value": "{Font-Size.3XL}",
+            "value": "{Font Size.3XL}",
             "type": "fontSizes"
           },
           "H3": {
-            "value": "{Font-Size.2XL}",
+            "value": "{Font Size.2XL}",
             "type": "fontSizes"
           },
           "H4": {
-            "value": "{Font-Size.XL}",
+            "value": "{Font Size.XL}",
             "type": "fontSizes"
           },
           "H5": {
-            "value": "{Font-Size.L}",
+            "value": "{Font Size.L}",
             "type": "fontSizes"
           },
           "H6": {
-            "value": "{Font-Size.M}",
+            "value": "{Font Size.M}",
             "type": "fontSizes"
           }
         }
       },
       "Text": {
         "Preamble": {
-          "value": "{Font-Size.M}",
+          "value": "{Font Size.M}",
           "type": "fontSizes"
         },
-        "Preamble-S": {
-          "value": "{Font-Size.S}",
+        "Preamble S": {
+          "value": "{Font Size.S}",
           "type": "fontSizes"
         },
-        "Preamble-XS": {
-          "value": "{Font-Size.S}",
+        "Preamble XS": {
+          "value": "{Font Size.S}",
           "type": "fontSizes"
         },
         "L": {
-          "value": "{Font-Size.L}",
+          "value": "{Font Size.L}",
           "type": "fontSizes"
         },
         "M": {
-          "value": "{Font-Size.M}",
+          "value": "{Font Size.M}",
           "type": "fontSizes"
         },
         "Standard": {
-          "value": "{Font-Size.S}",
+          "value": "{Font Size.S}",
           "type": "fontSizes"
         },
         "S": {
-          "value": "{Font-Size.XS}",
+          "value": "{Font Size.XS}",
           "type": "fontSizes"
         },
         "XS": {
-          "value": "{Font-Size.2XS}",
+          "value": "{Font Size.2XS}",
           "type": "fontSizes"
         },
         "2XS": {
-          "value": "{Font-Size.3XS}",
+          "value": "{Font Size.3XS}",
           "type": "fontSizes"
         },
-        "BP-L": {
+        "BP L": {
           "Preamble": {
-            "value": "{Font-Size.L}",
+            "value": "{Font Size.L}",
             "type": "fontSizes"
           },
-          "Preamble-S": {
-            "value": "{Font-Size.M}",
+          "Preamble S": {
+            "value": "{Font Size.M}",
             "type": "fontSizes"
           },
-          "Preamble-XS": {
-            "value": "{Font-Size.S}",
+          "Preamble XS": {
+            "value": "{Font Size.S}",
             "type": "fontSizes"
           }
         }
       },
       "Button": {
         "XS": {
-          "value": "{Font-Size.2XS}",
+          "value": "{Font Size.2XS}",
           "type": "fontSizes"
         },
         "S": {
-          "value": "{Font-Size.XS}",
+          "value": "{Font Size.XS}",
           "type": "fontSizes"
         },
         "M": {
-          "value": "{Font-Size.S}",
+          "value": "{Font Size.S}",
           "type": "fontSizes"
         },
         "L": {
-          "value": "{Font-Size.S}",
+          "value": "{Font Size.S}",
           "type": "fontSizes"
         },
         "XL": {
-          "value": "{Font-Size.M}",
+          "value": "{Font Size.M}",
           "type": "fontSizes"
         }
       },
-      "Topnav-Tab": {
-        "value": "{Font-Size.S}",
+      "Topnav Tab": {
+        "value": "{Font Size.S}",
         "type": "fontSizes"
       }
     },
-    "Line-Height": {
+    "Line Height": {
       "Heading": {
         "H1": {
-          "value": "{Line-Height.3XL}",
+          "value": "{Line Height.3XL}",
           "type": "lineHeights"
         },
         "H2": {
-          "value": "{Line-Height.2XL}",
+          "value": "{Line Height.2XL}",
           "type": "lineHeights"
         },
         "H3": {
-          "value": "{Line-Height.XL}",
+          "value": "{Line Height.XL}",
           "type": "lineHeights"
         },
         "H4": {
-          "value": "{Line-Height.L}",
+          "value": "{Line Height.L}",
           "type": "lineHeights"
         },
         "H5": {
-          "value": "{Line-Height.M}",
+          "value": "{Line Height.M}",
           "type": "lineHeights"
         },
         "H6": {
-          "value": "{Line-Height.S}",
+          "value": "{Line Height.S}",
           "type": "lineHeights"
         },
-        "BP-L": {
+        "BP L": {
           "H1": {
-            "value": "{Line-Height.4XL}",
+            "value": "{Line Height.4XL}",
             "type": "lineHeights"
           },
           "H2": {
-            "value": "{Line-Height.3XL}",
+            "value": "{Line Height.3XL}",
             "type": "lineHeights"
           },
           "H3": {
-            "value": "{Line-Height.2XL}",
+            "value": "{Line Height.2XL}",
             "type": "lineHeights"
           },
           "H4": {
-            "value": "{Line-Height.XL}",
+            "value": "{Line Height.XL}",
             "type": "lineHeights"
           },
           "H5": {
-            "value": "{Line-Height.L}",
+            "value": "{Line Height.L}",
             "type": "lineHeights"
           },
           "H6": {
-            "value": "{Line-Height.M}",
+            "value": "{Line Height.M}",
             "type": "lineHeights"
           }
         }
       },
       "Text": {
         "Preamble": {
-          "value": "{Line-Height.M}",
+          "value": "{Line Height.M}",
           "type": "lineHeights"
         },
-        "Preamble-S": {
-          "value": "{Line-Height.S}",
+        "Preamble S": {
+          "value": "{Line Height.S}",
           "type": "lineHeights"
         },
-        "Preamble-XS": {
-          "value": "{Line-Height.S}",
+        "Preamble XS": {
+          "value": "{Line Height.S}",
           "type": "lineHeights"
         },
         "L": {
-          "value": "{Line-Height.L}",
+          "value": "{Line Height.L}",
           "type": "lineHeights"
         },
         "M": {
-          "value": "{Line-Height.M}",
+          "value": "{Line Height.M}",
           "type": "lineHeights"
         },
         "Standard": {
-          "value": "{Line-Height.S}",
+          "value": "{Line Height.S}",
           "type": "lineHeights"
         },
         "S": {
-          "value": "{Line-Height.XS}",
+          "value": "{Line Height.XS}",
           "type": "lineHeights"
         },
         "XS": {
-          "value": "{Line-Height.2XS}",
+          "value": "{Line Height.2XS}",
           "type": "lineHeights"
         },
         "2XS": {
-          "value": "{Line-Height.2XS}",
+          "value": "{Line Height.2XS}",
           "type": "lineHeights"
         },
-        "BP-L": {
+        "BP L": {
           "Preamble": {
-            "value": "{Line-Height.L}",
+            "value": "{Line Height.L}",
             "type": "lineHeights"
           },
-          "Preamble-S": {
-            "value": "{Line-Height.M}",
+          "Preamble S": {
+            "value": "{Line Height.M}",
             "type": "lineHeights"
           },
-          "Preamble-XS": {
-            "value": "{Line-Height.S}",
+          "Preamble XS": {
+            "value": "{Line Height.S}",
             "type": "lineHeights"
           }
         }
       },
       "Button": {
         "XS": {
-          "value": "{Line-Height.2XS}",
+          "value": "{Line Height.2XS}",
           "type": "lineHeights"
         },
         "S": {
-          "value": "{Line-Height.XS}",
+          "value": "{Line Height.XS}",
           "type": "lineHeights"
         },
         "M": {
-          "value": "{Line-Height.S}",
+          "value": "{Line Height.S}",
           "type": "lineHeights"
         },
         "L": {
-          "value": "{Line-Height.S}",
+          "value": "{Line Height.S}",
           "type": "lineHeights"
         },
         "XL": {
-          "value": "{Line-Height.M}",
+          "value": "{Line Height.M}",
           "type": "lineHeights"
         }
       },
-      "Topnav-Tab": {
-        "value": "{Line-Height.S}",
+      "Topnav Tab": {
+        "value": "{Line Height.S}",
         "type": "lineHeights"
       }
     },
-    "Letter-Spacing": {
+    "Letter Spacing": {
       "Label": {
         "value": "0.4",
         "type": "letterSpacing"
@@ -3659,11 +3659,11 @@
     "Size": {
       "BP": {
         "XS": {
-          "value": "{Size.BP.Device.Mobile-S}",
+          "value": "{Size.BP.Device.Mobile S}",
           "type": "sizing"
         },
         "S": {
-          "value": "{Size.BP.Device.Mobile-M}",
+          "value": "{Size.BP.Device.Mobile M}",
           "type": "sizing"
         },
         "M": {
@@ -3671,7 +3671,7 @@
           "type": "sizing"
         },
         "L": {
-          "value": "{Size.BP.Device.Tablet-L}",
+          "value": "{Size.BP.Device.Tablet L}",
           "type": "sizing"
         },
         "XL": {
@@ -3683,15 +3683,15 @@
           "type": "sizing"
         },
         "Device": {
-          "Mobile-S": {
+          "Mobile S": {
             "value": "320",
             "type": "sizing"
           },
-          "Mobile-M": {
+          "Mobile M": {
             "value": "375",
             "type": "sizing"
           },
-          "Mobile-L": {
+          "Mobile L": {
             "value": "425",
             "type": "sizing"
           },
@@ -3699,7 +3699,7 @@
             "value": "768",
             "type": "sizing"
           },
-          "Tablet-L": {
+          "Tablet L": {
             "value": "1024",
             "type": "sizing"
           },
@@ -3719,7 +3719,7 @@
           "type": "sizing"
         }
       },
-      "Topnav-Tab": {
+      "Topnav Tab": {
         "Height": {
           "value": "32",
           "type": "sizing"
@@ -3732,7 +3732,7 @@
             "type": "sizing"
           },
           "Icon": {
-            "value": "{Line-Height.Button.XS}",
+            "value": "{Line Height.Button.XS}",
             "type": "sizing"
           }
         },
@@ -3742,7 +3742,7 @@
             "type": "sizing"
           },
           "Icon": {
-            "value": "{Line-Height.Button.S}",
+            "value": "{Line Height.Button.S}",
             "type": "sizing"
           }
         },
@@ -3752,7 +3752,7 @@
             "type": "sizing"
           },
           "Icon": {
-            "value": "{Line-Height.Button.M}",
+            "value": "{Line Height.Button.M}",
             "type": "sizing"
           }
         },
@@ -3762,7 +3762,7 @@
             "type": "sizing"
           },
           "Icon": {
-            "value": "{Line-Height.Button.L}",
+            "value": "{Line Height.Button.L}",
             "type": "sizing"
           }
         },
@@ -3772,12 +3772,12 @@
             "type": "sizing"
           },
           "Icon": {
-            "value": "{Line-Height.Button.XL}",
+            "value": "{Line Height.Button.XL}",
             "type": "sizing"
           }
         }
       },
-      "Circle-Button": {
+      "Circle Button": {
         "XS": {
           "Circle": {
             "value": "{Size.2XS}",
@@ -3829,19 +3829,19 @@
           }
         }
       },
-      "Avatar-Button": {
+      "Avatar Button": {
         "Height": {
           "value": "{Size.S}",
           "type": "sizing"
         },
         "Icon": {
-          "value": "{Line-Height.Button.S}",
+          "value": "{Line Height.Button.S}",
           "type": "sizing"
         }
       },
       "Alert": {
         "Icon": {
-          "value": "{Line-Height.Text.Standard}",
+          "value": "{Line Height.Text.Standard}",
           "type": "sizing"
         }
       },
@@ -3861,36 +3861,36 @@
           "type": "sizing"
         }
       },
-      "Text-Label": {
+      "Text Label": {
         "S": {
           "Icon": {
-            "value": "{Line-Height.2XS}",
+            "value": "{Line Height.2XS}",
             "type": "sizing"
           }
         },
         "M": {
           "Icon": {
-            "value": "{Line-Height.XS}",
+            "value": "{Line Height.XS}",
             "type": "sizing"
           }
         },
         "L": {
           "Icon": {
-            "value": "{Line-Height.S}",
+            "value": "{Line Height.S}",
             "type": "sizing"
           }
         }
       },
-      "Highlight-Label": {
+      "Highlight Label": {
         "S": {
           "Icon": {
-            "value": "{Line-Height.S}",
+            "value": "{Line Height.S}",
             "type": "sizing"
           }
         },
         "L": {
           "Icon": {
-            "value": "{Line-Height.L}",
+            "value": "{Line Height.L}",
             "type": "sizing"
           }
         }
@@ -3898,24 +3898,24 @@
     },
     "Spacing": {
       "Topnav": {
-        "Padding-Horizontal": {
-          "BP-XS": {
+        "Padding Horizontal": {
+          "BP XS": {
             "value": "{Spacing.XS}",
             "type": "spacing"
           },
-          "BP-S": {
+          "BP S": {
             "value": "{Spacing.S}",
             "type": "spacing"
           },
-          "BP-M": {
+          "BP M": {
             "value": "{Spacing.L}",
             "type": "spacing"
           },
-          "BP-L": {
+          "BP L": {
             "value": "{Spacing.L}",
             "type": "spacing"
           },
-          "BP-XL": {
+          "BP XL": {
             "value": "104",
             "type": "spacing"
           }
@@ -3923,94 +3923,94 @@
       },
       "Button": {
         "XS": {
-          "Padding-Horizontal": {
+          "Padding Horizontal": {
             "value": "{Spacing.XS}",
             "type": "spacing"
           },
-          "Padding-Horizontal-Icon": {
+          "Padding Horizontal Icon": {
             "value": "{Spacing.2XS}",
             "type": "spacing"
           },
-          "Gap-Icon-Text": {
+          "Gap Icon Text": {
             "value": "{Spacing.3XS}",
             "type": "spacing"
           }
         },
         "S": {
-          "Padding-Horizontal": {
+          "Padding Horizontal": {
             "value": "{Spacing.S}",
             "type": "spacing"
           },
-          "Padding-Horizontal-Icon": {
+          "Padding Horizontal Icon": {
             "value": "{Spacing.XS}",
             "type": "spacing"
           },
-          "Gap-Icon-Text": {
+          "Gap Icon Text": {
             "value": "{Spacing.3XS}",
             "type": "spacing"
           }
         },
         "M": {
-          "Padding-Horizontal": {
+          "Padding Horizontal": {
             "value": "{Spacing.M}",
             "type": "spacing"
           },
-          "Padding-Horizontal-Icon": {
+          "Padding Horizontal Icon": {
             "value": "{Spacing.S}",
             "type": "spacing"
           },
-          "Gap-Icon-Text": {
+          "Gap Icon Text": {
             "value": "{Spacing.3XS}",
             "type": "spacing"
           }
         },
         "L": {
-          "Padding-Horizontal": {
+          "Padding Horizontal": {
             "value": "{Spacing.L}",
             "type": "spacing"
           },
-          "Padding-Horizontal-Icon": {
+          "Padding Horizontal Icon": {
             "value": "{Spacing.M}",
             "type": "spacing"
           },
-          "Gap-Icon-Text": {
+          "Gap Icon Text": {
             "value": "{Spacing.3XS}",
             "type": "spacing"
           }
         },
         "XL": {
-          "Padding-Horizontal": {
+          "Padding Horizontal": {
             "value": "{Spacing.XL}",
             "type": "spacing"
           },
-          "Padding-Horizontal-Icon": {
+          "Padding Horizontal Icon": {
             "value": "{Spacing.L}",
             "type": "spacing"
           },
-          "Gap-Icon-Text": {
+          "Gap Icon Text": {
             "value": "{Spacing.2XS}",
             "type": "spacing"
           }
         }
       },
-      "Avatar-Button": {
+      "Avatar Button": {
         "Gap": {
           "value": "{Spacing.3XS}",
           "type": "spacing"
         },
-        "Padding-Horizontal": {
+        "Padding Horizontal": {
           "value": "{Spacing.S}",
           "type": "spacing"
         }
       },
       "Alert": {
-        "Content-Container": {
+        "Content Container": {
           "Padding": {
             "value": "{Spacing.2XS}",
             "type": "spacing"
           }
         },
-        "Message-Container": {
+        "Message Container": {
           "Gap": {
             "value": "{Spacing.2XS}",
             "type": "spacing"
@@ -4030,21 +4030,21 @@
       "Accordion": {
         "Title": {
           "S": {
-            "Padding-Vertical": {
+            "Padding Vertical": {
               "value": "{Spacing.XS}",
               "type": "spacing"
             },
-            "Padding-Horizontal": {
+            "Padding Horizontal": {
               "value": "{Spacing.S}",
               "type": "spacing"
             }
           },
           "L": {
-            "Padding-Vertical": {
+            "Padding Vertical": {
               "value": "{Spacing.S}",
               "type": "spacing"
             },
-            "Padding-Horizontal": {
+            "Padding Horizontal": {
               "value": "{Spacing.L}",
               "type": "spacing"
             }
@@ -4052,34 +4052,34 @@
         },
         "Content": {
           "S": {
-            "Padding-Vertical": {
+            "Padding Vertical": {
               "value": "{Spacing.XS}",
               "type": "spacing"
             },
-            "Padding-Horizontal": {
+            "Padding Horizontal": {
               "value": "{Spacing.S}",
               "type": "spacing"
             }
           },
           "L": {
-            "Padding-Vertical": {
+            "Padding Vertical": {
               "value": "{Spacing.S}",
               "type": "spacing"
             },
-            "Padding-Horizontal": {
+            "Padding Horizontal": {
               "value": "{Spacing.L}",
               "type": "spacing"
             }
           }
         }
       },
-      "Text-Label": {
+      "Text Label": {
         "Gap": {
           "value": "{Spacing.3XS}",
           "type": "spacing"
         }
       },
-      "Highlight-Label": {
+      "Highlight Label": {
         "S": {
           "Gap": {
             "value": "{Spacing.4XS}",
@@ -4094,44 +4094,44 @@
         }
       }
     },
-    "Border-Radius": {
+    "Border Radius": {
       "Card": {
         "None": {
-          "value": "{Border-Radius.None}",
+          "value": "{Border Radius.None}",
           "type": "borderRadius"
         },
         "XS": {
-          "value": "{Border-Radius.XS}",
+          "value": "{Border Radius.XS}",
           "type": "borderRadius"
         },
         "S": {
-          "value": "{Border-Radius.S}",
+          "value": "{Border Radius.S}",
           "type": "borderRadius"
         },
         "M": {
-          "value": "{Border-Radius.M}",
+          "value": "{Border Radius.M}",
           "type": "borderRadius"
         },
         "L": {
-          "value": "{Border-Radius.L}",
+          "value": "{Border Radius.L}",
           "type": "borderRadius"
         }
       },
       "Image": {
         "None": {
-          "value": "{Border-Radius.None}",
+          "value": "{Border Radius.None}",
           "type": "borderRadius"
         },
         "XS": {
-          "value": "{Border-Radius.XS}",
+          "value": "{Border Radius.XS}",
           "type": "borderRadius"
         },
         "S": {
-          "value": "{Border-Radius.S}",
+          "value": "{Border Radius.S}",
           "type": "borderRadius"
         },
         "M": {
-          "value": "{Border-Radius.M}",
+          "value": "{Border Radius.M}",
           "type": "borderRadius"
         },
         "Round": {
@@ -4250,7 +4250,7 @@
               "color": "#0000000a",
               "type": "dropShadow",
               "x": 0,
-              "y": -4,
+              "y": 4,
               "blur": 8,
               "spread": 0
             },
@@ -4258,7 +4258,7 @@
               "color": "#00000005",
               "type": "dropShadow",
               "x": 0,
-              "y": -2,
+              "y": 2,
               "blur": 4,
               "spread": 0
             }
@@ -4326,9 +4326,9 @@
               "color": "#9b0600",
               "type": "innerShadow",
               "x": 0,
-              "y": -104,
+              "y": 104,
               "blur": 0,
-              "spread": -102
+              "spread": 102
             }
           ],
           "type": "boxShadow"
@@ -4359,17 +4359,15 @@
         }
       }
     },
-    "Test": {
-      "value": "100",
-      "type": "sizing"
-    },
-    "Filter Button": {
-      "value": "{Border-Width.S}",
-      "type": "borderWidth"
-    },
-    "Show More Button": {
-      "value": "{Border-Width.None}",
-      "type": "borderWidth"
+    "Border Width": {
+      "Filter Button": {
+        "value": "{Border Width.S}",
+        "type": "borderWidth"
+      },
+      "Show More Button": {
+        "value": "{Border Width.None}",
+        "type": "borderWidth"
+      }
     }
   },
   "$themes": []

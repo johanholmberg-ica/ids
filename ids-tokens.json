@@ -985,6 +985,470 @@
           }
         }
       },
+      "Circle Button": {
+        "Primary": {
+          "Background": {
+            "Default": {
+              "value": "#E13205",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.Brand.Pink.Light}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{Color.Brand.Red.Dark}",
+              "type": "color"
+            },
+            "Disabled": {
+              "value": "{Color.Brand.Grey.Special}",
+              "type": "color"
+            },
+            "Focus": {
+              "value": "{Color.Brand.Pink.Light}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Color.Brand.Red.Dark}",
+              "type": "color"
+            },
+            "Selected": {
+              "value": "{Color.Accessibility.Confirm}",
+              "type": "color"
+            }
+          },
+          "Icon": {
+            "Default": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Disabled": {
+              "value": "{Color.Brand.Grey.Light}",
+              "type": "color"
+            },
+            "Focus": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Selected": {
+              "value": "{Color.White}",
+              "type": "color"
+            }
+          }
+        },
+        "Secondary": {
+          "Background": {
+            "Default": {
+              "value": "#fcece7",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.Brand.Pink.Light}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{Color.Brand.Red.Dark}",
+              "type": "color"
+            },
+            "Disabled": {
+              "value": "{Color.Brand.Grey.Special}",
+              "type": "color"
+            },
+            "Focus": {
+              "value": "{Color.Brand.Pink.Light}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Color.Brand.Red.Dark}",
+              "type": "color"
+            },
+            "Selected": {
+              "value": "{Color.Accessibility.Confirm}",
+              "type": "color"
+            }
+          },
+          "Icon": {
+            "Default": {
+              "value": "#cf2e05",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Disabled": {
+              "value": "{Color.Brand.Grey.Light}",
+              "type": "color"
+            },
+            "Focus": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Selected": {
+              "value": "{Color.White}",
+              "type": "color"
+            }
+          }
+        },
+        "Tertiary": {
+          "Background": {
+            "Default": {
+              "value": "rgba({Color.White}, 0)",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "rgba({Color.White}, 0)",
+              "type": "color"
+            },
+            "Active": {
+              "value": "rgba({Color.White}, 0)",
+              "type": "color"
+            },
+            "Disabled": {
+              "value": "rgba({Color.White}, 0)",
+              "type": "color"
+            },
+            "Focus": {
+              "value": "rgba({Color.White}, 0)",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "rgba({Color.White}, 0)",
+              "type": "color"
+            },
+            "Selected": {
+              "value": "rgba({Color.White}, 0)",
+              "type": "color"
+            }
+          },
+          "Icon": {
+            "Default": {
+              "value": "{Color.Hyperlink.Default}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.Hyperlink.Hover}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{Color.Hyperlink.Active}",
+              "type": "color"
+            },
+            "Disabled": {
+              "value": "{Color.Hyperlink.Disabled}",
+              "type": "color"
+            },
+            "Focus": {
+              "value": "{Color.Hyperlink.Focus}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Color.Hyperlink.Active}",
+              "type": "color"
+            },
+            "Selected": {
+              "value": "{Color.Accessibility.Confirm}",
+              "type": "color"
+            }
+          }
+        },
+        "White": {
+          "Background": {
+            "Default": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.Brand.Pink.Light}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{Color.Brand.Red.Dark}",
+              "type": "color"
+            },
+            "Disabled": {
+              "value": "{Color.Brand.Grey.Special}",
+              "type": "color"
+            },
+            "Focus": {
+              "value": "{Color.Brand.Pink.Light}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Color.Brand.Red.Dark}",
+              "type": "color"
+            },
+            "Selected": {
+              "value": "{Color.Accessibility.Confirm}",
+              "type": "color"
+            }
+          },
+          "Icon": {
+            "Default": {
+              "value": "#cf2e05",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Disabled": {
+              "value": "{Color.Brand.Grey.Light}",
+              "type": "color"
+            },
+            "Focus": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Pressed": {
+              "value": "{Color.White}",
+              "type": "color"
+            },
+            "Selected": {
+              "value": "{Color.White}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "Avatar Button": {
+        "Background": {
+          "Default": {
+            "value": "#fcece7",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Color.Brand.Pink.Light}",
+            "type": "color"
+          },
+          "Active": {
+            "value": "{Color.Brand.Red.Dark}",
+            "type": "color"
+          },
+          "Disabled": {
+            "value": "{Color.Brand.Grey.Special}",
+            "type": "color"
+          },
+          "Focus": {
+            "value": "{Color.Brand.Pink.Light}",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{Color.Brand.Red.Dark}",
+            "type": "color"
+          }
+        },
+        "Text": {
+          "Default": {
+            "value": "#cf2e05",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Color.White}",
+            "type": "color"
+          },
+          "Active": {
+            "value": "{Color.White}",
+            "type": "color"
+          },
+          "Disabled": {
+            "value": "{Color.Brand.Grey.Light}",
+            "type": "color"
+          },
+          "Focus": {
+            "value": "{Color.White}",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{Color.White}",
+            "type": "color"
+          }
+        }
+      },
+      "Filter Button": {
+        "Background": {
+          "Default": {
+            "value": "rgba({Color.White}, 0)",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "rgba({Color.White}, 0)",
+            "type": "color"
+          },
+          "Active": {
+            "value": "{Color.Brand.Red.Dark}",
+            "type": "color"
+          },
+          "Disabled": {
+            "value": "rgba({Color.White}, 0)",
+            "type": "color"
+          },
+          "Active Disabled": {
+            "value": "{Color.Brand.Grey.Special}",
+            "type": "color"
+          },
+          "Focus": {
+            "value": "rgba({Color.White}, 0)",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{Color.Brand.Red.Dark}",
+            "type": "color"
+          }
+        },
+        "Text": {
+          "Default": {
+            "value": "#cf2e05",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Color.Brand.Pink.Light}",
+            "type": "color"
+          },
+          "Active": {
+            "value": "{Color.White}",
+            "type": "color"
+          },
+          "Disabled": {
+            "value": "{Color.Brand.Grey.Light}",
+            "type": "color"
+          },
+          "Active Disabled": {
+            "value": "{Color.Brand.Grey.Light}",
+            "type": "color"
+          },
+          "Focus": {
+            "value": "{Color.Brand.Pink.Light}",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{Color.White}",
+            "type": "color"
+          }
+        },
+        "Border": {
+          "Default": {
+            "value": "#cf2e05",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Color.Brand.Pink.Light}",
+            "type": "color"
+          },
+          "Active": {
+            "value": "{Color.Brand.Red.Dark}",
+            "type": "color"
+          },
+          "Disabled": {
+            "value": "{Color.Brand.Grey.Light}",
+            "type": "color"
+          },
+          "Active Disabled": {
+            "value": "{Color.Brand.Grey.Light}",
+            "type": "color"
+          },
+          "Focus": {
+            "value": "{Color.Brand.Pink.Light}",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{Color.Brand.Red.Dark}",
+            "type": "color"
+          }
+        }
+      },
+      "Show More Button": {
+        "Background": {
+          "Default": {
+            "value": "rgba({Color.White}, 0)",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "rgba({Color.White}, 0)",
+            "type": "color"
+          },
+          "Disabled": {
+            "value": "rgba({Color.White}, 0)",
+            "type": "color"
+          },
+          "Focus": {
+            "value": "rgba({Color.White}, 0)",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "rgba({Color.White}, 0)",
+            "type": "color"
+          }
+        },
+        "Text": {
+          "Default": {
+            "value": "#cf2e05",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "{Color.Brand.Pink.Light}",
+            "type": "color"
+          },
+          "Disabled": {
+            "value": "{Color.Brand.Grey.Light}",
+            "type": "color"
+          },
+          "Focus": {
+            "value": "{Color.Brand.Pink.Light}",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{Color.Brand.Red.Dark}",
+            "type": "color"
+          }
+        },
+        "Border": {
+          "Default": {
+            "value": "rgba({Color.White}, 0)",
+            "type": "color"
+          },
+          "Hover": {
+            "value": "rgba({Color.White}, 0)",
+            "type": "color"
+          },
+          "Disabled": {
+            "value": "rgba({Color.White}, 0)",
+            "type": "color"
+          },
+          "Focus": {
+            "value": "rgba({Color.White}, 0)",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "rgba({Color.White}, 0)",
+            "type": "color"
+          }
+        }
+      },
       "Hyperlink": {
         "Default": {
           "value": "#cf2e05",
@@ -3898,6 +4362,14 @@
     "Test": {
       "value": "100",
       "type": "sizing"
+    },
+    "Filter Button": {
+      "value": "{Border-Width.S}",
+      "type": "borderWidth"
+    },
+    "Show More Button": {
+      "value": "{Border-Width.None}",
+      "type": "borderWidth"
     }
   },
   "$themes": []

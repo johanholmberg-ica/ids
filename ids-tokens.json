@@ -1,5 +1,5 @@
 {
-  "Foundations": {
+  "Foundation": {
     "Color": {
       "Black": {
         "value": "#000000",
@@ -3728,7 +3728,7 @@
       "Button": {
         "XS": {
           "Height": {
-            "value": "{Size.2XS}",
+            "value": "{Foundation.Size.2XS}",
             "type": "sizing"
           },
           "Icon": {

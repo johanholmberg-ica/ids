@@ -4370,14 +4370,5 @@
       }
     }
   },
-  "$themes": [
-    {
-      "Test theme": {
-        "Test font size": {
-        "value": "{Font Size.S}",
-        "type": "fontSizes"
-      }
-      }
-     }
-  ]
+  "$themes": []
 }

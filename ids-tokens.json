@@ -3728,7 +3728,7 @@
       "Button": {
         "XS": {
           "Height": {
-            "value": "{Foundation.Size.2XS}",
+            "value": "{Size.2XS}",
             "type": "sizing"
           },
           "Icon": {

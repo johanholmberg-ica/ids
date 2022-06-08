@@ -985,7 +985,7 @@
           }
         }
       },
-      "Circle Button": {
+      "Button Circle": {
         "Primary": {
           "Background": {
             "Default": {
@@ -1235,7 +1235,7 @@
           }
         }
       },
-      "Avatar Button": {
+      "Button Avatar": {
         "Background": {
           "Default": {
             "value": "#fcece7",
@@ -1289,7 +1289,7 @@
           }
         }
       },
-      "Filter Button": {
+      "Button Filter": {
         "Background": {
           "Default": {
             "value": "rgba({Color.White}, 0)",
@@ -1381,7 +1381,7 @@
           }
         }
       },
-      "Show More Button": {
+      "Button Show More": {
         "Background": {
           "Default": {
             "value": "rgba({Color.White}, 0)",

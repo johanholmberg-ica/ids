@@ -3777,7 +3777,7 @@
           }
         }
       },
-      "Circle Button": {
+      "Button Circle": {
         "XS": {
           "Circle": {
             "value": "{Size.2XS}",
@@ -3829,7 +3829,7 @@
           }
         }
       },
-      "Avatar Button": {
+      "Button Avatar": {
         "Height": {
           "value": "{Size.S}",
           "type": "sizing"
@@ -3993,7 +3993,7 @@
           }
         }
       },
-      "Avatar Button": {
+      "Button Avatar": {
         "Gap": {
           "value": "{Spacing.3XS}",
           "type": "spacing"
@@ -4089,6 +4089,38 @@
         "L": {
           "Gap": {
             "value": "{Spacing.3XS}",
+            "type": "spacing"
+          }
+        }
+      },
+      "Hyperlink": {
+        "S": {
+          "Gap Horizontal": {
+            "value": "{Spacing.3XS}",
+            "type": "spacing"
+          },
+          "Gap Vertical": {
+            "value": "{Spacing.4XS}",
+            "type": "spacing"
+          }
+        },
+        "M": {
+          "Gap Horizontal": {
+            "value": "{Spacing.3XS}",
+            "type": "spacing"
+          },
+          "Gap Vertical": {
+            "value": "{Spacing.4XS}",
+            "type": "spacing"
+          }
+        },
+        "L": {
+          "Gap Horizontal": {
+            "value": "{Spacing.3XS}",
+            "type": "spacing"
+          },
+          "Gap Vertical": {
+            "value": "{Spacing.4XS}",
             "type": "spacing"
           }
         }
@@ -4360,11 +4392,11 @@
       }
     },
     "Border Width": {
-      "Filter Button": {
+      "Button Filter": {
         "value": "{Border Width.S}",
         "type": "borderWidth"
       },
-      "Show More Button": {
+      "Button Show More": {
         "value": "{Border Width.None}",
         "type": "borderWidth"
       }

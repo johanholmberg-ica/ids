@@ -1778,7 +1778,7 @@
         },
         "H5": {
           "value": {
-            "fontFamily": "{Font Family.ICA Rubrik}",
+            "fontFamily": "{Font Family.ICA Text Ny}",
             "fontWeight": "{Font Weight.Black}",
             "lineHeight": "{Line Height.Heading.H5}",
             "fontSize": "{Font Size.Heading.H5}",
@@ -1792,7 +1792,7 @@
         },
         "H6": {
           "value": {
-            "fontFamily": "{Font Family.ICA Rubrik}",
+            "fontFamily": "{Font Family.ICA Text Ny}",
             "fontWeight": "{Font Weight.Black}",
             "lineHeight": "{Line Height.Heading.H6}",
             "fontSize": "{Font Size.Heading.H6}",
@@ -1863,7 +1863,7 @@
           },
           "H5": {
             "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontFamily": "{Font Family.ICA Text Ny}",
               "fontWeight": "{Font Weight.Black}",
               "lineHeight": "{Line Height.Heading.BP L.H5}",
               "fontSize": "{Font Size.Heading.BP L.H5}",
@@ -1877,7 +1877,7 @@
           },
           "H6": {
             "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontFamily": "{Font Family.ICA Text Ny}",
               "fontWeight": "{Font Weight.Black}",
               "lineHeight": "{Line Height.Heading.BP L.H6}",
               "fontSize": "{Font Size.Heading.BP L.H6}",

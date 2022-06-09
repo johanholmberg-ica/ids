@@ -1992,6 +1992,20 @@
           "type": "typography",
           "description": "Small Preamble typography set on small screens."
         },
+        "Preamble 2XS": {
+          "value": {
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Light}",
+            "lineHeight": "{Line Height.Text.Preamble 2XS}",
+            "fontSize": "{Font Size.Text.Preamble 2XS}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
+          },
+          "type": "typography",
+          "description": "Small Preamble typography set on small screens."
+        },
         "L": {
           "value": {
             "fontFamily": "{Font Family.ICA Text Ny}",
@@ -2111,6 +2125,20 @@
               "fontWeight": "{Font Weight.Light}",
               "lineHeight": "{Line Height.Text.BP L.Preamble XS}",
               "fontSize": "{Font Size.Text.BP L.Preamble XS}",
+              "letterSpacing": "{Letter Spacing.None}",
+              "paragraphSpacing": "{Paragraph Spacing.None}",
+              "textDecoration": "{Text Decoration.None}",
+              "textCase": "{Text Case.None}"
+            },
+            "type": "typography",
+            "description": "Small Preamble typography set on large screens."
+          },
+          "Preamble 2XS": {
+            "value": {
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Light}",
+              "lineHeight": "{Line Height.Text.BP L.Preamble 2XS}",
+              "fontSize": "{Font Size.Text.BP L.Preamble 2XS}",
               "letterSpacing": "{Letter Spacing.None}",
               "paragraphSpacing": "{Paragraph Spacing.None}",
               "textDecoration": "{Text Decoration.None}",
@@ -3452,6 +3480,10 @@
           "value": "{Font Size.S}",
           "type": "fontSizes"
         },
+        "Preamble 2XS": {
+          "value": "{Font Size.XS}",
+          "type": "fontSizes"
+        },
         "L": {
           "value": "{Font Size.L}",
           "type": "fontSizes"
@@ -3487,6 +3519,10 @@
           },
           "Preamble XS": {
             "value": "{Font Size.S}",
+            "type": "fontSizes"
+          },
+          "Preamble 2XS": {
+            "value": "{Font Size.XS}",
             "type": "fontSizes"
           }
         }
@@ -3584,6 +3620,10 @@
           "value": "{Line Height.S}",
           "type": "lineHeights"
         },
+        "Preamble 2XS": {
+          "value": "{Line Height.XS}",
+          "type": "lineHeights"
+        },
         "L": {
           "value": "{Line Height.L}",
           "type": "lineHeights"
@@ -3619,6 +3659,10 @@
           },
           "Preamble XS": {
             "value": "{Line Height.S}",
+            "type": "lineHeights"
+          },
+          "Preamble 2XS": {
+            "value": "{Line Height.XS}",
             "type": "lineHeights"
           }
         }

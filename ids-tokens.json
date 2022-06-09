@@ -1751,7 +1751,7 @@
         "H3": {
           "value": {
             "fontFamily": "{Font Family.ICA Rubrik}",
-            "fontWeight": "{Font Weight.Black}",
+            "fontWeight": "{Font Weight.Bold}",
             "lineHeight": "{Line Height.Heading.H3}",
             "fontSize": "{Font Size.Heading.H3}",
             "letterSpacing": "{Letter Spacing.None}",
@@ -1765,7 +1765,7 @@
         "H4": {
           "value": {
             "fontFamily": "{Font Family.ICA Rubrik}",
-            "fontWeight": "{Font Weight.Bold}",
+            "fontWeight": "{Font Weight.Medium}",
             "lineHeight": "{Line Height.Heading.H4}",
             "fontSize": "{Font Size.Heading.H4}",
             "letterSpacing": "{Letter Spacing.None}",
@@ -1778,8 +1778,8 @@
         },
         "H5": {
           "value": {
-            "fontFamily": "{Font Family.ICA Rubrik}",
-            "fontWeight": "{Font Weight.Bold}",
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Black}",
             "lineHeight": "{Line Height.Heading.H5}",
             "fontSize": "{Font Size.Heading.H5}",
             "letterSpacing": "{Letter Spacing.None}",
@@ -1792,14 +1792,14 @@
         },
         "H6": {
           "value": {
-            "fontFamily": "{Font Family.ICA Rubrik}",
-            "fontWeight": "{Font Weight.Medium}",
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Black}",
             "lineHeight": "{Line Height.Heading.H6}",
             "fontSize": "{Font Size.Heading.H6}",
-            "letterSpacing": "{Letter Spacing.None}",
+            "letterSpacing": "{Letter Spacing.M}",
             "paragraphSpacing": "{Paragraph Spacing.None}",
             "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
+            "textCase": "{Text Case.Uppercase}"
           },
           "type": "typography",
           "description": "H6 typography set on small screens."
@@ -1836,7 +1836,7 @@
           "H3": {
             "value": {
               "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Black}",
+              "fontWeight": "{Font Weight.Bold}",
               "lineHeight": "{Line Height.Heading.BP L.H3}",
               "fontSize": "{Font Size.Heading.BP L.H3}",
               "letterSpacing": "{Letter Spacing.None}",
@@ -1850,7 +1850,7 @@
           "H4": {
             "value": {
               "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Bold}",
+              "fontWeight": "{Font Weight.Medium}",
               "lineHeight": "{Line Height.Heading.BP L.H4}",
               "fontSize": "{Font Size.Heading.BP L.H4}",
               "letterSpacing": "{Letter Spacing.None}",
@@ -1863,8 +1863,8 @@
           },
           "H5": {
             "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Bold}",
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Black}",
               "lineHeight": "{Line Height.Heading.BP L.H5}",
               "fontSize": "{Font Size.Heading.BP L.H5}",
               "letterSpacing": "{Letter Spacing.None}",
@@ -1877,14 +1877,14 @@
           },
           "H6": {
             "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Medium}",
+              "fontFamily": "{Font Family.ICA Text Ny}",
+              "fontWeight": "{Font Weight.Black}",
               "lineHeight": "{Line Height.Heading.BP L.H6}",
               "fontSize": "{Font Size.Heading.BP L.H6}",
-              "letterSpacing": "{Letter Spacing.None}",
+              "letterSpacing": "{Letter Spacing.M}",
               "paragraphSpacing": "{Paragraph Spacing.None}",
               "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
+              "textCase": "{Text Case.Uppercase}"
             },
             "type": "typography",
             "description": "H6 typography set on large screens."
@@ -1898,7 +1898,7 @@
             "fontWeight": "{Font Weight.Black}",
             "lineHeight": "{Line Height.2XS}",
             "fontSize": "{Font Size.2XS}",
-            "letterSpacing": "{Letter Spacing.Label}",
+            "letterSpacing": "{Letter Spacing.M}",
             "paragraphSpacing": "{Paragraph Spacing.None}",
             "textDecoration": "{Text Decoration.None}",
             "textCase": "{Text Case.Uppercase}"
@@ -1912,7 +1912,7 @@
             "fontWeight": "{Font Weight.Black}",
             "lineHeight": "{Line Height.XS}",
             "fontSize": "{Font Size.XS}",
-            "letterSpacing": "{Letter Spacing.Label}",
+            "letterSpacing": "{Letter Spacing.M}",
             "paragraphSpacing": "{Paragraph Spacing.None}",
             "textDecoration": "{Text Decoration.None}",
             "textCase": "{Text Case.Uppercase}"
@@ -1926,7 +1926,7 @@
             "fontWeight": "{Font Weight.Black}",
             "lineHeight": "{Line Height.S}",
             "fontSize": "{Font Size.S}",
-            "letterSpacing": "{Letter Spacing.Label}",
+            "letterSpacing": "{Letter Spacing.M}",
             "paragraphSpacing": "{Paragraph Spacing.None}",
             "textDecoration": "{Text Decoration.None}",
             "textCase": "{Text Case.Uppercase}"
@@ -1940,7 +1940,7 @@
             "fontWeight": "{Font Weight.Black}",
             "lineHeight": "{Line Height.L}",
             "fontSize": "{Font Size.L}",
-            "letterSpacing": "{Letter Spacing.Label}",
+            "letterSpacing": "{Letter Spacing.M}",
             "paragraphSpacing": "{Paragraph Spacing.None}",
             "textDecoration": "{Text Decoration.None}",
             "textCase": "{Text Case.Uppercase}"
@@ -2686,7 +2686,7 @@
             "fontWeight": "{Font Weight.Black}",
             "lineHeight": "{Line Height.S}",
             "fontSize": "{Font Size.S}",
-            "letterSpacing": "{Letter Spacing.Label}",
+            "letterSpacing": "{Letter Spacing.M}",
             "paragraphSpacing": "{Paragraph Spacing.None}",
             "textDecoration": "{Text Decoration.None}",
             "textCase": "{Text Case.Uppercase}"
@@ -2700,7 +2700,7 @@
             "fontWeight": "{Font Weight.Black}",
             "lineHeight": "{Line Height.L}",
             "fontSize": "{Font Size.L}",
-            "letterSpacing": "{Letter Spacing.Label}",
+            "letterSpacing": "{Letter Spacing.M}",
             "paragraphSpacing": "{Paragraph Spacing.None}",
             "textDecoration": "{Text Decoration.None}",
             "textCase": "{Text Case.Uppercase}"
@@ -3393,23 +3393,23 @@
           "type": "fontSizes"
         },
         "H2": {
-          "value": "{Font Size.2XL}",
-          "type": "fontSizes"
-        },
-        "H3": {
           "value": "{Font Size.XL}",
           "type": "fontSizes"
         },
-        "H4": {
-          "value": "{Font Size.L}",
-          "type": "fontSizes"
-        },
-        "H5": {
+        "H3": {
           "value": "{Font Size.M}",
           "type": "fontSizes"
         },
-        "H6": {
+        "H4": {
           "value": "{Font Size.S}",
+          "type": "fontSizes"
+        },
+        "H5": {
+          "value": "{Font Size.S}",
+          "type": "fontSizes"
+        },
+        "H6": {
+          "value": "{Font Size.XS}",
           "type": "fontSizes"
         },
         "BP L": {
@@ -3418,23 +3418,23 @@
             "type": "fontSizes"
           },
           "H2": {
-            "value": "{Font Size.3XL}",
-            "type": "fontSizes"
-          },
-          "H3": {
             "value": "{Font Size.2XL}",
             "type": "fontSizes"
           },
-          "H4": {
-            "value": "{Font Size.XL}",
-            "type": "fontSizes"
-          },
-          "H5": {
+          "H3": {
             "value": "{Font Size.L}",
             "type": "fontSizes"
           },
-          "H6": {
+          "H4": {
             "value": "{Font Size.M}",
+            "type": "fontSizes"
+          },
+          "H5": {
+            "value": "{Font Size.S}",
+            "type": "fontSizes"
+          },
+          "H6": {
+            "value": "{Font Size.XS}",
             "type": "fontSizes"
           }
         }
@@ -3525,23 +3525,23 @@
           "type": "lineHeights"
         },
         "H2": {
-          "value": "{Line Height.2XL}",
-          "type": "lineHeights"
-        },
-        "H3": {
           "value": "{Line Height.XL}",
           "type": "lineHeights"
         },
-        "H4": {
-          "value": "{Line Height.L}",
-          "type": "lineHeights"
-        },
-        "H5": {
+        "H3": {
           "value": "{Line Height.M}",
           "type": "lineHeights"
         },
-        "H6": {
+        "H4": {
           "value": "{Line Height.S}",
+          "type": "lineHeights"
+        },
+        "H5": {
+          "value": "{Line Height.S}",
+          "type": "lineHeights"
+        },
+        "H6": {
+          "value": "{Line Height.XS}",
           "type": "lineHeights"
         },
         "BP L": {
@@ -3550,23 +3550,23 @@
             "type": "lineHeights"
           },
           "H2": {
-            "value": "{Line Height.3XL}",
-            "type": "lineHeights"
-          },
-          "H3": {
             "value": "{Line Height.2XL}",
             "type": "lineHeights"
           },
-          "H4": {
-            "value": "{Line Height.XL}",
-            "type": "lineHeights"
-          },
-          "H5": {
+          "H3": {
             "value": "{Line Height.L}",
             "type": "lineHeights"
           },
-          "H6": {
+          "H4": {
             "value": "{Line Height.M}",
+            "type": "lineHeights"
+          },
+          "H5": {
+            "value": "{Line Height.S}",
+            "type": "lineHeights"
+          },
+          "H6": {
+            "value": "{Line Height.XS}",
             "type": "lineHeights"
           }
         }
@@ -3651,8 +3651,16 @@
       }
     },
     "Letter Spacing": {
-      "Label": {
+      "S": {
+        "value": "0.2",
+        "type": "letterSpacing"
+      },
+      "M": {
         "value": "0.4",
+        "type": "letterSpacing"
+      },
+      "L": {
+        "value": "0.6",
         "type": "letterSpacing"
       }
     },

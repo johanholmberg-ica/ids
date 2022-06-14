@@ -1774,8 +1774,8 @@
         },
         "H5": {
           "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Black}",
+            "fontFamily": "{Font Family.ICA Rubrik}",
+            "fontWeight": "{Font Weight.Medium}",
             "lineHeight": "{Line Height.Heading.H5}",
             "fontSize": "{Font Size.Heading.H5}",
             "letterSpacing": "{Letter Spacing.None}",
@@ -1859,8 +1859,8 @@
           },
           "H5": {
             "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Black}",
+              "fontFamily": "{Font Family.ICA Rubrik}",
+              "fontWeight": "{Font Weight.Medium}",
               "lineHeight": "{Line Height.Heading.BP L.H5}",
               "fontSize": "{Font Size.Heading.BP L.H5}",
               "letterSpacing": "{Letter Spacing.None}",

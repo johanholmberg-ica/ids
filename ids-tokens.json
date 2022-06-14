@@ -801,7 +801,7 @@
         "Secondary": {
           "Background": {
             "Default": {
-              "value": "#fcece7",
+              "value": "{Color.Brand.Red.Special}",
               "type": "color"
             },
             "Hover": {
@@ -1051,7 +1051,7 @@
         "Secondary": {
           "Background": {
             "Default": {
-              "value": "#fcece7",
+              "value": "{Color.Brand.Red.Special}",
               "type": "color"
             },
             "Hover": {
@@ -1238,7 +1238,7 @@
       "Button Avatar": {
         "Background": {
           "Default": {
-            "value": "#fcece7",
+            "value": "{Color.Brand.Red.Special}",
             "type": "color"
           },
           "Hover": {

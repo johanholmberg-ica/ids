@@ -4468,6 +4468,27 @@
           },
           "type": "boxShadow"
         },
+        "Focus": {
+          "value": [
+            {
+              "color": "{Color.Brand.Pink.Light}",
+              "type": "innerShadow",
+              "x": 0,
+              "y": 0,
+              "blur": 0,
+              "spread": 1
+            },
+            {
+              "color": "rgba({Color.Brand.Pink.Light}, 0.16)",
+              "type": "dropShadow",
+              "x": 0,
+              "y": 0,
+              "blur": 0,
+              "spread": 3
+            }
+          ],
+          "type": "boxShadow"
+        },
         "Error": {
           "value": {
             "color": "{Color.Brand.Red.Mid}",

@@ -1946,62 +1946,6 @@
         }
       },
       "Text": {
-        "Preamble": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Light}",
-            "lineHeight": "{Line Height.Text.Preamble}",
-            "fontSize": "{Font Size.Text.Preamble}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Preamble typography set on small screens."
-        },
-        "Preamble S": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Light}",
-            "lineHeight": "{Line Height.Text.Preamble S}",
-            "fontSize": "{Font Size.Text.Preamble S}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Small Preamble typography set on small screens."
-        },
-        "Preamble XS": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Light}",
-            "lineHeight": "{Line Height.Text.Preamble XS}",
-            "fontSize": "{Font Size.Text.Preamble XS}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Small Preamble typography set on small screens."
-        },
-        "Preamble 2XS": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Light}",
-            "lineHeight": "{Line Height.Text.Preamble 2XS}",
-            "fontSize": "{Font Size.Text.Preamble 2XS}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Small Preamble typography set on small screens."
-        },
         "L": {
           "value": {
             "fontFamily": "{Font Family.ICA Text Ny}",
@@ -2085,9 +2029,67 @@
           },
           "type": "typography",
           "description": "2XSmall typography set on small screens."
+        }
+      },
+      "Preamble": {
+        "L": {
+          "value": {
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Light}",
+            "lineHeight": "{Line Height.Text.Preamble}",
+            "fontSize": "{Font Size.Text.Preamble}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
+          },
+          "type": "typography",
+          "description": "Preamble typography set on small screens."
+        },
+        "M": {
+          "value": {
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Light}",
+            "lineHeight": "{Line Height.Text.Preamble S}",
+            "fontSize": "{Font Size.Text.Preamble S}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
+          },
+          "type": "typography",
+          "description": "Small Preamble typography set on small screens."
+        },
+        "S": {
+          "value": {
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Light}",
+            "lineHeight": "{Line Height.Text.Preamble XS}",
+            "fontSize": "{Font Size.Text.Preamble XS}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
+          },
+          "type": "typography",
+          "description": "Small Preamble typography set on small screens."
+        },
+        "XS": {
+          "value": {
+            "fontFamily": "{Font Family.ICA Text Ny}",
+            "fontWeight": "{Font Weight.Light}",
+            "lineHeight": "{Line Height.Text.Preamble 2XS}",
+            "fontSize": "{Font Size.Text.Preamble 2XS}",
+            "letterSpacing": "{Letter Spacing.None}",
+            "paragraphSpacing": "{Paragraph Spacing.None}",
+            "textDecoration": "{Text Decoration.None}",
+            "textCase": "{Text Case.None}"
+          },
+          "type": "typography",
+          "description": "Small Preamble typography set on small screens."
         },
         "BP L": {
-          "Preamble": {
+          "L": {
             "value": {
               "fontFamily": "{Font Family.ICA Text Ny}",
               "fontWeight": "{Font Weight.Light}",
@@ -2101,7 +2103,7 @@
             "type": "typography",
             "description": "Preamble typography set on large screens."
           },
-          "Preamble S": {
+          "M": {
             "value": {
               "fontFamily": "{Font Family.ICA Text Ny}",
               "fontWeight": "{Font Weight.Light}",
@@ -2115,7 +2117,7 @@
             "type": "typography",
             "description": "Small Preamble typography set on large screens."
           },
-          "Preamble XS": {
+          "S": {
             "value": {
               "fontFamily": "{Font Family.ICA Text Ny}",
               "fontWeight": "{Font Weight.Light}",
@@ -2129,7 +2131,7 @@
             "type": "typography",
             "description": "Small Preamble typography set on large screens."
           },
-          "Preamble 2XS": {
+          "XS": {
             "value": {
               "fontFamily": "{Font Family.ICA Text Ny}",
               "fontWeight": "{Font Weight.Light}",

@@ -1,3958 +1,582 @@
 {
   "Foundation": {
     "Color": {
-      "Monochrome": {
+      "Black": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "White": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Brand": {
+        "ICA": {
+          "value": "#e3000b",
+          "type": "color"
+        },
+        "Stammis": {
+          "value": "#f8c9df",
+          "type": "color"
+        },
+        "ICA Supermarket": {
+          "value": "#f9b232",
+          "type": "color"
+        },
+        "Apotek Hjartat": {
+          "value": "#00cd4f",
+          "type": "color"
+        },
         "Yellow": {
-          "Top": {
-            "value": "{Color.Brand.Orange.Mid}",
+          "Dark": {
+            "value": "#fdc300",
             "type": "color"
           },
-          "Middle": {
-            "value": "{Color.Brand.Yellow.Special}",
+          "Mid": {
+            "value": "#ffe600",
             "type": "color"
           },
-          "Bottom": {
-            "value": "{Color.Brand.Yellow.Lightest}",
+          "Light": {
+            "value": "#fff373",
+            "type": "color"
+          },
+          "Special": {
+            "value": "#fdf4be",
+            "type": "color"
+          },
+          "Lightest": {
+            "value": "#fffceb",
             "type": "color"
           }
         },
         "Orange": {
-          "Top": {
-            "value": "{Color.Brand.Orange.Dark}",
+          "Dark": {
+            "value": "#e84c05",
             "type": "color"
           },
-          "Middle": {
-            "value": "{Color.Brand.Orange.Special}",
+          "Mid": {
+            "value": "#f39100",
             "type": "color"
           },
-          "Bottom": {
-            "value": "{Color.Brand.Orange.Lightest}",
+          "Light": {
+            "value": "#ecb45e",
+            "type": "color"
+          },
+          "Special": {
+            "value": "#fdecd4",
+            "type": "color"
+          },
+          "Lightest": {
+            "value": "#fef7f3",
             "type": "color"
           }
         },
         "Red": {
-          "Top": {
-            "value": "{Color.Brand.Red.Dark}",
+          "Dark": {
+            "value": "#9b0600",
             "type": "color"
           },
-          "Middle": {
-            "value": "{Color.Brand.Red.Special}",
+          "Mid": {
+            "value": "#e3000b",
             "type": "color"
           },
-          "Bottom": {
-            "value": "{Color.Brand.Orange.Lightest}",
+          "Light": {
+            "value": "#e17366",
+            "type": "color"
+          },
+          "Light Special": {
+            "value": "#F29792",
+            "type": "color"
+          },
+          "Special": {
+            "value": "#fcece7",
             "type": "color"
           }
         },
         "Pink": {
-          "Top": {
-            "value": "{Color.Brand.Pink.Dark}",
+          "Dark": {
+            "value": "#a22357",
             "type": "color"
           },
-          "Middle": {
-            "value": "{Color.Brand.Pink.Special}",
+          "Mid": {
+            "value": "#e60064",
             "type": "color"
           },
-          "Bottom": {
-            "value": "{Color.Brand.Pink.Lightest}",
+          "Light": {
+            "value": "#f088b6",
+            "type": "color"
+          },
+          "Special": {
+            "value": "#ffe7f2",
+            "type": "color"
+          },
+          "Lightest": {
+            "value": "#fef6fa",
             "type": "color"
           }
         },
         "Purple": {
-          "Top": {
-            "value": "{Color.Brand.Purple.Dark}",
+          "Dark": {
+            "value": "#652082",
             "type": "color"
           },
-          "Middle": {
-            "value": "{Color.Brand.Purple.Special}",
+          "Mid": {
+            "value": "#964d92",
             "type": "color"
           },
-          "Bottom": {
-            "value": "{Color.Brand.Purple.Lightest}",
+          "Light": {
+            "value": "#bb9ec7",
+            "type": "color"
+          },
+          "Special": {
+            "value": "#f1e4f7",
+            "type": "color"
+          },
+          "Lightest": {
+            "value": "#f4f2f9",
             "type": "color"
           }
         },
         "Blue": {
-          "Top": {
-            "value": "{Color.Brand.Blue.Dark}",
+          "Dark": {
+            "value": "#10408b",
             "type": "color"
           },
-          "Middle": {
-            "value": "{Color.Brand.Blue.Special}",
+          "Mid": {
+            "value": "#0068a8",
             "type": "color"
           },
-          "Bottom": {
-            "value": "{Color.Brand.Blue.Lightest}",
+          "Light": {
+            "value": "#6fb4e0",
+            "type": "color"
+          },
+          "Special": {
+            "value": "#c8e5f7",
+            "type": "color"
+          },
+          "Lightest": {
+            "value": "#f4f8fc",
             "type": "color"
           }
         },
         "Green": {
-          "Top": {
-            "value": "{Color.Brand.Green.Dark}",
+          "Dark": {
+            "value": "#2f6147",
             "type": "color"
           },
-          "Middle": {
-            "value": "{Color.Brand.Green.Special}",
+          "Mid": {
+            "value": "#009738",
             "type": "color"
           },
-          "Bottom": {
-            "value": "{Color.Brand.Green.Lightest}",
+          "Light": {
+            "value": "#7db66d",
+            "type": "color"
+          },
+          "Special": {
+            "value": "#e4efc6",
+            "type": "color"
+          },
+          "Lightest": {
+            "value": "#f5faf4",
+            "type": "color"
+          }
+        },
+        "Green Lime": {
+          "Dark": {
+            "value": "#506c37",
+            "type": "color"
+          },
+          "Mid": {
+            "value": "#94c11a",
+            "type": "color"
+          },
+          "Light": {
+            "value": "#bacd81",
             "type": "color"
           }
         },
         "Turquoise": {
-          "Top": {
-            "value": "{Color.Brand.Turquoise.Dark}",
+          "Dark": {
+            "value": "#176473",
             "type": "color"
           },
-          "Middle": {
-            "value": "{Color.Brand.Turquoise.Special}",
+          "Mid": {
+            "value": "#00aca8",
             "type": "color"
           },
-          "Bottom": {
-            "value": "{Color.Brand.Blue.Lightest}",
+          "Light": {
+            "value": "#9bcbcd",
+            "type": "color"
+          },
+          "Special": {
+            "value": "#d4ece8",
             "type": "color"
           }
         },
         "Brown": {
-          "Top": {
-            "value": "{Color.Brand.Brown.Dark}",
+          "Dark": {
+            "value": "#593d32",
             "type": "color"
           },
-          "Middle": {
-            "value": "{Color.Brand.Brown.Special}",
+          "Mid": {
+            "value": "#855737",
             "type": "color"
           },
-          "Bottom": {
-            "value": "{Color.Brand.Brown.Lightest}",
+          "Light": {
+            "value": "#caaa93",
+            "type": "color"
+          },
+          "Special": {
+            "value": "#f2e3d8",
+            "type": "color"
+          },
+          "Lightest": {
+            "value": "#f9f5f5",
             "type": "color"
           }
         },
         "Grey": {
-          "Top": {
-            "value": "{Color.Brand.Grey.Dark}",
+          "Dark": {
+            "value": "#3a3a3a",
             "type": "color"
           },
-          "Middle": {
-            "value": "{Color.Brand.Grey.Light}",
+          "Dark Special": {
+            "value": "#626262",
             "type": "color"
           },
-          "Bottom": {
-            "value": "{Color.Brand.Grey.Lightest}",
-            "type": "color"
-          }
-        }
-      },
-      "Page": {
-        "Background": {
-          "value": "{Color.Brand.Brown.Lightest}",
-          "type": "color"
-        },
-        "Text": {
-          "value": "{Color.Brand.Brown.Dark}",
-          "type": "color"
-        }
-      },
-      "Button": {
-        "Primary": {
-          "Background": {
-            "Default": {
-              "value": "#E13205",
-              "type": "color"
-            },
-            "Hover": {
-              "value": "{Color.Brand.Pink.Light}",
-              "type": "color"
-            },
-            "Active": {
-              "value": "{Color.Brand.Red.Dark}",
-              "type": "color"
-            },
-            "Disabled": {
-              "value": "{Color.Brand.Grey.Special}",
-              "type": "color"
-            },
-            "Focus": {
-              "value": "{Color.Brand.Pink.Light}",
-              "type": "color"
-            },
-            "Pressed": {
-              "value": "{Color.Brand.Red.Dark}",
-              "type": "color"
-            },
-            "Selected": {
-              "value": "{Color.Accessibility.Confirm}",
-              "type": "color"
-            }
-          },
-          "Text": {
-            "Default": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Hover": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Active": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Disabled": {
-              "value": "{Color.Brand.Grey.Mid}",
-              "type": "color"
-            },
-            "Focus": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Pressed": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Selected": {
-              "value": "{Color.White}",
-              "type": "color"
-            }
-          }
-        },
-        "Secondary": {
-          "Background": {
-            "Default": {
-              "value": "{Color.Brand.Red.Special}",
-              "type": "color"
-            },
-            "Hover": {
-              "value": "{Color.Brand.Pink.Light}",
-              "type": "color"
-            },
-            "Active": {
-              "value": "{Color.Brand.Red.Dark}",
-              "type": "color"
-            },
-            "Disabled": {
-              "value": "{Color.Brand.Grey.Special}",
-              "type": "color"
-            },
-            "Focus": {
-              "value": "{Color.Brand.Pink.Light}",
-              "type": "color"
-            },
-            "Pressed": {
-              "value": "{Color.Brand.Red.Dark}",
-              "type": "color"
-            },
-            "Selected": {
-              "value": "{Color.Accessibility.Confirm}",
-              "type": "color"
-            }
-          },
-          "Text": {
-            "Default": {
-              "value": "#cf2e05",
-              "type": "color"
-            },
-            "Hover": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Active": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Disabled": {
-              "value": "{Color.Brand.Grey.Mid}",
-              "type": "color"
-            },
-            "Focus": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Pressed": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Selected": {
-              "value": "{Color.White}",
-              "type": "color"
-            }
-          }
-        },
-        "Tertiary": {
-          "Background": {
-            "Default": {
-              "value": "rgba({Color.White}, 0)",
-              "type": "color"
-            },
-            "Hover": {
-              "value": "rgba({Color.White}, 0)",
-              "type": "color"
-            },
-            "Active": {
-              "value": "rgba({Color.White}, 0)",
-              "type": "color"
-            },
-            "Disabled": {
-              "value": "rgba({Color.White}, 0)",
-              "type": "color"
-            },
-            "Focus": {
-              "value": "rgba({Color.White}, 0)",
-              "type": "color"
-            },
-            "Pressed": {
-              "value": "rgba({Color.White}, 0)",
-              "type": "color"
-            },
-            "Selected": {
-              "value": "rgba({Color.White}, 0)",
-              "type": "color"
-            }
-          },
-          "Text": {
-            "Default": {
-              "value": "{Color.Hyperlink.Default}",
-              "type": "color"
-            },
-            "Hover": {
-              "value": "{Color.Hyperlink.Hover}",
-              "type": "color"
-            },
-            "Active": {
-              "value": "{Color.Hyperlink.Active}",
-              "type": "color"
-            },
-            "Disabled": {
-              "value": "{Color.Hyperlink.Disabled}",
-              "type": "color"
-            },
-            "Focus": {
-              "value": "{Color.Hyperlink.Focus}",
-              "type": "color"
-            },
-            "Pressed": {
-              "value": "{Color.Hyperlink.Active}",
-              "type": "color"
-            },
-            "Selected": {
-              "value": "{Color.Accessibility.Confirm}",
-              "type": "color"
-            }
-          }
-        },
-        "White": {
-          "Background": {
-            "Default": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Hover": {
-              "value": "{Color.Brand.Pink.Light}",
-              "type": "color"
-            },
-            "Active": {
-              "value": "{Color.Brand.Red.Dark}",
-              "type": "color"
-            },
-            "Disabled": {
-              "value": "{Color.Brand.Grey.Special}",
-              "type": "color"
-            },
-            "Focus": {
-              "value": "{Color.Brand.Pink.Light}",
-              "type": "color"
-            },
-            "Pressed": {
-              "value": "{Color.Brand.Red.Dark}",
-              "type": "color"
-            },
-            "Selected": {
-              "value": "{Color.Accessibility.Confirm}",
-              "type": "color"
-            }
-          },
-          "Text": {
-            "Default": {
-              "value": "#cf2e05",
-              "type": "color"
-            },
-            "Hover": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Active": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Disabled": {
-              "value": "{Color.Brand.Grey.Mid}",
-              "type": "color"
-            },
-            "Focus": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Pressed": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Selected": {
-              "value": "{Color.White}",
-              "type": "color"
-            }
-          }
-        }
-      },
-      "Button Circle": {
-        "Primary": {
-          "Background": {
-            "Default": {
-              "value": "#E13205",
-              "type": "color"
-            },
-            "Hover": {
-              "value": "{Color.Brand.Pink.Light}",
-              "type": "color"
-            },
-            "Active": {
-              "value": "{Color.Brand.Red.Dark}",
-              "type": "color"
-            },
-            "Disabled": {
-              "value": "{Color.Brand.Grey.Special}",
-              "type": "color"
-            },
-            "Focus": {
-              "value": "{Color.Brand.Pink.Light}",
-              "type": "color"
-            },
-            "Pressed": {
-              "value": "{Color.Brand.Red.Dark}",
-              "type": "color"
-            },
-            "Selected": {
-              "value": "{Color.Accessibility.Confirm}",
-              "type": "color"
-            }
-          },
-          "Icon": {
-            "Default": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Hover": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Active": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Disabled": {
-              "value": "{Color.Brand.Grey.Mid}",
-              "type": "color"
-            },
-            "Focus": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Pressed": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Selected": {
-              "value": "{Color.White}",
-              "type": "color"
-            }
-          }
-        },
-        "Secondary": {
-          "Background": {
-            "Default": {
-              "value": "{Color.Brand.Red.Special}",
-              "type": "color"
-            },
-            "Hover": {
-              "value": "{Color.Brand.Pink.Light}",
-              "type": "color"
-            },
-            "Active": {
-              "value": "{Color.Brand.Red.Dark}",
-              "type": "color"
-            },
-            "Disabled": {
-              "value": "{Color.Brand.Grey.Special}",
-              "type": "color"
-            },
-            "Focus": {
-              "value": "{Color.Brand.Pink.Light}",
-              "type": "color"
-            },
-            "Pressed": {
-              "value": "{Color.Brand.Red.Dark}",
-              "type": "color"
-            },
-            "Selected": {
-              "value": "{Color.Accessibility.Confirm}",
-              "type": "color"
-            }
-          },
-          "Icon": {
-            "Default": {
-              "value": "#cf2e05",
-              "type": "color"
-            },
-            "Hover": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Active": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Disabled": {
-              "value": "{Color.Brand.Grey.Mid}",
-              "type": "color"
-            },
-            "Focus": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Pressed": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Selected": {
-              "value": "{Color.White}",
-              "type": "color"
-            }
-          }
-        },
-        "Tertiary": {
-          "Background": {
-            "Default": {
-              "value": "rgba({Color.White}, 0)",
-              "type": "color"
-            },
-            "Hover": {
-              "value": "rgba({Color.White}, 0)",
-              "type": "color"
-            },
-            "Active": {
-              "value": "rgba({Color.White}, 0)",
-              "type": "color"
-            },
-            "Disabled": {
-              "value": "rgba({Color.White}, 0)",
-              "type": "color"
-            },
-            "Focus": {
-              "value": "rgba({Color.White}, 0)",
-              "type": "color"
-            },
-            "Pressed": {
-              "value": "rgba({Color.White}, 0)",
-              "type": "color"
-            },
-            "Selected": {
-              "value": "rgba({Color.White}, 0)",
-              "type": "color"
-            }
-          },
-          "Icon": {
-            "Default": {
-              "value": "{Color.Hyperlink.Default}",
-              "type": "color"
-            },
-            "Hover": {
-              "value": "{Color.Hyperlink.Hover}",
-              "type": "color"
-            },
-            "Active": {
-              "value": "{Color.Hyperlink.Active}",
-              "type": "color"
-            },
-            "Disabled": {
-              "value": "{Color.Hyperlink.Disabled}",
-              "type": "color"
-            },
-            "Focus": {
-              "value": "{Color.Hyperlink.Focus}",
-              "type": "color"
-            },
-            "Pressed": {
-              "value": "{Color.Hyperlink.Active}",
-              "type": "color"
-            },
-            "Selected": {
-              "value": "{Color.Accessibility.Confirm}",
-              "type": "color"
-            }
-          }
-        },
-        "White": {
-          "Background": {
-            "Default": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Hover": {
-              "value": "{Color.Brand.Pink.Light}",
-              "type": "color"
-            },
-            "Active": {
-              "value": "{Color.Brand.Red.Dark}",
-              "type": "color"
-            },
-            "Disabled": {
-              "value": "{Color.Brand.Grey.Special}",
-              "type": "color"
-            },
-            "Focus": {
-              "value": "{Color.Brand.Pink.Light}",
-              "type": "color"
-            },
-            "Pressed": {
-              "value": "{Color.Brand.Red.Dark}",
-              "type": "color"
-            },
-            "Selected": {
-              "value": "{Color.Accessibility.Confirm}",
-              "type": "color"
-            }
-          },
-          "Icon": {
-            "Default": {
-              "value": "#cf2e05",
-              "type": "color"
-            },
-            "Hover": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Active": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Disabled": {
-              "value": "{Color.Brand.Grey.Mid}",
-              "type": "color"
-            },
-            "Focus": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Pressed": {
-              "value": "{Color.White}",
-              "type": "color"
-            },
-            "Selected": {
-              "value": "{Color.White}",
-              "type": "color"
-            }
-          }
-        }
-      },
-      "Button Avatar": {
-        "Background": {
-          "Default": {
-            "value": "{Color.Brand.Red.Special}",
+          "Mid": {
+            "value": "#868686",
             "type": "color"
           },
-          "Hover": {
-            "value": "{Color.Brand.Pink.Light}",
+          "Light": {
+            "value": "#bdbbb9",
             "type": "color"
           },
-          "Active": {
-            "value": "{Color.Brand.Red.Dark}",
+          "Special": {
+            "value": "#ededed",
             "type": "color"
           },
-          "Disabled": {
-            "value": "{Color.Brand.Grey.Special}",
-            "type": "color"
-          },
-          "Focus": {
-            "value": "{Color.Brand.Pink.Light}",
-            "type": "color"
-          },
-          "Pressed": {
-            "value": "{Color.Brand.Red.Dark}",
+          "Lightest": {
+            "value": "#F6F6F6",
             "type": "color"
           }
-        },
-        "Text": {
-          "Default": {
-            "value": "#cf2e05",
-            "type": "color"
-          },
-          "Hover": {
-            "value": "{Color.White}",
-            "type": "color"
-          },
-          "Active": {
-            "value": "{Color.White}",
-            "type": "color"
-          },
-          "Disabled": {
-            "value": "{Color.Brand.Grey.Mid}",
-            "type": "color"
-          },
-          "Focus": {
-            "value": "{Color.White}",
-            "type": "color"
-          },
-          "Pressed": {
-            "value": "{Color.White}",
-            "type": "color"
-          }
-        }
-      },
-      "Button Filter": {
-        "Background": {
-          "Default": {
-            "value": "rgba({Color.White}, 0)",
-            "type": "color"
-          },
-          "Hover": {
-            "value": "rgba({Color.White}, 0)",
-            "type": "color"
-          },
-          "Active": {
-            "value": "{Color.Brand.Red.Dark}",
-            "type": "color"
-          },
-          "Disabled": {
-            "value": "rgba({Color.White}, 0)",
-            "type": "color"
-          },
-          "Active Disabled": {
-            "value": "{Color.Brand.Grey.Special}",
-            "type": "color"
-          },
-          "Focus": {
-            "value": "rgba({Color.White}, 0)",
-            "type": "color"
-          },
-          "Pressed": {
-            "value": "{Color.Brand.Red.Dark}",
-            "type": "color"
-          }
-        },
-        "Text": {
-          "Default": {
-            "value": "#cf2e05",
-            "type": "color"
-          },
-          "Hover": {
-            "value": "{Color.Brand.Pink.Light}",
-            "type": "color"
-          },
-          "Active": {
-            "value": "{Color.White}",
-            "type": "color"
-          },
-          "Disabled": {
-            "value": "{Color.Brand.Grey.Mid}",
-            "type": "color"
-          },
-          "Active Disabled": {
-            "value": "{Color.Brand.Grey.Mid}",
-            "type": "color"
-          },
-          "Focus": {
-            "value": "{Color.Brand.Pink.Light}",
-            "type": "color"
-          },
-          "Pressed": {
-            "value": "{Color.White}",
-            "type": "color"
-          }
-        },
-        "Border": {
-          "Default": {
-            "value": "#cf2e05",
-            "type": "color"
-          },
-          "Hover": {
-            "value": "{Color.Brand.Pink.Light}",
-            "type": "color"
-          },
-          "Active": {
-            "value": "{Color.Brand.Red.Dark}",
-            "type": "color"
-          },
-          "Disabled": {
-            "value": "{Color.Brand.Grey.Mid}",
-            "type": "color"
-          },
-          "Active Disabled": {
-            "value": "{Color.Brand.Grey.Mid}",
-            "type": "color"
-          },
-          "Focus": {
-            "value": "{Color.Brand.Pink.Light}",
-            "type": "color"
-          },
-          "Pressed": {
-            "value": "{Color.Brand.Red.Dark}",
-            "type": "color"
-          }
-        }
-      },
-      "Button Show More": {
-        "Background": {
-          "Default": {
-            "value": "rgba({Color.White}, 0)",
-            "type": "color"
-          },
-          "Hover": {
-            "value": "rgba({Color.White}, 0)",
-            "type": "color"
-          },
-          "Disabled": {
-            "value": "rgba({Color.White}, 0)",
-            "type": "color"
-          },
-          "Focus": {
-            "value": "rgba({Color.White}, 0)",
-            "type": "color"
-          },
-          "Pressed": {
-            "value": "rgba({Color.White}, 0)",
-            "type": "color"
-          }
-        },
-        "Text": {
-          "Default": {
-            "value": "#cf2e05",
-            "type": "color"
-          },
-          "Hover": {
-            "value": "{Color.Brand.Pink.Light}",
-            "type": "color"
-          },
-          "Disabled": {
-            "value": "{Color.Brand.Grey.Mid}",
-            "type": "color"
-          },
-          "Focus": {
-            "value": "{Color.Brand.Pink.Light}",
-            "type": "color"
-          },
-          "Pressed": {
-            "value": "{Color.Brand.Red.Dark}",
-            "type": "color"
-          }
-        },
-        "Border": {
-          "Default": {
-            "value": "rgba({Color.White}, 0)",
-            "type": "color"
-          },
-          "Hover": {
-            "value": "rgba({Color.White}, 0)",
-            "type": "color"
-          },
-          "Disabled": {
-            "value": "rgba({Color.White}, 0)",
-            "type": "color"
-          },
-          "Focus": {
-            "value": "rgba({Color.White}, 0)",
-            "type": "color"
-          },
-          "Pressed": {
-            "value": "rgba({Color.White}, 0)",
-            "type": "color"
-          }
-        }
-      },
-      "Hyperlink": {
-        "Default": {
-          "value": "#cf2e05",
-          "type": "color"
-        },
-        "Hover": {
-          "value": "{Color.Brand.Pink.Light}",
-          "type": "color"
-        },
-        "Active": {
-          "value": "{Color.Brand.Red.Dark}",
-          "type": "color"
-        },
-        "Disabled": {
-          "value": "{Color.Brand.Grey.Mid}",
-          "type": "color"
-        },
-        "Focus": {
-          "value": "{Color.Brand.Pink.Light}",
-          "type": "color"
-        }
-      },
-      "Accessibility": {
-        "Confirm": {
-          "value": "#008933",
-          "type": "color"
-        }
-      },
-      "Topnav": {
-        "Background": {
-          "value": "{Color.White}",
-          "type": "color"
-        }
-      },
-      "Topnav Tab": {
-        "Default": {
-          "value": "{Color.Brand.Grey.Dark}",
-          "type": "color"
-        },
-        "Hover": {
-          "value": "{Color.Brand.Pink.Light}",
-          "type": "color"
-        },
-        "Active": {
-          "value": "{Color.Brand.Red.Dark}",
-          "type": "color"
-        }
-      },
-      "Card": {
-        "Background": {
-          "value": "{Color.White}",
-          "type": "color"
-        },
-        "Text": {
-          "Primary": {
-            "value": "{Color.Brand.Grey.Dark}",
-            "type": "color"
-          },
-          "Secondary": {
-            "value": "{Color.Brand.Grey.Dark Special}",
-            "type": "color"
-          },
-          "Tertiary": {
-            "value": "{Color.Brand.Grey.Mid}",
-            "type": "color"
-          },
-          "Disabled": {
-            "value": "{Color.Brand.Grey.Mid}",
-            "type": "color"
-          },
-          "Prefix": {
-            "value": "{Color.Brand.Red.Mid}",
-            "type": "color"
-          }
-        },
-        "Border": {
-          "Standard": {
-            "value": "{Color.Brand.Grey.Special}",
-            "type": "color"
-          }
-        }
-      },
-      "Divider": {
-        "Standard": {
-          "value": "{Color.Brand.Grey.Special}",
-          "type": "color"
-        }
-      },
-      "Alert": {
-        "Info": {
-          "Background": {
-            "value": "{Color.Monochrome.Purple.Bottom}",
-            "type": "color"
-          },
-          "Foreground": {
-            "value": "{Color.Monochrome.Purple.Top}",
-            "type": "color"
-          },
-          "Border": {
-            "value": "{Color.Brand.Purple.Light}",
-            "type": "color"
-          }
-        },
-        "Success": {
-          "Background": {
-            "value": "{Color.Monochrome.Green.Bottom}",
-            "type": "color"
-          },
-          "Foreground": {
-            "value": "{Color.Monochrome.Green.Top}",
-            "type": "color"
-          },
-          "Border": {
-            "value": "{Color.Brand.Green.Light}",
-            "type": "color"
-          }
-        },
-        "Warning": {
-          "Background": {
-            "value": "{Color.Brand.Yellow.Lightest}",
-            "type": "color"
-          },
-          "Foreground": {
-            "value": "{Color.Brand.Orange.Dark}",
-            "type": "color"
-          },
-          "Border": {
-            "value": "{Color.Brand.Orange.Light}",
-            "type": "color"
-          }
-        },
-        "Error": {
-          "Background": {
-            "value": "{Color.Monochrome.Red.Bottom}",
-            "type": "color"
-          },
-          "Foreground": {
-            "value": "{Color.Brand.Red.Mid}",
-            "type": "color"
-          },
-          "Border": {
-            "value": "{Color.Brand.Red.Light}",
-            "type": "color"
-          }
-        }
-      },
-      "Breadcrumb": {
-        "Hyperlink": {
-          "value": "{Color.Hyperlink.Default}",
-          "type": "color"
-        },
-        "Active": {
-          "value": "{Color.Page.Text}",
-          "type": "color"
-        },
-        "Separator": {
-          "value": "{Color.Page.Text}",
-          "type": "color"
-        }
-      },
-      "Accordion": {
-        "Background": {
-          "value": "{Color.White}",
-          "type": "color"
-        },
-        "Header": {
-          "Default": {
-            "value": "{Color.Card.Text.Primary}",
-            "type": "color"
-          },
-          "Hover": {
-            "value": "{Color.Hyperlink.Hover}",
-            "type": "color"
-          },
-          "Active": {
-            "value": "{Color.Hyperlink.Active}",
-            "type": "color"
-          },
-          "Disabled": {
-            "value": "{Color.Hyperlink.Disabled}",
-            "type": "color"
-          },
-          "Focus": {
-            "value": "{Color.Hyperlink.Focus}",
-            "type": "color"
-          }
-        }
-      },
-      "Text Label": {
-        "Grey": {
-          "value": "{Color.Brand.Grey.Mid}",
-          "type": "color"
-        },
-        "Green": {
-          "value": "{Color.Brand.Green.Dark}",
-          "type": "color"
-        }
-      },
-      "Highlight Label": {
-        "Pink": {
-          "Background": {
-            "value": "{Color.Brand.Stammis}",
-            "type": "color"
-          },
-          "Text": {
-            "value": "{Color.Brand.ICA}",
-            "type": "color"
-          }
-        }
-      },
-      "Direct Navigation": {
-        "Default": {
-          "value": "{Color.Hyperlink.Default}",
-          "type": "color"
-        },
-        "Hover": {
-          "value": "{Color.Hyperlink.Hover}",
-          "type": "color"
-        },
-        "Active": {
-          "value": "{Color.Hyperlink.Active}",
-          "type": "color"
-        },
-        "Disabled": {
-          "value": "{Color.Hyperlink.Disabled}",
-          "type": "color"
-        },
-        "Focus": {
-          "value": "{Color.Hyperlink.Focus}",
-          "type": "color"
-        }
-      },
-      "Climate Smart": {
-        "Default": {
-          "value": "{Color.Brand.Green.Mid}",
-          "type": "color"
-        }
-      },
-      "Modal": {
-        "Background": {
-          "value": "{Color.White}",
-          "type": "color"
-        }
-      },
-      "Overview Navigation": {
-        "Title": {
-          "value": "{Color.Hyperlink.Default}",
-          "type": "color"
-        },
-        "Preamble": {
-          "value": "{Color.Card.Text.Primary}",
-          "type": "color"
-        }
-      },
-      "Section Navigation": {
-        "Title": {
-          "value": "{Color.Hyperlink.Default}",
-          "type": "color"
-        },
-        "Preamble": {
-          "value": "{Color.Card.Text.Primary}",
-          "type": "color"
         }
       }
     },
-    "Typography": {
-      "Heading": {
-        "H1": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Rubrik}",
-            "fontWeight": "{Font Weight.Black}",
-            "lineHeight": "{Line Height.Heading.H1}",
-            "fontSize": "{Font Size.Heading.H1}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "H1 typography set on small screens."
-        },
-        "H2": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Rubrik}",
-            "fontWeight": "{Font Weight.Black}",
-            "lineHeight": "{Line Height.Heading.H2}",
-            "fontSize": "{Font Size.Heading.H2}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "H2 typography set on small screens."
-        },
-        "H3": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Rubrik}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.Heading.H3}",
-            "fontSize": "{Font Size.Heading.H3}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "H3 typography set on small screens."
-        },
-        "H4": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Rubrik}",
-            "fontWeight": "{Font Weight.Medium}",
-            "lineHeight": "{Line Height.Heading.H4}",
-            "fontSize": "{Font Size.Heading.H4}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "H4 typography set on small screens."
-        },
-        "H5": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Rubrik}",
-            "fontWeight": "{Font Weight.Medium}",
-            "lineHeight": "{Line Height.Heading.H5}",
-            "fontSize": "{Font Size.Heading.H5}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "H5 typography set on small screens."
-        },
-        "H6": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Black}",
-            "lineHeight": "{Line Height.Heading.H6}",
-            "fontSize": "{Font Size.Heading.H6}",
-            "letterSpacing": "{Letter Spacing.M}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.Uppercase}"
-          },
-          "type": "typography",
-          "description": "H6 typography set on small screens."
-        },
-        "BP L": {
-          "H1": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Black}",
-              "lineHeight": "{Line Height.Heading.BP L.H1}",
-              "fontSize": "{Font Size.Heading.BP L.H1}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "H1 typography set on large screens."
-          },
-          "H2": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Black}",
-              "lineHeight": "{Line Height.Heading.BP L.H2}",
-              "fontSize": "{Font Size.Heading.BP L.H2}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "H2 typography set on large screens."
-          },
-          "H3": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Bold}",
-              "lineHeight": "{Line Height.Heading.BP L.H3}",
-              "fontSize": "{Font Size.Heading.BP L.H3}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "H3 typography set on large screens."
-          },
-          "H4": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Medium}",
-              "lineHeight": "{Line Height.Heading.BP L.H4}",
-              "fontSize": "{Font Size.Heading.BP L.H4}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "H4 typography set on large screens."
-          },
-          "H5": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Medium}",
-              "lineHeight": "{Line Height.Heading.BP L.H5}",
-              "fontSize": "{Font Size.Heading.BP L.H5}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "H5 typography set on large screens."
-          },
-          "H6": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Black}",
-              "lineHeight": "{Line Height.Heading.BP L.H6}",
-              "fontSize": "{Font Size.Heading.BP L.H6}",
-              "letterSpacing": "{Letter Spacing.M}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.Uppercase}"
-            },
-            "type": "typography",
-            "description": "H6 typography set on large screens."
-          }
-        }
+    "Font Family": {
+      "ICA Rubrik": {
+        "value": "ICA Rubrik",
+        "type": "fontFamilies",
+        "description": "Used in our headings."
       },
-      "Subheading": {
-        "XS": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Black}",
-            "lineHeight": "{Line Height.2XS}",
-            "fontSize": "{Font Size.2XS}",
-            "letterSpacing": "{Letter Spacing.M}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.Uppercase}"
-          },
-          "type": "typography",
-          "description": "XSmall Label typography set."
-        },
-        "S": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Black}",
-            "lineHeight": "{Line Height.XS}",
-            "fontSize": "{Font Size.XS}",
-            "letterSpacing": "{Letter Spacing.M}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.Uppercase}"
-          },
-          "type": "typography",
-          "description": "Small Label typography set."
-        },
-        "M": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Black}",
-            "lineHeight": "{Line Height.S}",
-            "fontSize": "{Font Size.S}",
-            "letterSpacing": "{Letter Spacing.M}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.Uppercase}"
-          },
-          "type": "typography",
-          "description": "Medium Label typography set."
-        },
-        "L": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Black}",
-            "lineHeight": "{Line Height.L}",
-            "fontSize": "{Font Size.L}",
-            "letterSpacing": "{Letter Spacing.M}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.Uppercase}"
-          },
-          "type": "typography",
-          "description": "Large Label typography set."
-        }
+      "ICA Text Ny": {
+        "value": "ICA Text Ny",
+        "type": "fontFamilies",
+        "description": "Used in our body texts."
       },
-      "Text": {
-        "L": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Regular}",
-            "lineHeight": "{Line Height.Text.L}",
-            "fontSize": "{Font Size.Text.L}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Default typography set on all breakpoints."
-        },
-        "M": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Regular}",
-            "lineHeight": "{Line Height.Text.M}",
-            "fontSize": "{Font Size.Text.M}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Default typography set on all breakpoints."
-        },
-        "Standard": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Regular}",
-            "lineHeight": "{Line Height.Text.Standard}",
-            "fontSize": "{Font Size.Text.Standard}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Default typography set on all breakpoints."
-        },
-        "S": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Regular}",
-            "lineHeight": "{Line Height.Text.S}",
-            "fontSize": "{Font Size.Text.S}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Small typography set on small screens."
-        },
-        "XS": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Regular}",
-            "lineHeight": "{Line Height.Text.XS}",
-            "fontSize": "{Font Size.Text.XS}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "XSmall typography set on small screens."
-        },
-        "2XS": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Regular}",
-            "lineHeight": "{Line Height.Text.2XS}",
-            "fontSize": "{Font Size.Text.2XS}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "2XSmall typography set on small screens."
-        }
+      "ICA Hand": {
+        "value": "ICA Hand",
+        "type": "fontFamilies",
+        "description": "Used in prefixes and for decorational purpose."
       },
-      "Preamble": {
-        "L": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Light}",
-            "lineHeight": "{Line Height.Text.Preamble}",
-            "fontSize": "{Font Size.Text.Preamble}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Preamble typography set on small screens."
-        },
-        "M": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Light}",
-            "lineHeight": "{Line Height.Text.Preamble S}",
-            "fontSize": "{Font Size.Text.Preamble S}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Small Preamble typography set on small screens."
-        },
-        "S": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Light}",
-            "lineHeight": "{Line Height.Text.Preamble XS}",
-            "fontSize": "{Font Size.Text.Preamble XS}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Small Preamble typography set on small screens."
-        },
-        "XS": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Light}",
-            "lineHeight": "{Line Height.Text.Preamble 2XS}",
-            "fontSize": "{Font Size.Text.Preamble 2XS}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Small Preamble typography set on small screens."
-        },
-        "BP L": {
-          "L": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Light}",
-              "lineHeight": "{Line Height.Text.BP L.Preamble}",
-              "fontSize": "{Font Size.Text.BP L.Preamble}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Preamble typography set on large screens."
-          },
-          "M": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Light}",
-              "lineHeight": "{Line Height.Text.BP L.Preamble S}",
-              "fontSize": "{Font Size.Text.BP L.Preamble S}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Small Preamble typography set on large screens."
-          },
-          "S": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Light}",
-              "lineHeight": "{Line Height.Text.BP L.Preamble XS}",
-              "fontSize": "{Font Size.Text.BP L.Preamble XS}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Small Preamble typography set on large screens."
-          },
-          "XS": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Light}",
-              "lineHeight": "{Line Height.Text.BP L.Preamble 2XS}",
-              "fontSize": "{Font Size.Text.BP L.Preamble 2XS}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Small Preamble typography set on large screens."
-          }
-        }
+      "ICA Rubrik Fallback": {
+        "value": "Arial",
+        "type": "fontFamilies",
+        "description": "ICA Rubrik font fallback."
       },
-      "Prefix": {
-        "S": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Hand}",
-            "fontWeight": "{Font Weight.Regular}",
-            "lineHeight": "{Line Height.S}",
-            "fontSize": "{Font Size.S}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Small prefix typography set on small screens."
-        },
-        "M": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Hand}",
-            "fontWeight": "{Font Weight.Regular}",
-            "lineHeight": "{Line Height.M}",
-            "fontSize": "{Font Size.M}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Medium prefix typography set on small screens."
-        },
-        "L": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Hand}",
-            "fontWeight": "{Font Weight.Regular}",
-            "lineHeight": "{Line Height.L}",
-            "fontSize": "{Font Size.L}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Large prefix typography set on small screens."
-        },
-        "BP L": {
-          "S": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Hand}",
-              "fontWeight": "{Font Weight.Regular}",
-              "lineHeight": "{Line Height.M}",
-              "fontSize": "{Font Size.M}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Small prefix typography set on small screens."
-          },
-          "M": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Hand}",
-              "fontWeight": "{Font Weight.Regular}",
-              "lineHeight": "{Line Height.L}",
-              "fontSize": "{Font Size.L}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Medium prefix typography set on small screens."
-          },
-          "L": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Hand}",
-              "fontWeight": "{Font Weight.Regular}",
-              "lineHeight": "{Line Height.XL}",
-              "fontSize": "{Font Size.XL}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Large prefix typography set on small screens."
-          }
-        }
+      "ICA Text Ny Fallback": {
+        "value": "Arial",
+        "type": "fontFamilies",
+        "description": "ICA Text Ny font fallback."
       },
-      "Hero": {
-        "Prefix": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Hand}",
-            "fontWeight": "{Font Weight.Regular}",
-            "lineHeight": "{Line Height.M}",
-            "fontSize": "{Font Size.M}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Small prefix typography set on small screens."
-        },
-        "Heading": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Rubrik}",
-            "fontWeight": "{Font Weight.Black}",
-            "lineHeight": "{Line Height.Heading.H2}",
-            "fontSize": "{Font Size.Heading.H2}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Hero title typography set on small screens."
-        },
-        "Preamlbe": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Light}",
-            "lineHeight": "{Line Height.Text.Preamble}",
-            "fontSize": "{Font Size.Text.Preamble}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Hero preamble typography set on small screens."
-        },
-        "BP L": {
-          "Prefix": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Hand}",
-              "fontWeight": "{Font Weight.Regular}",
-              "lineHeight": "{Line Height.L}",
-              "fontSize": "{Font Size.L}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Small prefix typography set on small screens."
-          },
-          "Heading": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Black}",
-              "lineHeight": "{Line Height.Heading.BP L.H2}",
-              "fontSize": "{Font Size.Heading.BP L.H2}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Hero title typography set on small screens."
-          },
-          "Preamlbe": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Light}",
-              "lineHeight": "{Line Height.Text.BP L.Preamble}",
-              "fontSize": "{Font Size.Text.BP L.Preamble}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Hero preamble typography set on small screens."
-          }
-        }
-      },
-      "Button": {
-        "XS": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.Button.XS}",
-            "fontSize": "{Font Size.Button.XS}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "XSmall Button typography set."
-        },
-        "S": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.Button.S}",
-            "fontSize": "{Font Size.Button.S}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Small Button typography set."
-        },
-        "M": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.Button.M}",
-            "fontSize": "{Font Size.Button.M}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Medium Button typography set."
-        },
-        "L": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.Button.L}",
-            "fontSize": "{Font Size.Button.L}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Large Button typography set."
-        },
-        "XL": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.Button.XL}",
-            "fontSize": "{Font Size.Button.XL}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "XLarge Button typography set."
-        }
-      },
-      "Hyperlink": {
-        "L": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.L}",
-            "fontSize": "{Font Size.L}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Preamble typography set on small screens."
-        },
-        "M": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.M}",
-            "fontSize": "{Font Size.M}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Small Preamble typography set on small screens."
-        },
-        "Standard": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.S}",
-            "fontSize": "{Font Size.S}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Default Body typography set on small screens."
-        },
-        "S": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.XS}",
-            "fontSize": "{Font Size.XS}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Small typography set on small screens."
-        },
-        "XS": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.2XS}",
-            "fontSize": "{Font Size.2XS}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "XSmall typography set on small screens."
-        },
-        "2XS": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.3XS}",
-            "fontSize": "{Font Size.3XS}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "2XSmall typography set on small screens."
-        }
-      },
-      "Topnav Tab": {
-        "Default": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Regular}",
-            "lineHeight": "{Line Height.Topnav Tab}",
-            "fontSize": "{Font Size.Topnav Tab}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Top navigation tab typography set on all screen sizes."
-        },
-        "Active": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.Topnav Tab}",
-            "fontSize": "{Font Size.Topnav Tab}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Top navigation tab typography set on all screen sizes."
-        }
-      },
-      "Tab": {
-        "Default": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Regular}",
-            "lineHeight": "{Line Height.S}",
-            "fontSize": "{Font Size.S}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Top navigation tab typography set on all screen sizes."
-        },
-        "Active": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.S}",
-            "fontSize": "{Font Size.S}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Top navigation tab typography set on all screen sizes."
-        }
-      },
-      "Alert": {
-        "Title": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.Text.Standard}",
-            "fontSize": "{Font Size.Text.Standard}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Default typography set on all breakpoints."
-        },
-        "Message": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Regular}",
-            "lineHeight": "{Line Height.Text.Standard}",
-            "fontSize": "{Font Size.Text.Standard}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Default typography set on all breakpoints."
-        }
-      },
-      "Breadcrumb": {
-        "Default": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.Text.S}",
-            "fontSize": "{Font Size.Text.S}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Breadcrumbs typography set on all screens."
-        },
-        "Active": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Regular}",
-            "lineHeight": "{Line Height.Text.S}",
-            "fontSize": "{Font Size.Text.S}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Breadcrumbs typography set on all screens."
-        }
-      },
-      "Accordion": {
-        "Default": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Regular}",
-            "lineHeight": "{Line Height.S}",
-            "fontSize": "{Font Size.S}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Default Body typography set on small screens."
-        },
-        "Active": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.S}",
-            "fontSize": "{Font Size.S}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Default Body typography set on small screens."
-        },
-        "BP L": {
-          "Default": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Regular}",
-              "lineHeight": "{Line Height.M}",
-              "fontSize": "{Font Size.M}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default Body typography set on small screens."
-          },
-          "Active": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Bold}",
-              "lineHeight": "{Line Height.M}",
-              "fontSize": "{Font Size.M}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default Body typography set on small screens."
-          }
-        }
-      },
-      "Text Label": {
-        "S": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.2XS}",
-            "fontSize": "{Font Size.2XS}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Small Text Label typography set."
-        },
-        "M": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.XS}",
-            "fontSize": "{Font Size.XS}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Medium Text Label typography set."
-        },
-        "L": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.S}",
-            "fontSize": "{Font Size.S}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Large Text Label typography set."
-        }
-      },
-      "Highlight Label": {
-        "S": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Black}",
-            "lineHeight": "{Line Height.S}",
-            "fontSize": "{Font Size.S}",
-            "letterSpacing": "{Letter Spacing.M}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.Uppercase}"
-          },
-          "type": "typography",
-          "description": "Small block label typography set."
-        },
-        "L": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Black}",
-            "lineHeight": "{Line Height.L}",
-            "fontSize": "{Font Size.L}",
-            "letterSpacing": "{Letter Spacing.M}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.Uppercase}"
-          },
-          "type": "typography",
-          "description": "Large block label typography set."
-        }
-      },
-      "Avatar": {
-        "Heading": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Rubrik}",
-            "fontWeight": "{Font Weight.Medium}",
-            "lineHeight": "{Line Height.S}",
-            "fontSize": "{Font Size.S}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "H6 typography set on small screens."
-        },
-        "Item": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Regular}",
-            "lineHeight": "{Line Height.Text.S}",
-            "fontSize": "{Font Size.Text.S}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Small typography set on small screens."
-        }
-      },
-      "Recipe Card": {
-        "S": {
-          "Title": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Bold}",
-              "lineHeight": "{Line Height.S}",
-              "fontSize": "{Font Size.S}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Preamble": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Light}",
-              "lineHeight": "{Line Height.S}",
-              "fontSize": "{Font Size.S}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          }
-        },
-        "M": {
-          "Title": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Medium}",
-              "lineHeight": "{Line Height.M}",
-              "fontSize": "{Font Size.M}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Preamble": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Light}",
-              "lineHeight": "{Line Height.S}",
-              "fontSize": "{Font Size.S}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          }
-        },
-        "L": {
-          "Title": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Medium}",
-              "lineHeight": "{Line Height.L}",
-              "fontSize": "{Font Size.L}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Preamble": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Light}",
-              "lineHeight": "{Line Height.M}",
-              "fontSize": "{Font Size.M}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          }
-        }
-      },
-      "Article Card": {
-        "S": {
-          "Prefix": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Hand}",
-              "fontWeight": "{Font Weight.Regular}",
-              "lineHeight": "{Line Height.S}",
-              "fontSize": "{Font Size.S}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Title": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Medium}",
-              "lineHeight": "{Line Height.M}",
-              "fontSize": "{Font Size.M}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Preamble": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Light}",
-              "lineHeight": "{Line Height.S}",
-              "fontSize": "{Font Size.S}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          }
-        },
-        "M": {
-          "Prefix": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Hand}",
-              "fontWeight": "{Font Weight.Regular}",
-              "lineHeight": "{Line Height.M}",
-              "fontSize": "{Font Size.M}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Title": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Medium}",
-              "lineHeight": "{Line Height.L}",
-              "fontSize": "{Font Size.L}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Preamble": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Light}",
-              "lineHeight": "{Line Height.S}",
-              "fontSize": "{Font Size.S}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          }
-        },
-        "L": {
-          "Prefix": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Hand}",
-              "fontWeight": "{Font Weight.Regular}",
-              "lineHeight": "{Line Height.L}",
-              "fontSize": "{Font Size.L}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Title": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Medium}",
-              "lineHeight": "{Line Height.XL}",
-              "fontSize": "{Font Size.XL}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Preamble": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Light}",
-              "lineHeight": "{Line Height.M}",
-              "fontSize": "{Font Size.M}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          }
-        }
-      },
-      "Curated Recipe Collection Card": {
-        "S": {
-          "Prefix": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Hand}",
-              "fontWeight": "{Font Weight.Regular}",
-              "lineHeight": "{Line Height.S}",
-              "fontSize": "{Font Size.S}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Title": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Medium}",
-              "lineHeight": "{Line Height.M}",
-              "fontSize": "{Font Size.M}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Preamble": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Light}",
-              "lineHeight": "{Line Height.S}",
-              "fontSize": "{Font Size.S}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          }
-        },
-        "M": {
-          "Prefix": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Hand}",
-              "fontWeight": "{Font Weight.Regular}",
-              "lineHeight": "{Line Height.M}",
-              "fontSize": "{Font Size.M}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Title": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Medium}",
-              "lineHeight": "{Line Height.L}",
-              "fontSize": "{Font Size.L}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Preamble": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Light}",
-              "lineHeight": "{Line Height.M}",
-              "fontSize": "{Font Size.M}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          }
-        },
-        "L": {
-          "Prefix": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Hand}",
-              "fontWeight": "{Font Weight.Regular}",
-              "lineHeight": "{Line Height.L}",
-              "fontSize": "{Font Size.L}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Title": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Medium}",
-              "lineHeight": "{Line Height.XL}",
-              "fontSize": "{Font Size.XL}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Preamble": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Light}",
-              "lineHeight": "{Line Height.M}",
-              "fontSize": "{Font Size.M}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          }
-        }
-      },
-      "Saved Recipe Collection Card": {
-        "S": {
-          "Title": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Medium}",
-              "lineHeight": "{Line Height.M}",
-              "fontSize": "{Font Size.M}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Counts": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Regular}",
-              "lineHeight": "{Line Height.XS}",
-              "fontSize": "{Font Size.XS}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          }
-        },
-        "M": {
-          "Title": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Medium}",
-              "lineHeight": "{Line Height.M}",
-              "fontSize": "{Font Size.M}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Counts": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Regular}",
-              "lineHeight": "{Line Height.S}",
-              "fontSize": "{Font Size.S}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          }
-        },
-        "L": {
-          "Title": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Medium}",
-              "lineHeight": "{Line Height.L}",
-              "fontSize": "{Font Size.L}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Counts": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Regular}",
-              "lineHeight": "{Line Height.S}",
-              "fontSize": "{Font Size.S}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          }
-        }
-      },
-      "USP Card": {
-        "S": {
-          "Prefix": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Hand}",
-              "fontWeight": "{Font Weight.Regular}",
-              "lineHeight": "{Line Height.M}",
-              "fontSize": "{Font Size.M}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Title": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Medium}",
-              "lineHeight": "{Line Height.XL}",
-              "fontSize": "{Font Size.XL}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Preamble": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Light}",
-              "lineHeight": "{Line Height.M}",
-              "fontSize": "{Font Size.M}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          }
-        },
-        "M": {
-          "Prefix": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Hand}",
-              "fontWeight": "{Font Weight.Regular}",
-              "lineHeight": "{Line Height.M}",
-              "fontSize": "{Font Size.M}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Title": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Medium}",
-              "lineHeight": "{Line Height.XL}",
-              "fontSize": "{Font Size.XL}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Preamble": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Light}",
-              "lineHeight": "{Line Height.M}",
-              "fontSize": "{Font Size.M}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          }
-        },
-        "L": {
-          "Prefix": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Hand}",
-              "fontWeight": "{Font Weight.Regular}",
-              "lineHeight": "{Line Height.L}",
-              "fontSize": "{Font Size.L}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Title": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Rubrik}",
-              "fontWeight": "{Font Weight.Medium}",
-              "lineHeight": "{Line Height.2XL}",
-              "fontSize": "{Font Size.2XL}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          },
-          "Preamble": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Light}",
-              "lineHeight": "{Line Height.M}",
-              "fontSize": "{Font Size.M}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default typography set on all breakpoints."
-          }
-        }
-      },
-      "Overview Navigation": {
-        "Title": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Rubrik}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.L}",
-            "fontSize": "{Font Size.L}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Default Body typography set on small screens."
-        },
-        "Preamble": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Light}",
-            "lineHeight": "{Line Height.Text.Preamble XS}",
-            "fontSize": "{Font Size.Text.Preamble XS}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Small Preamble typography set on small screens."
-        }
-      },
-      "Section Navigation": {
-        "Title": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Bold}",
-            "lineHeight": "{Line Height.S}",
-            "fontSize": "{Font Size.S}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Default Body typography set on small screens."
-        },
-        "Preamble": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Light}",
-            "lineHeight": "{Line Height.Text.Preamble XS}",
-            "fontSize": "{Font Size.Text.Preamble XS}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Small Preamble typography set on small screens."
-        }
-      },
-      "Text Input": {
-        "Text": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Regular}",
-            "lineHeight": "{Line Height.Text.Standard}",
-            "fontSize": "{Font Size.Text.Standard}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Default Body typography set on small screens."
-        },
-        "Floating Label": {
-          "Standard": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Regular}",
-              "lineHeight": "{Line Height.Text.Standard}",
-              "fontSize": "{Font Size.Text.Standard}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default Body typography set on small screens."
-          },
-          "Small": {
-            "value": {
-              "fontFamily": "{Font Family.ICA Text Ny}",
-              "fontWeight": "{Font Weight.Regular}",
-              "lineHeight": "{Line Height.2XS}",
-              "fontSize": "{Font Size.2XS}",
-              "letterSpacing": "{Letter Spacing.None}",
-              "paragraphSpacing": "{Paragraph Spacing.None}",
-              "textDecoration": "{Text Decoration.None}",
-              "textCase": "{Text Case.None}"
-            },
-            "type": "typography",
-            "description": "Default Body typography set on small screens."
-          }
-        },
-        "Helper": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Regular}",
-            "lineHeight": "{Line Height.XS}",
-            "fontSize": "{Font Size.XS}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Default Body typography set on small screens."
-        }
-      },
-      "Search Input": {
-        "Text": {
-          "value": {
-            "fontFamily": "{Font Family.ICA Text Ny}",
-            "fontWeight": "{Font Weight.Regular}",
-            "lineHeight": "{Line Height.Text.Standard}",
-            "fontSize": "{Font Size.Text.Standard}",
-            "letterSpacing": "{Letter Spacing.None}",
-            "paragraphSpacing": "{Paragraph Spacing.None}",
-            "textDecoration": "{Text Decoration.None}",
-            "textCase": "{Text Case.None}"
-          },
-          "type": "typography",
-          "description": "Default Body typography set on small screens."
-        }
+      "ICA Hand Fallback": {
+        "value": "Arial",
+        "type": "fontFamilies",
+        "description": "ICA Hand font fallback."
       }
     },
     "Font Size": {
-      "Heading": {
-        "H1": {
-          "value": "{Font Size.3XL}",
-          "type": "fontSizes"
-        },
-        "H2": {
-          "value": "{Font Size.XL}",
-          "type": "fontSizes"
-        },
-        "H3": {
-          "value": "{Font Size.M}",
-          "type": "fontSizes"
-        },
-        "H4": {
-          "value": "{Font Size.S}",
-          "type": "fontSizes"
-        },
-        "H5": {
-          "value": "{Font Size.S}",
-          "type": "fontSizes"
-        },
-        "H6": {
-          "value": "{Font Size.XS}",
-          "type": "fontSizes"
-        },
-        "BP L": {
-          "H1": {
-            "value": "{Font Size.4XL}",
-            "type": "fontSizes"
-          },
-          "H2": {
-            "value": "{Font Size.2XL}",
-            "type": "fontSizes"
-          },
-          "H3": {
-            "value": "{Font Size.L}",
-            "type": "fontSizes"
-          },
-          "H4": {
-            "value": "{Font Size.M}",
-            "type": "fontSizes"
-          },
-          "H5": {
-            "value": "{Font Size.S}",
-            "type": "fontSizes"
-          },
-          "H6": {
-            "value": "{Font Size.XS}",
-            "type": "fontSizes"
-          }
-        }
+      "3XS": {
+        "value": "10",
+        "type": "fontSizes"
       },
-      "Text": {
-        "Preamble": {
-          "value": "{Font Size.M}",
-          "type": "fontSizes"
-        },
-        "Preamble S": {
-          "value": "{Font Size.S}",
-          "type": "fontSizes"
-        },
-        "Preamble XS": {
-          "value": "{Font Size.S}",
-          "type": "fontSizes"
-        },
-        "Preamble 2XS": {
-          "value": "{Font Size.XS}",
-          "type": "fontSizes"
-        },
-        "L": {
-          "value": "{Font Size.L}",
-          "type": "fontSizes"
-        },
-        "M": {
-          "value": "{Font Size.M}",
-          "type": "fontSizes"
-        },
-        "Standard": {
-          "value": "{Font Size.S}",
-          "type": "fontSizes"
-        },
-        "S": {
-          "value": "{Font Size.XS}",
-          "type": "fontSizes"
-        },
-        "XS": {
-          "value": "{Font Size.2XS}",
-          "type": "fontSizes"
-        },
-        "2XS": {
-          "value": "{Font Size.3XS}",
-          "type": "fontSizes"
-        },
-        "BP L": {
-          "Preamble": {
-            "value": "{Font Size.L}",
-            "type": "fontSizes"
-          },
-          "Preamble S": {
-            "value": "{Font Size.M}",
-            "type": "fontSizes"
-          },
-          "Preamble XS": {
-            "value": "{Font Size.S}",
-            "type": "fontSizes"
-          },
-          "Preamble 2XS": {
-            "value": "{Font Size.XS}",
-            "type": "fontSizes"
-          }
-        }
+      "2XS": {
+        "value": "12",
+        "type": "fontSizes"
       },
-      "Button": {
-        "XS": {
-          "value": "{Font Size.2XS}",
-          "type": "fontSizes"
-        },
-        "S": {
-          "value": "{Font Size.XS}",
-          "type": "fontSizes"
-        },
-        "M": {
-          "value": "{Font Size.S}",
-          "type": "fontSizes"
-        },
-        "L": {
-          "value": "{Font Size.S}",
-          "type": "fontSizes"
-        },
-        "XL": {
-          "value": "{Font Size.M}",
-          "type": "fontSizes"
-        }
+      "XS": {
+        "value": "14",
+        "type": "fontSizes"
       },
-      "Topnav Tab": {
-        "value": "{Font Size.S}",
+      "S": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "M": {
+        "value": "20",
+        "type": "fontSizes"
+      },
+      "L": {
+        "value": "24",
+        "type": "fontSizes"
+      },
+      "XL": {
+        "value": "32",
+        "type": "fontSizes"
+      },
+      "2XL": {
+        "value": "40",
+        "type": "fontSizes"
+      },
+      "3XL": {
+        "value": "48",
+        "type": "fontSizes"
+      },
+      "4XL": {
+        "value": "64",
         "type": "fontSizes"
       }
     },
+    "Font Weight": {
+      "Black": {
+        "value": "Black",
+        "type": "fontWeights"
+      },
+      "Bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "Medium": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "Regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "Light": {
+        "value": "Light",
+        "type": "fontWeights"
+      }
+    },
     "Line Height": {
-      "Heading": {
-        "H1": {
-          "value": "{Line Height.3XL}",
-          "type": "lineHeights"
-        },
-        "H2": {
-          "value": "{Line Height.XL}",
-          "type": "lineHeights"
-        },
-        "H3": {
-          "value": "{Line Height.M}",
-          "type": "lineHeights"
-        },
-        "H4": {
-          "value": "{Line Height.S}",
-          "type": "lineHeights"
-        },
-        "H5": {
-          "value": "{Line Height.S}",
-          "type": "lineHeights"
-        },
-        "H6": {
-          "value": "{Line Height.XS}",
-          "type": "lineHeights"
-        },
-        "BP L": {
-          "H1": {
-            "value": "{Line Height.4XL}",
-            "type": "lineHeights"
-          },
-          "H2": {
-            "value": "{Line Height.2XL}",
-            "type": "lineHeights"
-          },
-          "H3": {
-            "value": "{Line Height.L}",
-            "type": "lineHeights"
-          },
-          "H4": {
-            "value": "{Line Height.M}",
-            "type": "lineHeights"
-          },
-          "H5": {
-            "value": "{Line Height.S}",
-            "type": "lineHeights"
-          },
-          "H6": {
-            "value": "{Line Height.XS}",
-            "type": "lineHeights"
-          }
-        }
+      "3XS": {
+        "value": "16",
+        "type": "lineHeights"
       },
-      "Text": {
-        "Preamble": {
-          "value": "{Line Height.M}",
-          "type": "lineHeights"
-        },
-        "Preamble S": {
-          "value": "{Line Height.S}",
-          "type": "lineHeights"
-        },
-        "Preamble XS": {
-          "value": "{Line Height.S}",
-          "type": "lineHeights"
-        },
-        "Preamble 2XS": {
-          "value": "{Line Height.XS}",
-          "type": "lineHeights"
-        },
-        "L": {
-          "value": "{Line Height.L}",
-          "type": "lineHeights"
-        },
-        "M": {
-          "value": "{Line Height.M}",
-          "type": "lineHeights"
-        },
-        "Standard": {
-          "value": "{Line Height.S}",
-          "type": "lineHeights"
-        },
-        "S": {
-          "value": "{Line Height.XS}",
-          "type": "lineHeights"
-        },
-        "XS": {
-          "value": "{Line Height.2XS}",
-          "type": "lineHeights"
-        },
-        "2XS": {
-          "value": "{Line Height.2XS}",
-          "type": "lineHeights"
-        },
-        "BP L": {
-          "Preamble": {
-            "value": "{Line Height.L}",
-            "type": "lineHeights"
-          },
-          "Preamble S": {
-            "value": "{Line Height.M}",
-            "type": "lineHeights"
-          },
-          "Preamble XS": {
-            "value": "{Line Height.S}",
-            "type": "lineHeights"
-          },
-          "Preamble 2XS": {
-            "value": "{Line Height.XS}",
-            "type": "lineHeights"
-          }
-        }
+      "2XS": {
+        "value": "16",
+        "type": "lineHeights"
       },
-      "Button": {
-        "XS": {
-          "value": "{Line Height.2XS}",
-          "type": "lineHeights"
-        },
-        "S": {
-          "value": "{Line Height.XS}",
-          "type": "lineHeights"
-        },
-        "M": {
-          "value": "{Line Height.S}",
-          "type": "lineHeights"
-        },
-        "L": {
-          "value": "{Line Height.S}",
-          "type": "lineHeights"
-        },
-        "XL": {
-          "value": "{Line Height.M}",
-          "type": "lineHeights"
-        }
+      "XS": {
+        "value": "20",
+        "type": "lineHeights"
       },
-      "Topnav Tab": {
-        "value": "{Line Height.S}",
+      "S": {
+        "value": "24",
+        "type": "lineHeights"
+      },
+      "M": {
+        "value": "28",
+        "type": "lineHeights"
+      },
+      "L": {
+        "value": "32",
+        "type": "lineHeights"
+      },
+      "XL": {
+        "value": "40",
+        "type": "lineHeights"
+      },
+      "2XL": {
+        "value": "48",
+        "type": "lineHeights"
+      },
+      "3XL": {
+        "value": "56",
+        "type": "lineHeights"
+      },
+      "4XL": {
+        "value": "72",
         "type": "lineHeights"
       }
     },
     "Letter Spacing": {
-      "S": {
-        "value": "0.2",
+      "None": {
+        "value": "0%",
         "type": "letterSpacing"
+      }
+    },
+    "Paragraph Spacing": {
+      "None": {
+        "value": "0%",
+        "type": "paragraphSpacing"
+      }
+    },
+    "Text Case": {
+      "None": {
+        "value": "none",
+        "type": "textCase"
       },
-      "M": {
-        "value": "0.4",
-        "type": "letterSpacing"
+      "Uppercase": {
+        "value": "uppercase",
+        "type": "textCase"
       },
-      "L": {
-        "value": "0.6",
-        "type": "letterSpacing"
+      "Lowercase": {
+        "value": "lowercase",
+        "type": "textCase"
+      },
+      "Capitalize": {
+        "value": "capitalize",
+        "type": "textCase"
+      }
+    },
+    "Text Decoration": {
+      "None": {
+        "value": "none",
+        "type": "textDecoration"
+      },
+      "Underline": {
+        "value": "underline",
+        "type": "textDecoration"
+      },
+      "Line Through": {
+        "value": "line through",
+        "type": "textDecoration"
       }
     },
     "Size": {
-      "BP": {
-        "XS": {
-          "value": "{Size.BP.Device.Mobile S}",
-          "type": "sizing"
-        },
-        "S": {
-          "value": "{Size.BP.Device.Mobile M}",
-          "type": "sizing"
-        },
-        "M": {
-          "value": "{Size.BP.Device.Tablet}",
-          "type": "sizing"
-        },
-        "L": {
-          "value": "{Size.BP.Device.Tablet L}",
-          "type": "sizing"
-        },
-        "XL": {
-          "value": "{Size.BP.Device.Desktop}",
-          "type": "sizing"
-        },
-        "2XL": {
-          "value": "{Size.BP.Device.Widescreen}",
-          "type": "sizing"
-        },
-        "Device": {
-          "Mobile S": {
-            "value": "320",
-            "type": "sizing"
-          },
-          "Mobile M": {
-            "value": "375",
-            "type": "sizing"
-          },
-          "Mobile L": {
-            "value": "425",
-            "type": "sizing"
-          },
-          "Tablet": {
-            "value": "768",
-            "type": "sizing"
-          },
-          "Tablet L": {
-            "value": "1024",
-            "type": "sizing"
-          },
-          "Desktop": {
-            "value": "1440",
-            "type": "sizing"
-          },
-          "Widescreen": {
-            "value": "2560",
-            "type": "sizing"
-          }
-        }
+      "4XS": {
+        "value": "16",
+        "type": "sizing"
       },
-      "Topnav": {
-        "Height": {
-          "value": "64",
-          "type": "sizing"
-        }
+      "3XS": {
+        "value": "20",
+        "type": "sizing"
       },
-      "Topnav Tab": {
-        "Height": {
-          "value": "32",
-          "type": "sizing"
-        }
+      "2XS": {
+        "value": "24",
+        "type": "sizing"
       },
-      "Button": {
-        "XS": {
-          "Height": {
-            "value": "{Size.2XS}",
-            "type": "sizing"
-          },
-          "Icon": {
-            "value": "{Line Height.Button.XS}",
-            "type": "sizing"
-          }
-        },
-        "S": {
-          "Height": {
-            "value": "{Size.S}",
-            "type": "sizing"
-          },
-          "Icon": {
-            "value": "{Line Height.Button.S}",
-            "type": "sizing"
-          }
-        },
-        "M": {
-          "Height": {
-            "value": "{Size.M}",
-            "type": "sizing"
-          },
-          "Icon": {
-            "value": "{Line Height.Button.M}",
-            "type": "sizing"
-          }
-        },
-        "L": {
-          "Height": {
-            "value": "{Size.L}",
-            "type": "sizing"
-          },
-          "Icon": {
-            "value": "{Line Height.Button.L}",
-            "type": "sizing"
-          }
-        },
-        "XL": {
-          "Height": {
-            "value": "{Size.XL}",
-            "type": "sizing"
-          },
-          "Icon": {
-            "value": "{Line Height.Button.XL}",
-            "type": "sizing"
-          }
-        }
+      "XS": {
+        "value": "28",
+        "type": "sizing"
       },
-      "Button Circle": {
-        "XS": {
-          "Circle": {
-            "value": "{Size.2XS}",
-            "type": "sizing"
-          },
-          "Icon": {
-            "value": "{Size.4XS}",
-            "type": "sizing"
-          }
-        },
-        "S": {
-          "Circle": {
-            "value": "{Size.S}",
-            "type": "sizing"
-          },
-          "Icon": {
-            "value": "{Size.3XS}",
-            "type": "sizing"
-          }
-        },
-        "M": {
-          "Circle": {
-            "value": "{Size.M}",
-            "type": "sizing"
-          },
-          "Icon": {
-            "value": "{Size.2XS}",
-            "type": "sizing"
-          }
-        },
-        "L": {
-          "Circle": {
-            "value": "{Size.L}",
-            "type": "sizing"
-          },
-          "Icon": {
-            "value": "{Size.XS}",
-            "type": "sizing"
-          }
-        },
-        "XL": {
-          "Circle": {
-            "value": "{Size.XL}",
-            "type": "sizing"
-          },
-          "Icon": {
-            "value": "{Size.S}",
-            "type": "sizing"
-          }
-        }
+      "S": {
+        "value": "32",
+        "type": "sizing"
       },
-      "Button Avatar": {
-        "Height": {
-          "value": "{Size.S}",
-          "type": "sizing"
-        },
-        "Icon": {
-          "value": "{Line Height.Button.S}",
-          "type": "sizing"
-        }
+      "M": {
+        "value": "40",
+        "type": "sizing"
       },
-      "Alert": {
-        "Icon": {
-          "value": "{Line Height.Text.Standard}",
-          "type": "sizing"
-        }
+      "L": {
+        "value": "48",
+        "type": "sizing"
       },
-      "Divider": {
-        "Standard": {
-          "value": "1",
-          "type": "sizing"
-        }
+      "XL": {
+        "value": "56",
+        "type": "sizing"
       },
-      "Breadcrumb": {
-        "Height": {
-          "value": "48",
-          "type": "sizing"
-        },
-        "Separator": {
-          "value": "16",
-          "type": "sizing"
-        }
+      "2XL": {
+        "value": "64",
+        "type": "sizing"
       },
-      "Text Label": {
-        "S": {
-          "Icon": {
-            "value": "{Line Height.2XS}",
-            "type": "sizing"
-          }
-        },
-        "M": {
-          "Icon": {
-            "value": "{Line Height.XS}",
-            "type": "sizing"
-          }
-        },
-        "L": {
-          "Icon": {
-            "value": "{Line Height.S}",
-            "type": "sizing"
-          }
-        }
+      "3XL": {
+        "value": "72",
+        "type": "sizing"
       },
-      "Highlight Label": {
-        "S": {
-          "Icon": {
-            "value": "{Line Height.S}",
-            "type": "sizing"
-          }
-        },
-        "L": {
-          "Icon": {
-            "value": "{Line Height.L}",
-            "type": "sizing"
-          }
-        }
+      "4XL": {
+        "value": "80",
+        "type": "sizing"
       }
     },
     "Spacing": {
-      "Topnav": {
-        "Padding Horizontal": {
-          "BP XS": {
-            "value": "{Spacing.XS}",
-            "type": "spacing"
-          },
-          "BP S": {
-            "value": "{Spacing.S}",
-            "type": "spacing"
-          },
-          "BP M": {
-            "value": "{Spacing.L}",
-            "type": "spacing"
-          },
-          "BP L": {
-            "value": "{Spacing.L}",
-            "type": "spacing"
-          },
-          "BP XL": {
-            "value": "104",
-            "type": "spacing"
-          }
-        }
+      "None": {
+        "value": "0",
+        "type": "spacing"
       },
-      "Button": {
-        "XS": {
-          "Padding Horizontal": {
-            "value": "{Spacing.XS}",
-            "type": "spacing"
-          },
-          "Padding Horizontal Icon": {
-            "value": "{Spacing.2XS}",
-            "type": "spacing"
-          },
-          "Gap Icon Text": {
-            "value": "{Spacing.3XS}",
-            "type": "spacing"
-          }
-        },
-        "S": {
-          "Padding Horizontal": {
-            "value": "{Spacing.S}",
-            "type": "spacing"
-          },
-          "Padding Horizontal Icon": {
-            "value": "{Spacing.XS}",
-            "type": "spacing"
-          },
-          "Gap Icon Text": {
-            "value": "{Spacing.3XS}",
-            "type": "spacing"
-          }
-        },
-        "M": {
-          "Padding Horizontal": {
-            "value": "{Spacing.M}",
-            "type": "spacing"
-          },
-          "Padding Horizontal Icon": {
-            "value": "{Spacing.S}",
-            "type": "spacing"
-          },
-          "Gap Icon Text": {
-            "value": "{Spacing.3XS}",
-            "type": "spacing"
-          }
-        },
-        "L": {
-          "Padding Horizontal": {
-            "value": "{Spacing.L}",
-            "type": "spacing"
-          },
-          "Padding Horizontal Icon": {
-            "value": "{Spacing.M}",
-            "type": "spacing"
-          },
-          "Gap Icon Text": {
-            "value": "{Spacing.3XS}",
-            "type": "spacing"
-          }
-        },
-        "XL": {
-          "Padding Horizontal": {
-            "value": "{Spacing.XL}",
-            "type": "spacing"
-          },
-          "Padding Horizontal Icon": {
-            "value": "{Spacing.L}",
-            "type": "spacing"
-          },
-          "Gap Icon Text": {
-            "value": "{Spacing.2XS}",
-            "type": "spacing"
-          }
-        }
+      "4XS": {
+        "value": "2",
+        "type": "spacing"
       },
-      "Button Avatar": {
-        "Gap": {
-          "value": "{Spacing.3XS}",
-          "type": "spacing"
-        },
-        "Padding Horizontal": {
-          "value": "{Spacing.S}",
-          "type": "spacing"
-        }
+      "3XS": {
+        "value": "4",
+        "type": "spacing"
       },
-      "Alert": {
-        "Content Container": {
-          "Padding": {
-            "value": "{Spacing.2XS}",
-            "type": "spacing"
-          }
-        },
-        "Message Container": {
-          "Gap": {
-            "value": "{Spacing.2XS}",
-            "type": "spacing"
-          },
-          "Padding": {
-            "value": "{Spacing.2XS}",
-            "type": "spacing"
-          }
-        }
+      "2XS": {
+        "value": "8",
+        "type": "spacing"
       },
-      "Breadcrumb": {
-        "Gap": {
-          "value": "{Spacing.XS}",
-          "type": "spacing"
-        }
+      "XS": {
+        "value": "12",
+        "type": "spacing"
       },
-      "Accordion": {
-        "Title": {
-          "S": {
-            "Padding Vertical": {
-              "value": "{Spacing.XS}",
-              "type": "spacing"
-            },
-            "Padding Horizontal": {
-              "value": "{Spacing.S}",
-              "type": "spacing"
-            }
-          },
-          "L": {
-            "Padding Vertical": {
-              "value": "{Spacing.S}",
-              "type": "spacing"
-            },
-            "Padding Horizontal": {
-              "value": "{Spacing.L}",
-              "type": "spacing"
-            }
-          }
-        },
-        "Content": {
-          "S": {
-            "Padding Vertical": {
-              "value": "{Spacing.XS}",
-              "type": "spacing"
-            },
-            "Padding Horizontal": {
-              "value": "{Spacing.S}",
-              "type": "spacing"
-            }
-          },
-          "L": {
-            "Padding Vertical": {
-              "value": "{Spacing.S}",
-              "type": "spacing"
-            },
-            "Padding Horizontal": {
-              "value": "{Spacing.L}",
-              "type": "spacing"
-            }
-          }
-        }
+      "S": {
+        "value": "16",
+        "type": "spacing"
       },
-      "Text Label": {
-        "Gap": {
-          "value": "{Spacing.3XS}",
-          "type": "spacing"
-        }
+      "M": {
+        "value": "20",
+        "type": "spacing"
       },
-      "Highlight Label": {
-        "S": {
-          "Gap": {
-            "value": "{Spacing.4XS}",
-            "type": "spacing"
-          }
-        },
-        "L": {
-          "Gap": {
-            "value": "{Spacing.3XS}",
-            "type": "spacing"
-          }
-        }
+      "L": {
+        "value": "24",
+        "type": "spacing"
       },
-      "Hyperlink": {
-        "S": {
-          "Gap Horizontal": {
-            "value": "{Spacing.3XS}",
-            "type": "spacing"
-          },
-          "Gap Vertical": {
-            "value": "{Spacing.4XS}",
-            "type": "spacing"
-          }
-        },
-        "M": {
-          "Gap Horizontal": {
-            "value": "{Spacing.3XS}",
-            "type": "spacing"
-          },
-          "Gap Vertical": {
-            "value": "{Spacing.4XS}",
-            "type": "spacing"
-          }
-        },
-        "L": {
-          "Gap Horizontal": {
-            "value": "{Spacing.3XS}",
-            "type": "spacing"
-          },
-          "Gap Vertical": {
-            "value": "{Spacing.4XS}",
-            "type": "spacing"
-          }
-        }
+      "XL": {
+        "value": "32",
+        "type": "spacing"
+      },
+      "2XL": {
+        "value": "40",
+        "type": "spacing"
+      },
+      "3XL": {
+        "value": "48",
+        "type": "spacing"
+      },
+      "4XL": {
+        "value": "56",
+        "type": "spacing"
       }
     },
     "Border Radius": {
-      "Card": {
-        "None": {
-          "value": "{Border Radius.None}",
-          "type": "borderRadius"
-        },
-        "XS": {
-          "value": "{Border Radius.XS}",
-          "type": "borderRadius"
-        },
-        "S": {
-          "value": "{Border Radius.S}",
-          "type": "borderRadius"
-        },
-        "M": {
-          "value": "{Border Radius.M}",
-          "type": "borderRadius"
-        },
-        "L": {
-          "value": "{Border Radius.L}",
-          "type": "borderRadius"
-        }
+      "None": {
+        "value": "0",
+        "type": "borderRadius"
       },
-      "Image": {
-        "None": {
-          "value": "{Border Radius.None}",
-          "type": "borderRadius"
-        },
-        "XS": {
-          "value": "{Border Radius.XS}",
-          "type": "borderRadius"
-        },
-        "S": {
-          "value": "{Border Radius.S}",
-          "type": "borderRadius"
-        },
-        "M": {
-          "value": "{Border Radius.M}",
-          "type": "borderRadius"
-        },
-        "Round": {
-          "value": "10000",
-          "type": "borderRadius"
-        }
-      }
-    },
-    "Shadow": {
-      "Tooltip": {
-        "value": [
-          {
-            "color": "rgba({Color.Brand.Brown.Dark}, 0.16)",
-            "type": "dropShadow",
-            "x": 0,
-            "y": 4,
-            "blur": 8,
-            "spread": 0
-          },
-          {
-            "color": "rgba({Color.Brand.Brown.Dark}, 0.12)",
-            "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 4,
-            "spread": 0
-          }
-        ],
-        "type": "boxShadow"
+      "XS": {
+        "value": "2",
+        "type": "borderRadius"
       },
-      "Card": {
-        "Standard": {
-          "value": [
-            {
-              "color": "rgba({Color.Black}, 0.04)",
-              "type": "dropShadow",
-              "x": 0,
-              "y": 4,
-              "blur": 8,
-              "spread": 0
-            },
-            {
-              "color": "rgba({Color.Black}, 0.02)",
-              "type": "dropShadow",
-              "x": 0,
-              "y": 2,
-              "blur": 4,
-              "spread": 0
-            }
-          ],
-          "type": "boxShadow"
-        },
-        "Selected": {
-          "value": [
-            {
-              "color": "#0089330f",
-              "type": "dropShadow",
-              "x": 0,
-              "y": 2,
-              "blur": 12,
-              "spread": 0
-            },
-            {
-              "color": "#0000000a",
-              "type": "dropShadow",
-              "x": 0,
-              "y": 1,
-              "blur": 4,
-              "spread": 0
-            },
-            {
-              "color": "#008933",
-              "type": "dropShadow",
-              "x": 0,
-              "y": 0,
-              "blur": 0,
-              "spread": 2
-            }
-          ],
-          "type": "boxShadow"
-        },
-        "Focus": {
-          "value": [
-            {
-              "color": "#0000000a",
-              "type": "dropShadow",
-              "x": 0,
-              "y": 4,
-              "blur": 8,
-              "spread": 0
-            },
-            {
-              "color": "#00000005",
-              "type": "dropShadow",
-              "x": 0,
-              "y": 2,
-              "blur": 4,
-              "spread": 0
-            },
-            {
-              "color": "{Color.Brand.Pink.Light}",
-              "type": "innerShadow",
-              "x": 0,
-              "y": 0,
-              "blur": 0,
-              "spread": 1
-            }
-          ],
-          "type": "boxShadow"
-        }
+      "S": {
+        "value": "4",
+        "type": "borderRadius"
       },
-      "Toast": {
-        "Bottom": {
-          "value": [
-            {
-              "color": "rgba({Color.Black}, 0.04)",
-              "type": "dropShadow",
-              "x": 0,
-              "y": -4,
-              "blur": 8,
-              "spread": 0
-            },
-            {
-              "color": "#rgba({Color.Black}, 0.02)",
-              "type": "dropShadow",
-              "x": 0,
-              "y": -2,
-              "blur": 4,
-              "spread": 0
-            }
-          ],
-          "type": "boxShadow"
-        },
-        "Top": {
-          "value": [
-            {
-              "color": "#rgba({Color.Black}, 0.04)",
-              "type": "dropShadow",
-              "x": 0,
-              "y": 4,
-              "blur": 8,
-              "spread": 0
-            },
-            {
-              "color": "#rgba({Color.Black}, 0.02)",
-              "type": "dropShadow",
-              "x": 0,
-              "y": 2,
-              "blur": 4,
-              "spread": 0
-            }
-          ],
-          "type": "boxShadow"
-        }
-      }
-    },
-    "Border": {
-      "Focus": {
-        "value": {
-          "color": "{Color.Brand.Pink.Light}",
-          "type": "innerShadow",
-          "x": 0,
-          "y": 0,
-          "blur": 0,
-          "spread": 1
-        },
-        "type": "boxShadow"
+      "M": {
+        "value": "20",
+        "type": "borderRadius"
       },
-      "Input": {
-        "Default": {
-          "value": {
-            "color": "{Color.Brand.Grey.Light}",
-            "type": "innerShadow",
-            "x": 0,
-            "y": 0,
-            "blur": 0,
-            "spread": 1
-          },
-          "type": "boxShadow"
-        },
-        "Focus": {
-          "value": [
-            {
-              "color": "{Color.Brand.Pink.Light}",
-              "type": "innerShadow",
-              "x": 0,
-              "y": 0,
-              "blur": 0,
-              "spread": 1
-            },
-            {
-              "color": "rgba({Color.Brand.Pink.Light}, 0.16)",
-              "type": "dropShadow",
-              "x": 0,
-              "y": 0,
-              "blur": 0,
-              "spread": 3
-            }
-          ],
-          "type": "boxShadow"
-        },
-        "Error": {
-          "value": {
-            "color": "{Color.Brand.Red.Mid}",
-            "type": "innerShadow",
-            "x": 0,
-            "y": 0,
-            "blur": 0,
-            "spread": 1
-          },
-          "type": "boxShadow"
-        }
-      },
-      "Card": {
-        "Default": {
-          "value": {
-            "color": "{Color.Brand.Grey.Special}",
-            "type": "dropShadow",
-            "x": 0,
-            "y": 0,
-            "blur": 0,
-            "spread": 1
-          },
-          "type": "boxShadow"
-        },
-        "Selected": {
-          "value": {
-            "color": "{Color.Accessibility.Confirm}",
-            "type": "innerShadow",
-            "x": 0,
-            "y": 0,
-            "blur": 0,
-            "spread": 2
-          },
-          "type": "boxShadow"
-        }
+      "L": {
+        "value": "40",
+        "type": "borderRadius"
       }
     },
     "Border Width": {
-      "Button Filter": {
-        "value": "{Border Width.S}",
+      "None": {
+        "value": "0",
         "type": "borderWidth"
       },
-      "Button Show More": {
-        "value": "{Border Width.None}",
+      "S": {
+        "value": "1",
+        "type": "borderWidth"
+      },
+      "M": {
+        "value": "2",
+        "type": "borderWidth"
+      },
+      "L": {
+        "value": "4",
         "type": "borderWidth"
       }
     }
